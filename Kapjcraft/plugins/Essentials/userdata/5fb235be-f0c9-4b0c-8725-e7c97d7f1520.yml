@@ -1,0 +1,22 @@
+lastAccountName: DaRaptor_Force
+timestamps:
+  login: 1467685973261
+  lastteleport: 1467684979796
+  kits:
+    member: 1467685029260
+  logout: 1467685982371
+ipAddress: 45.25.137.48
+lastlocation:
+  world: world
+  x: -120.30000001192093
+  y: 41.0
+  z: -14.10387630623728
+  yaw: -341.09543
+  pitch: 53.54999
+logoutlocation:
+  world: factions
+  x: -301.10882944178195
+  y: 67.0
+  z: 85.1791766790298
+  yaw: -16.350037
+  pitch: -3.7499945

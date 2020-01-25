@@ -1,0 +1,24 @@
+lastAccountName: Blackhunter44
+timestamps:
+  login: 1494471435880
+  logout: 1494473319313
+  lastteleport: 1494473473973
+  kits:
+    member: 1494471786911
+    titan: 1494471614709
+ipAddress: 99.246.15.246
+lastlocation:
+  world: world
+  x: -68.74306007515256
+  y: 7.0
+  z: 30.03895607842843
+  yaw: 28.30047
+  pitch: 4.4693575
+logoutlocation:
+  world: factions
+  x: 16.89070447969934
+  y: 73.0
+  z: -14.033660948214504
+  yaw: -291.61917
+  pitch: 33.7128
+money: '307325'

@@ -1,0 +1,21 @@
+geolocation: United States
+lastAccountName: Melon_Dino
+timestamps:
+  login: 1459114631980
+  logout: 1459114643319
+  lastteleport: 1459114033197
+ipAddress: 72.148.70.65
+lastlocation:
+  world: world
+  x: -129.56260304168245
+  y: 102.0
+  z: -20.429557066479774
+  yaw: 22.655706
+  pitch: -0.40082625
+logoutlocation:
+  world: world
+  x: -129.56260304168245
+  y: 102.0
+  z: -20.429557066479774
+  yaw: 22.655706
+  pitch: -0.40082625

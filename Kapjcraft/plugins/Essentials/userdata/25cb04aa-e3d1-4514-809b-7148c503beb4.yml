@@ -1,0 +1,33 @@
+geolocation: Canada
+lastAccountName: JAG07
+timestamps:
+  login: 1472160356480
+  logout: 1472160360347
+  lastteleport: 1471565603840
+ipAddress: 174.113.138.157
+lastlocation:
+  world: construct_1
+  x: 36.67387305851449
+  y: -66.50293152350189
+  z: 39.95808009510732
+  yaw: -173.35089
+  pitch: -64.87008
+nickname: §8Tyranitar
+logoutlocation:
+  world: skywars
+  x: 153.8989365728334
+  y: 26.3949283978715
+  z: -1.8490140672814808
+  yaw: -176.34595
+  pitch: 12.647841
+afk: false
+money: '200'
+godmode: false
+homes:
+  kapj:
+    world: factions
+    x: 771.4882987594011
+    y: 23.5
+    z: 69.5428013456168
+    yaw: 0.10232053
+    pitch: 25.8757

@@ -1,0 +1,20 @@
+lastAccountName: iCarrotPhone
+timestamps:
+  login: 1467685804106
+  logout: 1467686012510
+  lastteleport: 1467685982271
+ipAddress: 174.103.82.74
+lastlocation:
+  world: world
+  x: -149.5879355873941
+  y: 97.0
+  z: -20.807930995884938
+  yaw: 144.54956
+  pitch: 2.3486865
+logoutlocation:
+  world: shop
+  x: 1.989681623709227
+  y: 61.0
+  z: 50.72975611334579
+  yaw: -163.54156
+  pitch: -7.773089

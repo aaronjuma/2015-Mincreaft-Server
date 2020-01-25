@@ -1,0 +1,81 @@
+inventories:
+  99d546ec-bdc2-4199-a93a-5a47b60320a4:
+    contents:
+    - ==: org.bukkit.inventory.ItemStack
+      type: COMPASS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: Spectate Games
+        enchants:
+          LUCK: 1
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      type: EYE_OF_ENDER
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: §aOpen Lobby Menu
+        enchants:
+          LUCK: 1
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      type: DAYLIGHT_DETECTOR
+      meta:
+        ==: ItemMeta
+        meta-type: TILE_ENTITY
+        display-name: Join Game
+        enchants:
+          LUCK: 1
+        blockMaterial: DAYLIGHT_DETECTOR
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    armor:
+    - ==: org.bukkit.inventory.ItemStack
+      type: AIR
+      damage: -1
+      amount: 0
+    - ==: org.bukkit.inventory.ItemStack
+      type: AIR
+      damage: -1
+      amount: 0
+    - ==: org.bukkit.inventory.ItemStack
+      type: AIR
+      damage: -1
+      amount: 0
+    - ==: org.bukkit.inventory.ItemStack
+      type: AIR
+      damage: -1
+      amount: 0
+    level: 0
+    exp: 0.0
+    gameMode: SURVIVAL

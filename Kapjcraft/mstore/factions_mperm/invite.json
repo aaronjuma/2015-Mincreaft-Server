@@ -1,0 +1,12 @@
+{
+  "priority": 10000,
+  "name": "invite",
+  "desc": "invite players",
+  "standard": [
+    "LEADER",
+    "OFFICER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

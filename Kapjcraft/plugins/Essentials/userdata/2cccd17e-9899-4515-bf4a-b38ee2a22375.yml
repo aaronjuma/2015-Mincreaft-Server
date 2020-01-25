@@ -1,0 +1,21 @@
+geolocation: United States
+lastAccountName: mrslayer606
+timestamps:
+  login: 1459108019913
+  lastteleport: 1459108036084
+  logout: 1459108057517
+ipAddress: 174.103.207.115
+lastlocation:
+  world: world
+  x: -123.2944040129529
+  y: 66.0
+  z: -8.806917777876166
+  yaw: -132.45087
+  pitch: 61.64997
+logoutlocation:
+  world: world
+  x: -123.55229882164507
+  y: 41.0
+  z: -11.728269866358424
+  yaw: 209.1007
+  pitch: 15.149945

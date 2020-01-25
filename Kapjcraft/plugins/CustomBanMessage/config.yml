@@ -1,0 +1,4 @@
+BannedLine1: '&4&lBanned: &1By USER'
+BannedLine2: '&d&lReason: &b&l REASON'
+BannedLine3: '&d&lBan Length: &b&l BAN_TIME'
+BannedLine4: '&d&lAppeal Here: &b&l https://bit.do/kapjappeal'

@@ -1,0 +1,164 @@
+portals:
+  wild:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGamesYT
+    location: -132.0,98.0,-45.0:-128.0,98.0,-40.0
+    world: world
+  deez:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGamesYT
+    location: -133.0,98.0,-45.0:-127.0,98.0,-40.0
+    world: world
+  lol:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGamesYT
+    location: -133.0,98.0,-45.0:-128.0,102.0,-45.0
+    world: world
+    destination: e:factions:18.0,74.0,-4.0:0.0:0.0
+  weapons:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGamesYT
+    location: -135.0,73.0,-22.0:-135.0,77.0,-20.0
+    world: world
+    destination: e:shop:2.3695277892315074,61.0,50.5472194835133:18.29997:94.34949
+  raiding:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGamesYT
+    location: -131.0,73.0,-26.0:-129.0,77.0,-26.0
+    world: world
+    destination: e:shop:2.5081585073417045,61.0,48.25195828717635:18.299911:180.74944
+  blocks:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGamesYT
+    location: -125.0,73.0,-22.0:-125.0,77.0,-20.0
+    world: world
+    destination: e:world:-67.5,7.0,28.5:-3.3000066:91.968925
+  redstone:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGamesYT
+    location: -131.0,73.0,-16.0:-129.0,77.0,-16.0
+    world: world
+    destination: e:world:-87.4336179670703,7.0,29.682850786429526:4.5000076:88.668884
+  mi:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGamesYT
+    location: -7.0,110.0,25.0:3.0,118.0,25.0
+    world: spawn
+    destination: e:minigames:-186.0,67.0,361.0:0.0:0.0
+  kl:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGamesYT
+    location: -198.0,65.0,374.0:-198.0,69.0,377.0
+    world: minigames
+    destination: e:minigames:-134.0,4.0,150.0:0.0:0.0
+  mi1:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGames
+    location: -174.0,65.0,374.0:-174.0,69.0,377.0
+    world: minigames
+    destination: e:minigames:-26.0,4.0,162.0:0.0:0.0
+  f:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGames
+    location: -21.0,110.0,0.0:-21.0,118.0,10.0
+    world: spawn
+    destination: e:factions:18.0,74.0,-4.0:0.0:0.0
+  b2mg:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGames
+    location: 4.0,5.0,-6.0:4.0,12.0,4.0
+    world: skywars
+    destination: e:minigames:-186.0,67.0,361.0:0.0:0.0
+  skywar:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGames
+    location: -174.0,65.0,366.0:-174.0,69.0,369.0
+    world: minigames
+    destination: e:skywars:10.0,6.0,-1.0:0.0:0.0
+  plots:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGames
+    location: -198.0,65.0,366.0:-198.0,69.0,369.0
+    world: minigames
+    destination: e:plots:-24.0,71.0,-24.0:0.0:0.0
+  creative:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: KapjGames
+    location: 19.0,109.0,1.0:19.0,118.0,9.0
+    world: spawn
+    destination: e:plots:-24.0,71.0,-24.0:0.0:0.0

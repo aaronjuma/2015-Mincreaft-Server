@@ -1,0 +1,22 @@
+geolocation: United Kingdom
+lastAccountName: Zigmeh
+timestamps:
+  login: 1459114345385
+  lastteleport: 1459116138090
+  logout: 1459108738735
+ipAddress: 77.100.133.30
+lastlocation:
+  world: world
+  x: -130.4068497515438
+  y: 102.0
+  z: -18.965923793812063
+  yaw: -164.85118
+  pitch: 15.3146925
+logoutlocation:
+  world: world
+  x: -126.69999998807907
+  y: 41.0
+  z: -10.300000011920929
+  yaw: -166.8429
+  pitch: 27.08405
+socialspy: true

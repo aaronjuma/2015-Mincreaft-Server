@@ -1,0 +1,36 @@
+geolocation: Canada
+lastAccountName: KingPvP17
+timestamps:
+  login: 1471177421025
+  logout: 1471177532078
+  lastteleport: 1471106238161
+  kits:
+    oblivious: 1459811148152
+ipAddress: 72.137.143.253
+lastlocation:
+  world: Sakurasou
+  x: 1901.226751348849
+  y: 7.047668192248981
+  z: 1893.1739686101416
+  yaw: 217.90086
+  pitch: 55.62035
+logoutlocation:
+  world: Sakurasou
+  x: 691.3798634270368
+  y: 11.996551875090402
+  z: 177.86281737936648
+  yaw: 197.1576
+  pitch: 27.201328
+afk: false
+homes:
+  home:
+    world: factions
+    x: 760.1379864823291
+    y: 24.0
+    z: 68.42393865745335
+    yaw: 88.37305
+    pitch: 46.283733
+nickname: §1Vare
+money: '9999999798058'
+teleportenabled: true
+godmode: false

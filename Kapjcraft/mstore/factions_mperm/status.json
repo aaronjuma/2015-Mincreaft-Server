@@ -1,0 +1,12 @@
+{
+  "priority": 24000,
+  "name": "status",
+  "desc": "show status",
+  "standard": [
+    "LEADER",
+    "OFFICER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

@@ -1,0 +1,22 @@
+lastAccountName: CheesyCanine05
+timestamps:
+  login: 1468889241850
+  kits:
+    member: 1468888393867
+  logout: 1468890422875
+ipAddress: 75.129.126.153
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: factions
+  x: 200.30000001192093
+  y: 5.0
+  z: 24.49984174522962
+  yaw: 163.5639
+  pitch: -13.61692
+money: '0.0'

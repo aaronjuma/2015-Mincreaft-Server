@@ -1,0 +1,30 @@
+lastAccountName: TOBY_ELZINGA
+timestamps:
+  login: 1469905410178
+  lastteleport: 1469905492543
+  kits:
+    member: 1469905518847
+  logout: 1469905521696
+ipAddress: 84.29.12.111
+lastlocation:
+  world: factions
+  x: 11.775065697471748
+  y: 73.0
+  z: 4.52010293007113
+  yaw: 96.299866
+  pitch: 10.049991
+homes:
+  home:
+    world: factions
+    x: 7.642926544034584
+    y: 73.0
+    z: -6.612075976670489
+    yaw: 183.6
+    pitch: 36.149994
+logoutlocation:
+  world: factions
+  x: 12.826049058187293
+  y: 73.0
+  z: 1.4730904814210355
+  yaw: 270.1498
+  pitch: 20.699976

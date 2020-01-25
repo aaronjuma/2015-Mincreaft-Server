@@ -1,0 +1,25 @@
+geolocation: United States
+lastAccountName: Abdomens
+timestamps:
+  login: 1469787696401
+  lastteleport: 1469570544251
+  logout: 1469787705353
+  kits:
+    member: 1467676877118
+    titan: 1469570502444
+ipAddress: 68.39.78.244
+lastlocation:
+  world: factions
+  x: 19.33259777040038
+  y: 74.0
+  z: -6.414964743620288
+  yaw: 2.4572365
+  pitch: 35.020767
+logoutlocation:
+  world: spawn
+  x: 6.630646871332063
+  y: 111.0
+  z: 5.600191609304966
+  yaw: 92.60556
+  pitch: 11.968756
+money: '800'

@@ -1,0 +1,9 @@
+{
+  "priority": 2000,
+  "name": "painbuild",
+  "desc": "edit, take damage",
+  "standard": [],
+  "territory": true,
+  "editable": true,
+  "visible": true
+}

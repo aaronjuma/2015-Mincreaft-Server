@@ -1,0 +1,20 @@
+lastAccountName: moekai
+timestamps:
+  login: 1469246727714
+  lastteleport: 1469246762880
+  logout: 1469246979105
+ipAddress: 70.180.130.229
+lastlocation:
+  world: minigames
+  x: -184.91514491405758
+  y: 66.0
+  z: 366.4084377545264
+  yaw: 127.08273
+  pitch: -0.1450282
+logoutlocation:
+  world: skywars
+  x: 9.0
+  y: 6.0
+  z: -1.0
+  yaw: -89.0
+  pitch: -16.0

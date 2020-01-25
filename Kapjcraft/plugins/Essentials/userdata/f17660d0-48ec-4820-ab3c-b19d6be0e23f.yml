@@ -1,0 +1,21 @@
+lastAccountName: ExcalibuRv2
+timestamps:
+  login: 1468631520185
+  logout: 1468632250659
+  kits:
+    member: 1468631973311
+ipAddress: 75.83.207.47
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: factions
+  x: 16.25750281797199
+  y: 72.0
+  z: 12.871810275876175
+  yaw: 219.0054
+  pitch: 8.530621

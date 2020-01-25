@@ -1,0 +1,33 @@
+geolocation: Canada
+lastAccountName: TheDashDevil
+timestamps:
+  login: 1471651055029
+  logout: 1471650045507
+  lastteleport: 1471649989681
+ipAddress: 174.92.68.132
+lastlocation:
+  world: minigames
+  x: -187.0361152408349
+  y: 66.0
+  z: 384.69999998807907
+  yaw: 1.2
+  pitch: 7.0500016
+logoutlocation:
+  world: plots
+  x: 81.09991422730602
+  y: 65.0
+  z: -47.68263794034994
+  yaw: 93.44995
+  pitch: 67.49997
+nickname: §4§lDevil
+money: '-1430.0'
+homes:
+  home:
+    world: factions
+    x: -1048.5998164735436
+    y: 20.0
+    z: 42.76881732543039
+    yaw: -15.113419
+    pitch: 17.549973
+afk: false
+godmode: false

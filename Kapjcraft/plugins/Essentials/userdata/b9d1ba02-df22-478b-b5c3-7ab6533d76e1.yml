@@ -1,0 +1,27 @@
+geolocation: United States
+lastAccountName: CoolKid55632
+timestamps:
+  login: 1468121236903
+  lastteleport: 1468119384784
+  logout: 1468121241254
+  kits:
+    member: 1467600929640
+    scout: 1468097411648
+ipAddress: 67.165.73.169
+lastlocation:
+  world: spawn
+  x: -1.7784215919810236
+  y: 114.0
+  z: 5.47237134996147
+  yaw: -22.650116
+  pitch: -9.749992
+nickname: §b§lCoolKid
+logoutlocation:
+  world: minigames
+  x: -121.97220330691175
+  y: 80.0
+  z: 141.61459462029964
+  yaw: 298.05057
+  pitch: 12.450002
+money: '49586435865'
+godmode: false

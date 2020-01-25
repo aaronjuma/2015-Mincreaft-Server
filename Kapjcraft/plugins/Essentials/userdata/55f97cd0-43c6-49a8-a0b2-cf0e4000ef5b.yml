@@ -1,0 +1,22 @@
+lastAccountName: Armzzy
+timestamps:
+  login: 1467601927112
+  kits:
+    member: 1467602021818
+  logout: 1467603007007
+ipAddress: 110.20.146.92
+geolocation: Australia
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: factions
+  x: -269.90819774079046
+  y: 59.0
+  z: 308.01036076709113
+  yaw: 217.92749
+  pitch: 86.268005

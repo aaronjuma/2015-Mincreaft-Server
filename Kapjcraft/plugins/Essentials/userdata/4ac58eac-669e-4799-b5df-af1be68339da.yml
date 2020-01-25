@@ -1,0 +1,21 @@
+geolocation: Australia
+lastAccountName: BanningBuilder
+timestamps:
+  login: 1459110539342
+  lastteleport: 1459111575765
+  logout: 1459112015057
+ipAddress: 101.183.89.213
+lastlocation:
+  world: world
+  x: -122.88321844518063
+  y: 41.0
+  z: -13.320667458296132
+  yaw: 184.24011
+  pitch: -6.779057
+logoutlocation:
+  world: world
+  x: -97.29435233894903
+  y: 72.0
+  z: -39.41494245378568
+  yaw: -245.87207
+  pitch: -8.2227545

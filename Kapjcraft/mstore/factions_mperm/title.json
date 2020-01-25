@@ -1,0 +1,12 @@
+{
+  "priority": 12000,
+  "name": "title",
+  "desc": "set titles",
+  "standard": [
+    "LEADER",
+    "OFFICER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

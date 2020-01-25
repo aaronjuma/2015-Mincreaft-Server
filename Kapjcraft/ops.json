@@ -1,0 +1,62 @@
+[
+  {
+    "uuid": "54d777a9-6f37-415e-aeda-8221df1794c1",
+    "name": "JockGaming",
+    "level": 5,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6f67fe69-7f08-44e5-8757-526f7a9d6854",
+    "name": "Pikachan",
+    "level": 5,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "47634e71-7e5f-46dc-b0cf-b7e3decd93f0",
+    "name": "Scramble123",
+    "level": 5,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f20729a4-3058-4bad-93f2-dd412fa4ec79",
+    "name": "KapjGames",
+    "level": 5,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "be5f4d2a-f328-4472-a210-46656ea04768",
+    "name": "KingMutziPlayz",
+    "level": 5,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e7cd8c2e-7fb6-4774-8491-08c29cd6237f",
+    "name": "TheDashDevil",
+    "level": 5,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "25cb04aa-e3d1-4514-809b-7148c503beb4",
+    "name": "JAG07",
+    "level": 5,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3a4c9766-b7c4-4bc7-9bcd-d680403d389a",
+    "name": "_YouAlwaysWin",
+    "level": 5,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "95307147-8690-4847-9fc9-14d965bfca2e",
+    "name": "KingPvP17",
+    "level": 5,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "94171be4-3f11-479a-895e-536a26da4d2f",
+    "name": "MechaWrecha274",
+    "level": 5,
+    "bypassesPlayerLimit": false
+  }
+]

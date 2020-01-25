@@ -1,0 +1,22 @@
+{
+  "name": "iron",
+  "createdAtMillis": 1468387355866,
+  "home": {
+    "w": "factions",
+    "lx": -32990.35325111581,
+    "ly": 76.0,
+    "lz": 33840.30000001192,
+    "p": 8.334694,
+    "y": 282.6035
+  },
+  "invitedPlayerIds": [
+    "1639ae3c-d901-45e1-85ae-fdc7bf1077be",
+    "54d777a9-6f37-415e-aeda-8221df1794c1",
+    "@console",
+    "a261f9fa-74b9-4e26-9fe4-200ce022e245",
+    "f17660d0-48ec-4820-ab3c-b19d6be0e23f"
+  ],
+  "relationWishes": {
+    "30c078bd-c0a5-48e3-805d-8418c67de02a": "TRUCE"
+  }
+}

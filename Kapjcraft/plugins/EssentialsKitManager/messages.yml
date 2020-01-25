@@ -1,0 +1,26 @@
+Command:
+  General:
+    In-game: '&cYou must be a player to use that command!'
+    Internal error: '&cAn internal error occurred.'
+    Usage: '&cUsage: &4/%s'
+    No permission: '&4You do not have access to that command.'
+    Command not found: '&cInvalid command: &4%s'
+    Numeric: '&6Please enter a valid integer between 0 and 2147483647 (inclusive).'
+    Reload:
+      Successful: '&6Successfully reloaded the configuration.'
+      Unsuccessful: '&cError: &4Unsuccessfully reloaded the configuration.'
+  Kit:
+    Delete:
+      Does not exist: '&4%s &cis not a valid kit.'
+      Successful: '&6Successfully deleted the kit, &c%s&6.'
+    Create:
+      Created: '&6Successfully created the kit, &c%s&6.'
+      Overwritten: '&6Successfully overwritten the kit, &c%s&6.'
+    Rename: '&6Successfully renamed &c%s &6to &c%s&6.'
+    List:
+      List message: '&6Kits: &a%s'
+      Individual message: '&4%s &6items:'
+      Format: '&6- %s'
+      Empty: '&4%s &6has no items in it.'
+    Set delay: '&6Successfully set the delay of &c%s &6to &4%s&6 seconds.'
+    Set cost: '&6Successfully set the cost of &c%s &6to &4$%s&6.'

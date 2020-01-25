@@ -1,0 +1,21 @@
+lastAccountName: MajorLeyEpic
+timestamps:
+  login: 1467679846192
+  kits:
+    member: 1467679900201
+  logout: 1467679958043
+ipAddress: 101.98.119.203
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: factions
+  x: 23.362935431493415
+  y: 73.0
+  z: -4.787289826623504
+  yaw: -6.2999396
+  pitch: 37.65

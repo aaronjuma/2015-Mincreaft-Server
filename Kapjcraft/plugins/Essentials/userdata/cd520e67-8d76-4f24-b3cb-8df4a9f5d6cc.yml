@@ -1,0 +1,22 @@
+lastAccountName: Aguait
+timestamps:
+  login: 1467684910091
+  kits:
+    member: 1467684982308
+  lastteleport: 1467685670720
+  logout: 1467686027585
+ipAddress: 70.173.211.227
+lastlocation:
+  world: world
+  x: -123.5844640392458
+  y: 41.0
+  z: -10.438924155729195
+  yaw: 110.83172
+  pitch: 65.20889
+logoutlocation:
+  world: world
+  x: -131.8305567976665
+  y: 103.5
+  z: -17.4782170561434
+  yaw: 127.7478
+  pitch: 55.014168

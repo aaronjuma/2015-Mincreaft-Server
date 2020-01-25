@@ -1,0 +1,30 @@
+lastAccountName: PING_PvP
+timestamps:
+  login: 1468517068964
+  lastteleport: 1468468599764
+  logout: 1468517083649
+  kits:
+    member: 1468385100444
+ipAddress: 62.208.36.157
+lastlocation:
+  world: factions
+  x: 1407.5769233567719
+  y: 67.0
+  z: -441.98979186925976
+  yaw: 281.91205
+  pitch: 24.439919
+logoutlocation:
+  world: factions
+  x: 804.2835068917014
+  y: 64.0
+  z: -1005.3759199004699
+  yaw: -121.912964
+  pitch: 13.395175
+homes:
+  home:
+    world: factions
+    x: 764.0293749255146
+    y: 68.0
+    z: -994.3474990301135
+    yaw: -72.13098
+    pitch: 16.598219

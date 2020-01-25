@@ -1,0 +1,29 @@
+lastAccountName: SilverPuffle274
+timestamps:
+  login: 1471650974747
+  lastteleport: 1471646778299
+  kits:
+    member: 1470096438787
+    titan: 1471485878515
+  logout: 1471650924490
+ipAddress: 104.183.42.10
+lastlocation:
+  world: factions
+  x: 71.99947794560575
+  y: 63.7531999805212
+  z: 12.367638996250571
+  yaw: -240.664
+  pitch: 6.9213276
+money: '9999999999999.0'
+logoutlocation:
+  world: spawn
+  x: 1.2108029353337206
+  y: 111.72535361605813
+  z: 21.374482450442216
+  yaw: -219.42285
+  pitch: 13.7642355
+afk: false
+powertools: {}
+powertoolsenabled: true
+godmode: false
+nickname: §2S§ei§2l§ev§2e§er

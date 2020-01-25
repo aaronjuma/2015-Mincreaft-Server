@@ -1,0 +1,21 @@
+geolocation: United States
+lastAccountName: SquishyGold
+timestamps:
+  login: 1471650547199
+  lastteleport: 1471575069688
+  logout: 1471650929492
+ipAddress: 104.183.42.10
+lastlocation:
+  world: skywars
+  x: 151.38132624996211
+  y: 5.166109260938214
+  z: 25.684363341387247
+  yaw: -250.56656
+  pitch: -9.745033
+logoutlocation:
+  world: spawn
+  x: -3.560791531035678
+  y: 110.0
+  z: 17.567031148642414
+  yaw: -85.56287
+  pitch: -20.396137

@@ -1,0 +1,29 @@
+jails: 
+  court: 
+    world: minigames
+    x: -334.94235472620585
+    y: 1.0
+    z: -735.5148739351487
+    yaw: 191.78223
+    pitch: 58.499996
+  jail: 
+    world: minigames
+    x: -334.97025001507075
+    y: 1.0
+    z: -735.8541322522224
+    yaw: 268.12793
+    pitch: 62.999985
+  animalabuse: 
+    world: factions
+    x: 16.699999988079067
+    y: 47.0
+    z: 3.6999999880790697
+    yaw: 138.45544
+    pitch: 20.549992
+  womenabuser: 
+    world: factions
+    x: 7.314553541310592
+    y: 47.0
+    z: 2.1647902343902863
+    yaw: -136.35022
+    pitch: 17.85002

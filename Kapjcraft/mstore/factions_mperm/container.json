@@ -1,0 +1,13 @@
+{
+  "priority": 6000,
+  "name": "container",
+  "desc": "use containers",
+  "standard": [
+    "LEADER",
+    "OFFICER",
+    "MEMBER"
+  ],
+  "territory": true,
+  "editable": true,
+  "visible": true
+}

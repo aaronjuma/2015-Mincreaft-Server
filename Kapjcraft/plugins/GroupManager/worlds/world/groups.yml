@@ -1,0 +1,293 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  Default:
+    default: true
+    permissions:
+    - -bukkit.command.kill
+    - blockparty.user
+    - essentials.build
+    - essentials.build.true
+    - essentials.home
+    - essentials.interact
+    - essentials.interact.*
+    - essentials.kit
+    - essentials.kit.member
+    - essentials.kit.member.
+    - essentials.kits
+    - essentials.kits.
+    - essentials.kits.member
+    - essentials.kits.member.
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.msg
+    - essentials.sethome
+    - essentials.sign.use.*
+    - essentials.sign.use.buy
+    - essentials.sign.use.free
+    - essentials.sign.use.free.
+    - essentials.signs.use.buy
+    - essentials.signs.use.free
+    - essentials.signs.use.sell
+    - essentials.signs.use.warp
+    - essentials.signs.use.warps
+    - essentials.spawn
+    - essentials.time
+    - essentials.use.sign.*
+    - essentials.use.sign.free
+    - essentials.warp
+    - essentials.warp.*
+    - essentials.warp.apply
+    - essentials.warps
+    - essentials.warps.*
+    - multiverse.portal.access.*
+    - plot.plots.4
+    - plots.permpack.basic
+    - plots.plot.4
+    - swr.kit.ender
+    - swr.kit.knight
+    - swr.opchest
+    - swr.play
+    - swr.projeffect
+    - swr.spectate
+    - swr.timevote
+    - swr.usecolor
+    - worldguard.build.block.interact.*
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    - titan
+    info:
+      prefix: '&8[&6Member&8] &6'
+      build: false
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - +vanish.effects.toggle.all
+    - -vanish.effects.*
+    - '*'
+    - bukkit.command.ban.*
+    - plots.grant.add
+    inheritance:
+    - admin
+    info:
+      prefix: '&0&khi&4&l[&6&n&lOWNER&4&l]&0&khi'
+      build: true
+      suffix: ''
+  Temp-Admin:
+    default: false
+    permissions: []
+    inheritance:
+    - admin
+    info:
+      prefix: '&6[&5Temp&6&4Admin&6]'
+      build: false
+      suffix: ''
+  HeadMod:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: '&0[&3Head-&2Mod&0]'
+      build: false
+      suffix: ''
+  Head-Mod:
+    default: false
+    permissions: []
+    inheritance:
+    - moderator
+    info:
+      prefix: '&0[&3Head&6-&3Mod&0]'
+      build: false
+      suffix: ''
+  Head-Builder:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: '&0&k L &0[&6&lHead-&3&lBuilder&0] &3&k L'
+      build: false
+      suffix: ''
+  Admin:
+    default: false
+    permissions:
+    - blockparty.admin
+    - blockparty.user
+    - essentials.*
+    - essentials.op
+    - essentials.seen
+    - factions.*
+    - swr.kit.*
+    - worldedit.*
+    - worldedit.*.
+    - worldedit.*>
+    - worldedit.wand
+    inheritance:
+    - moderator
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      prefix: '&0&l[&4Admin&0&l]'
+      build: true
+      suffix: ''
+  Arsenal:
+    default: false
+    permissions: []
+    inheritance:
+    - default
+    info:
+      prefix: '&4&khi&0&l[&n&o&4A&cr&4s&ce&4n&ca&4l&0&l]&4&khi'
+      build: false
+      suffix: ''
+  Titan:
+    default: false
+    permissions:
+    - essential.kit.titan
+    - essentials.kit.titan
+    - essentials.kits.titan
+    inheritance:
+    - default
+    info:
+      prefix: '&6&l[&4&lTITAN&6&l]'
+      build: true
+      suffix: ''
+  ViceAdmin:
+    default: false
+    permissions: []
+    inheritance:
+    - admin
+    info:
+      prefix: '&0&l[&3Vice&6-&cAdmin&0&l]'
+      build: false
+      suffix: ''
+  Co-Owner:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: '&1&l&nCo&1-&9&l&nOwner&1 &k'
+      build: false
+      suffix: ''
+  Builder:
+    default: false
+    permissions:
+    - bukkit.command.gamemode
+    - bukkit.command.gamemode.*
+    - essentials.gamemode
+    - essentials.gamemode.*
+    - essentials.gm.*
+    - essentials.gma
+    - essentials.gmc
+    - essentials.gms
+    - essentials.teleport
+    - essentials.tp
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
+    - trainee
+    info:
+      prefix: '&0&l[&2Helper&0&l]'
+      Prefix: '&0&l[&2Helper&0&l]'
+      build: true
+      suffix: ''
+  Guardian:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: '&6&khi&0[&bGuardian&0]&6&khi'
+      build: false
+      suffix: ''
+  Redstoner:
+    default: false
+    permissions: []
+    inheritance:
+    - admin
+    info:
+      prefix: '&0[&cRedstoner&0]'
+      build: false
+      suffix: ''
+  Moderator:
+    default: false
+    permissions:
+    - '&0[&3Moderator&0]'
+    - bukkit.command.gamemode
+    - bukkit.command.gamemode.*
+    - bukkit.command.gamemode.*.
+    - bukkit.command.gamemode.creative
+    - bukkit.command.gamemode.survival
+    - bukkit.command.gamemodes.
+    - bukkit.command.toggledownfall
+    - craftbukkit.command.gamemode.*
+    - essentials.gamemode.*
+    - essentials.gamemode.others
+    - plots.permpack.basic
+    - prefix
+    - ssentials.gamemode.others
+    inheritance:
+    - builder
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      prefix: '&8[&5Moderator&8] &5'
+      build: true
+      suffix: ''
+  Destroyer:
+    default: false
+    permissions:
+    - worldedit.region.*
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  Head-Admin:
+    default: false
+    permissions: []
+    inheritance:
+    - admin
+    info:
+      prefix: '&0 &k V&6[&2&l&nHead&6-&a&lAdmin&6] &0 &k V'
+      build: false
+      suffix: ''
+  Trainee:
+    default: false
+    permissions:
+    - essentials.kit.trainee
+    - essentials.kits.trainee
+    - swr.kit.legendary
+    inheritance:
+    - builder
+    info:
+      prefix: '&0[&6Trainee&0]&5'
+      build: false
+      suffix: ''
+  Admin+:
+    default: false
+    permissions: []
+    inheritance:
+    - admin
+    info:
+      prefix: '&b&khi&0&l[&1&lAdmin&4&l+&0&l]&b&khi&6'
+      build: false
+      suffix: ''
+      '&3&k': si &0&9&lAdmin&4&l+&0] &3&k iw

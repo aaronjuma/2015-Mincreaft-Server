@@ -1,0 +1,35 @@
+geolocation: United States
+lastAccountName: kizgoe
+timestamps:
+  login: 1468078775644
+  lastteleport: 1468078562436
+  kits:
+    member: 1467599476981
+  logout: 1468078852116
+ipAddress: 74.133.7.162
+lastlocation:
+  world: spawn
+  x: 3.9658427795379843
+  y: 115.33235905267776
+  z: 11.43335588798083
+  yaw: 58.79978
+  pitch: 23.400015
+nickname: kiz
+homes:
+  home:
+    world: factions
+    x: 881.797487946889
+    y: 63.0
+    z: -1285.8440816966968
+    yaw: 9.749847
+    pitch: 32.549965
+logoutlocation:
+  world: factions
+  x: -1046.5873095807392
+  y: 16.0
+  z: 176.92653018816603
+  yaw: 266.5981
+  pitch: 3.2999668
+powertools:
+  '35':
+  - smite

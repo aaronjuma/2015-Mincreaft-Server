@@ -1,0 +1,21 @@
+lastAccountName: SAVAGEREKTS
+timestamps:
+  login: 1468632293608
+  logout: 1468632661421
+  mute: 1468632764329
+ipAddress: 76.88.187.47
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: factions
+  x: 15.114790022541534
+  y: 63.0
+  z: -127.24638602702778
+  yaw: -205.12929
+  pitch: 72.77204
+muted: true

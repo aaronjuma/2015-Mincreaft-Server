@@ -1,0 +1,22 @@
+lastAccountName: _Tuff_
+timestamps:
+  login: 1469152446022
+  lastteleport: 1469150119060
+  logout: 1469152466257
+ipAddress: 174.92.68.132
+geolocation: Canada
+lastlocation:
+  world: spawn
+  x: 9.101052433589107
+  y: 4.455446989452922
+  z: 14.126777567473887
+  yaw: -331.50003
+  pitch: 12.899974
+logoutlocation:
+  world: spawn
+  x: -1.5226867876955978
+  y: 114.0
+  z: 6.179989757992027
+  yaw: -346.94745
+  pitch: 4.6499853
+money: '-1500'

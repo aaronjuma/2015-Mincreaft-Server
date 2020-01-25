@@ -1,0 +1,44 @@
+lastAccountName: 69MemesperSecond
+timestamps:
+  login: 1471152001176
+  kits:
+    member: 1468293082007
+  lastteleport: 1471152506562
+  logout: 1471152633593
+  jail: 0
+  mute: 0
+ipAddress: 98.251.8.162
+lastlocation:
+  world: spawn
+  x: -0.7027418659350786
+  y: 114.0
+  z: 5.640131849099757
+  yaw: -85.64737
+  pitch: 26.099976
+logoutlocation:
+  world: spawn
+  x: 176.87296133999746
+  y: 11.200000047683712
+  z: -129.75184591049475
+  yaw: 147.06642
+  pitch: 35.999996
+afk: false
+homes:
+  home:
+    world: minigames
+    x: 4576.704616358778
+    y: 55.0
+    z: -3740.6243047277985
+    yaw: 180.41992
+    pitch: 24.150017
+  court:
+    world: minigames
+    x: -333.61582920664426
+    y: 4.551623240819312
+    z: -734.4110594091838
+    yaw: -355.8658
+    pitch: 11.100006
+jailed: false
+socialspy: false
+muted: false
+nickname: 69MemesperSecond

@@ -1,0 +1,12 @@
+{
+  "priority": 18000,
+  "name": "access",
+  "desc": "grant territory",
+  "standard": [
+    "LEADER",
+    "OFFICER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

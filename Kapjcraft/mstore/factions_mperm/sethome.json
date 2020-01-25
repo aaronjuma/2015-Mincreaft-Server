@@ -1,0 +1,12 @@
+{
+  "priority": 14000,
+  "name": "sethome",
+  "desc": "set the home",
+  "standard": [
+    "LEADER",
+    "OFFICER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

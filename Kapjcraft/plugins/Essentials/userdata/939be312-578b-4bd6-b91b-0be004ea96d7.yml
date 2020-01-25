@@ -1,0 +1,33 @@
+lastAccountName: NoHaxButJustMe
+timestamps:
+  login: 1459704391991
+  lastteleport: 1459708039829
+  kits:
+    member: 1459701764190
+  logout: 1459708836607
+ipAddress: 86.179.169.123
+geolocation: United Kingdom
+lastlocation:
+  world: factions
+  x: 19.256570150832907
+  y: 74.0
+  z: -3.8274081256541646
+  yaw: -82.95003
+  pitch: 60.15001
+homes:
+  home:
+    world: shop
+    x: 0.4188677709611128
+    y: 4.0
+    z: 25.734871352867557
+    yaw: -169.65002
+    pitch: -52.800034
+nickname: §6§lNoHax§3§lButJustMe
+money: '9682.0'
+logoutlocation:
+  world: world
+  x: -125.40782569008493
+  y: 102.35723240140636
+  z: -24.441613968526646
+  yaw: 155.55534
+  pitch: 32.850014

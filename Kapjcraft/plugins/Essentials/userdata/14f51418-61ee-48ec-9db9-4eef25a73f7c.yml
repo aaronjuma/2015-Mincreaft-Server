@@ -1,0 +1,20 @@
+geolocation: United Kingdom
+lastAccountName: BaconBros123
+timestamps:
+  login: 1459109898556
+  logout: 1459110287816
+ipAddress: 90.207.17.226
+lastlocation:
+  world: world
+  x: -123.38887823370469
+  y: 41.0
+  z: -11.767306368332134
+  yaw: -22.305212
+  pitch: 19.565
+logoutlocation:
+  world: world
+  x: -123.8639001543645
+  y: 41.0
+  z: -13.639192493801298
+  yaw: -108.43567
+  pitch: 26.78826

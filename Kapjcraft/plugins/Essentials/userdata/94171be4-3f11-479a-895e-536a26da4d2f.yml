@@ -1,0 +1,54 @@
+geolocation: United States
+lastAccountName: MechaWrecha274
+timestamps:
+  login: 1471650791262
+  lastteleport: 1471650795343
+  logout: 1471647139967
+  kits:
+    member: 1459719737459
+  mute: 0
+  jail: 0
+ipAddress: 172.5.137.215
+lastlocation:
+  world: spawn
+  x: -5.521196475208714
+  y: 112.0
+  z: 4.433709275984766
+  yaw: 144.0231
+  pitch: 47.078358
+logoutlocation:
+  world: spawn
+  x: -1.219804816881965
+  y: 119.5
+  z: 7.21121593919916
+  yaw: 122.87785
+  pitch: 54.709282
+money: '9999998699160.0'
+afk: false
+godmode: true
+nickname: Greninja
+muted: false
+jailed: false
+powertools:
+  '261':
+  - jump
+  '302':
+  - smite
+  '304':
+  - smite
+  '303':
+  - smite
+  '305':
+  - smite
+  '5':
+  - jump
+  '276':
+  - kittycannon
+homes:
+  home:
+    world: spawn
+    x: 158.7915884214669
+    y: 5.0
+    z: -6.3235419434235585
+    yaw: 62.1781
+    pitch: 51.724007

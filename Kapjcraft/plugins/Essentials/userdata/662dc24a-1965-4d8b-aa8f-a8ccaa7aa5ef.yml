@@ -1,0 +1,21 @@
+lastAccountName: green_claw
+timestamps:
+  login: 1468156179283
+  kits:
+    member: 1468156297389
+  logout: 1468157759366
+ipAddress: 99.246.179.220
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: factions
+  x: -0.19268214620416962
+  y: 65.0
+  z: 84.69999998807907
+  yaw: 2.9999843
+  pitch: 35.399918

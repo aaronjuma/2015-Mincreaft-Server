@@ -1,0 +1,30 @@
+lastAccountName: Grammarly
+timestamps:
+  login: 1467685309663
+  kits:
+    member: 1467685498933
+  lastteleport: 1467690287686
+  logout: 1467691151467
+ipAddress: 76.97.217.156
+lastlocation:
+  world: factions
+  x: 194.88456425739466
+  y: 38.0
+  z: 111.5484136459886
+  yaw: 282.30652
+  pitch: -71.550064
+homes:
+  home:
+    world: factions
+    x: 189.62310066558788
+    y: 58.0
+    z: 81.88084713575833
+    yaw: 182.84995
+    pitch: 5.3999333
+logoutlocation:
+  world: factions
+  x: 193.43846275414623
+  y: 58.0
+  z: 77.62289140860318
+  yaw: -320.9934
+  pitch: 21.599997

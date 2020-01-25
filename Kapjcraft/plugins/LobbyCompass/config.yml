@@ -1,0 +1,60 @@
+# #############################################
+# #      - LobbyCompass by Dreieck52 -        #
+# #############################################
+# # Option 'executedByPlayer' means:
+# #    > true = Command is executed as the player typed it
+# #    > false = Command is executed by console (%n% is player name)
+# # There can be only at most 6 lines in one inventory!
+# # If get-compass-on-join-slot is -1 it will add the compass in a free slot
+# # NOTE: If you wish, you can disable auto-updating in -Updater/config.yml-
+# #############################################
+
+compass-name: '&f&lClick this to open warp menu!'
+compass-inventory-name: '&a&lAWESOME Warp-Compass Oo'
+get-compass-on-join: true
+get-compass-on-join-slot: 4
+get-compass-worlds:
+- spawn
+only-allow-command-lc_get-in-worlds: true
+can-drop-compass: false
+inventory-lines-amount: 4
+sound-effect: true
+options:
+- creative
+- factions
+data:
+  spawn:
+    name: '&e&lSpawn / Lobby'
+    lore:
+    - '&7Click this Item to execute command'
+    - '&8&l/warp spawn'
+    - '&7another line :D'
+    item: 2
+    cmd: warp spawn
+    executedByPlayer: true
+    position-in-inventory: 10
+  pvp:
+    name: '&c&lPvP Zone'
+    lore:
+    - '&cD&ei&as&bc&do'
+    - '&8&l/pvp <player> join'
+    item: 267
+    cmd: pvp %n% join
+    executedByPlayer: false
+    position-in-inventory: 19
+  creative:
+    name: '&e&lCreative'
+    lore:
+    - '&7Play and build in creative!'
+    item: 2
+    cmd: warp creative
+    executedByPlayer: true
+    position-in-inventory: 10
+  factions:
+    name: '&4&lFACTIONS'
+    lore:
+    - '&3Join and Conquer in factions!'
+    item: 267
+    cmd: warp factions
+    executedByPlayer: true
+    position-in-inventory: 19

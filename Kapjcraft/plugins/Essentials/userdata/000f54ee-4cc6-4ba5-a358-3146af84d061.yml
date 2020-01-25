@@ -1,0 +1,31 @@
+lastAccountName: SQWEEZZSTR
+timestamps:
+  login: 1469070997419
+  logout: 1469071130661
+  lastteleport: 1469070447676
+  mute: 1469071322808
+ipAddress: 24.77.203.236
+geolocation: Canada
+lastlocation:
+  world: minigames
+  x: -334.3918265932013
+  y: 1.0
+  z: -741.6999999880791
+  yaw: 41.838615
+  pitch: 13.92008
+homes:
+  home:
+    world: world
+    x: -122.80446855730577
+    y: 101.0
+    z: -21.514447909525078
+    yaw: -96.35518
+    pitch: 3.3407474
+logoutlocation:
+  world: factions
+  x: 16.775965502244958
+  y: 73.0
+  z: 3.86676225563342
+  yaw: -90.72583
+  pitch: -9.293938
+muted: true

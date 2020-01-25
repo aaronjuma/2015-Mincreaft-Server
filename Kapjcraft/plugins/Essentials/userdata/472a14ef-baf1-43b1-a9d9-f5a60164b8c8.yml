@@ -1,0 +1,23 @@
+geolocation: Canada
+lastAccountName: Pandawarrrior
+timestamps:
+  login: 1467599459321
+  lastteleport: 1467599586169
+  kits:
+    member: 1467599709786
+  logout: 1467599946114
+ipAddress: 24.212.183.89
+lastlocation:
+  world: world
+  x: -123.93163141639499
+  y: 41.0
+  z: -10.300000011920933
+  yaw: 199.81561
+  pitch: 7.800001
+logoutlocation:
+  world: factions
+  x: 16.212597956899494
+  y: 73.0
+  z: -11.076327944041557
+  yaw: -40.582893
+  pitch: 4.6176476

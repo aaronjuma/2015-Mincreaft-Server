@@ -1,0 +1,21 @@
+lastAccountName: Scramble123
+timestamps:
+  login: 1470594384343
+  logout: 1470594716770
+  lastteleport: 1470594700522
+ipAddress: 198.84.204.208
+lastlocation:
+  world: minigames
+  x: -131.6294970687275
+  y: 9.0
+  z: 27.656567467433447
+  yaw: 179.02716
+  pitch: 5.301407
+logoutlocation:
+  world: minigames
+  x: -133.78253310641782
+  y: 14.0
+  z: 58.78957998715561
+  yaw: 215.34737
+  pitch: 15.45021
+money: '200'

@@ -1,0 +1,55 @@
+geolocation: United States
+lastAccountName: birdo1959
+timestamps:
+  login: 1471565520861
+  lastteleport: 1471565862538
+  kits:
+    member: 1469234453963
+    scout: 1467685511650
+    titan: 1470183744267
+    heavy: 1467685507499
+  logout: 1471566400884
+  jail: 0
+ipAddress: 98.251.7.122
+lastlocation:
+  world: skywars
+  x: 22.730199206600318
+  y: 8.356487998463136
+  z: 24.492485525548368
+  yaw: -31.99998
+  pitch: 5.8499885
+nickname: §d§lBirdo
+logoutlocation:
+  world: skywars
+  x: 173.87214501194225
+  y: 21.189988201782544
+  z: 24.110227813429063
+  yaw: 225.02295
+  pitch: 80.249954
+afk: false
+money: '99.0'
+godmode: false
+socialspy: true
+homes:
+  home:
+    world: factions
+    x: 1778.051966997328
+    y: 220.0
+    z: 1783.7002667571849
+    yaw: 54.753143
+    pitch: 45.74996
+  cane:
+    world: factions
+    x: 836.6999999880791
+    y: 7.0
+    z: 40.47041135833012
+    yaw: 11.863037
+    pitch: -2.7000256
+  tnt:
+    world: minigames
+    x: 4579.637511450962
+    y: 54.0
+    z: -3749.719792987983
+    yaw: 240.4179
+    pitch: 18.600044
+jailed: false

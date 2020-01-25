@@ -1,0 +1,20 @@
+geolocation: Latvia
+lastAccountName: ChilledBeef
+timestamps:
+  login: 1459109070079
+  logout: 1459109132163
+ipAddress: 87.110.65.37
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -413.93608168490584
+  y: 66.0
+  z: -73.88592475124825
+  yaw: -268.80118
+  pitch: 16.050179

@@ -1,0 +1,25 @@
+geolocation: Canada
+lastAccountName: DOGEisMLG
+timestamps:
+  login: 1471530635135
+  lastteleport: 1471530800706
+  logout: 1471531046138
+ipAddress: 99.230.128.48
+lastlocation:
+  world: spawn
+  x: 3.010172863970283
+  y: 112.0
+  z: 5.504570822109238
+  yaw: 273.14694
+  pitch: 8.550059
+logoutlocation:
+  world: spawn
+  x: 3.6132647285019193
+  y: 8.044472961983862
+  z: 52.596297474876664
+  yaw: -342.02936
+  pitch: 24.899914
+nickname: KingMutziPlayz
+money: '0.0'
+godmode: false
+afk: false

@@ -1,0 +1,20 @@
+geolocation: United States
+lastAccountName: ronytiti
+timestamps:
+  login: 1467645646579
+  logout: 1467645700102
+ipAddress: 76.110.118.218
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -132.8059367657425
+  y: 99.0
+  z: -40.46046075978909
+  yaw: -59.84427
+  pitch: 9.049225

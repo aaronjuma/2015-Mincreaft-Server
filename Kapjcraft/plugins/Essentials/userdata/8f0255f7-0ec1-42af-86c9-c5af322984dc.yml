@@ -1,0 +1,28 @@
+geolocation: Canada
+lastAccountName: ItsMp
+timestamps:
+  login: 1469713618945
+  logout: 1469713667069
+  lastteleport: 1469112842675
+  kits:
+    member: 1459710866000
+    '2': 1459710877486
+    '1': 1459710872399
+ipAddress: 72.137.100.104
+lastlocation:
+  world: plots
+  x: 65.4876530759702
+  y: 68.41113118587033
+  z: 81.697157448901
+  yaw: 166.95074
+  pitch: 52.64997
+logoutlocation:
+  world: plots
+  x: 50.9443644226148
+  y: 69.36445605997292
+  z: 18.562018687749557
+  yaw: 1.95047
+  pitch: 22.50001
+nickname: §4§lilickedickadonce
+money: '3100'
+afk: false

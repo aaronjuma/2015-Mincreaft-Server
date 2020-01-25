@@ -1,0 +1,15 @@
+{
+  "priority": 3000,
+  "name": "door",
+  "desc": "use doors",
+  "standard": [
+    "LEADER",
+    "OFFICER",
+    "MEMBER",
+    "RECRUIT",
+    "ALLY"
+  ],
+  "territory": true,
+  "editable": true,
+  "visible": true
+}

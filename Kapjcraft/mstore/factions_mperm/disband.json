@@ -1,0 +1,11 @@
+{
+  "priority": 21000,
+  "name": "disband",
+  "desc": "disband the faction",
+  "standard": [
+    "LEADER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

@@ -1,0 +1,23 @@
+lastAccountName: Mumargi
+timestamps:
+  login: 1470679353757
+  logout: 1470679379114
+  kits:
+    member: 1468595405572
+  lastteleport: 1468596294754
+ipAddress: 174.113.130.56
+geolocation: Canada
+lastlocation:
+  world: factions
+  x: -39.9102480086313
+  y: 64.0
+  z: -96.66426338627934
+  yaw: -73.05034
+  pitch: 34.649902
+logoutlocation:
+  world: world
+  x: -133.69999998807907
+  y: 100.0
+  z: 3.0462455023409167
+  yaw: -124.794266
+  pitch: 40.099186

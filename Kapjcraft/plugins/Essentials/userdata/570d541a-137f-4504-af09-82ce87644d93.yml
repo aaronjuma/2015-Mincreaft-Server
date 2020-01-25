@@ -1,0 +1,33 @@
+lastAccountName: GynxUni
+timestamps:
+  login: 1469583050903
+  logout: 1469585969954
+  lastteleport: 1469585313424
+  kits:
+    archer: 1469585879824
+ipAddress: 71.82.1.37
+lastlocation:
+  world: construct_1
+  x: -33.551042275334254
+  y: -64.74902625610297
+  z: -6.911474694930085
+  yaw: 48.149982
+  pitch: -41.699993
+logoutlocation:
+  world: minigames
+  x: -186.0
+  y: 67.0
+  z: 361.0
+  yaw: 224.99997
+  pitch: 46.500004
+money: '6700'
+afk: false
+homes:
+  home:
+    world: factions
+    x: 775.8398303694512
+    y: 24.0
+    z: 66.70924230672935
+    yaw: 145.94502
+    pitch: 10.899195
+nickname: §3UniDatGirl

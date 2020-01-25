@@ -1,0 +1,338 @@
+owner:
+  location: world, -124.702, 173.700, -24.546
+  lines:
+  - '&4&lOwner'
+admin1:
+  location: world, -122.528, 173.700, -20.299
+  lines:
+  - '&4Admin'
+admin2:
+  location: world, -118.518, 173.700, -20.299
+  lines:
+  - '&4Admin'
+head-admin:
+  location: world, -120.576, 173.700, -20.300
+  lines:
+  - '&4&lHead-Adin'
+builder1:
+  location: world, -116.298, 173.700, -22.482
+  lines:
+  - '&2&lBuilder'
+builder2:
+  location: world, -116.299, 173.700, -26.518
+  lines:
+  - '&2&lBuilder'
+head-builder:
+  location: world, -116.297, 173.700, -24.529
+  lines:
+  - '&a&lHead-Builder'
+mod1:
+  location: world, -120.523, 173.700, -28.701
+  lines:
+  - '&5Moderator'
+mod2:
+  location: world, -122.538, 173.700, -28.705
+  lines:
+  - '&5Moderator'
+dev:
+  location: world, -123.704, 173.132, -27.705
+  lines:
+  - '&b&lDeveloper'
+co1:
+  location: world, -124.700, 173.884, -26.528
+  lines:
+  - '&c&lCo-Owner'
+co2:
+  location: world, -125.128, 173.884, -22.509
+  lines:
+  - '&c&lCo-Owner'
+apprentice:
+  location: world, -123.701, 173.700, -21.299
+  lines:
+  - '&b&lSky''s'
+  - '&b&lApprentice'
+mod3:
+  location: world, -118.423, 173.700, -28.700
+  lines:
+  - '&5Moderator'
+qwe:
+  location: world, -120.697, 104.200, -20.532
+  lines:
+  - '&c&khi&4&lRULES&c&khi'
+shop:
+  location: world, -138.576, 104.200, -20.458
+  lines:
+  - '&bShop!'
+shopportal:
+  location: world, -149.809, 102.121, -20.523
+  lines:
+  - '&6&khi&bJump down to go to shop&6&khi'
+  - '&b|'
+  - '&b|'
+  - '&b|'
+  - '&lV'
+warps:
+  location: world, -129.694, 103.886, -10.892
+  lines:
+  - '&b&khi&6Staff&b&khi'
+north:
+  location: factions, 18.537, 75.200, -5.807
+  lines:
+  - '&b&khi&6North&b&khi'
+south:
+  location: factions, 18.473, 75.200, -1.478
+  lines:
+  - '&b&khi&6South&b&khi'
+west:
+  location: factions, 16.789, 75.200, -3.548
+  lines:
+  - '&b&khi&6West&b&khi'
+east:
+  location: factions, 20.672, 75.200, -3.693
+  lines:
+  - '&b&khi&6East&b&khi'
+fact:
+  location: world, -129.520, 102.605, -42.813
+  lines:
+  - '&b&khi &6Go to Factions&b&khi'
+  - '&b&khi&6|&b&khi'
+  - '&b&khi&6|&b&khi'
+  - '&b&khi&6|&b&khi'
+  - '&b&khi&6V&b&khi'
+fac:
+  location: world, -129.375, 103.865, -29.535
+  lines:
+  - '&b&khi&6Factions&b&khi'
+rules:
+  location: spawn, -1.574, 113.500, -14.410
+  lines:
+  - '&4Rules of the server!'
+  - '&3[&41&3]&cNo Spamming or Advertising|&5Result=Mute or 10 day Tempban'
+  - '&3[&42&3]&cNo Asking for items or staff|&5Result=1 hour Mute'
+  - '&3[&43&3]&cNo Racism or Agressive Swearing|&5Result=2 hour mute'
+  - '&3[&44&3]&cNo Hacking (Look at the right to see allowed mods)|&5Result=4 day
+    TempB'
+hai:
+  location: shop, 2.413, 10.154, 47.333
+  lines:
+  - '&1 Welcome To KapjCraft Factions'
+hui:
+  location: world, -164.757, 10.200, -146.440
+  lines:
+  - '&1Blaze&4Clan'
+urmom:
+  location: world, -165.035, 9.200, -141.047
+  lines:
+  - '&1Josh''s &4Room'
+raid:
+  location: factions, 18.463, 125.000, -6.505
+  lines:
+  - '&8&khi&4&lRaiding Equipment&8&khi'
+diamond:
+  location: factions, 15.541, 125.000, -3.550
+  lines:
+  - '&8&khi&b&lDiamond&8&khi'
+lolmom:
+  location: world, -67.459, 9.114, 28.503
+  lines:
+  - '&9&kHi&1BuildingBlocks&9&kHi'
+iron:
+  location: factions, 18.611, 125.000, -0.296
+  lines:
+  - '&8&khi&f&lIron&8&khi'
+spawner:
+  location: factions, 21.575, 125.000, -3.506
+  lines:
+  - '&8&khi&e&lSpawners&8&khi'
+raidportal:
+  location: world, -129.414, 75.200, -24.693
+  lines:
+  - '&4Raiding Shop'
+blockportal:
+  location: world, -125.664, 75.200, -20.530
+  lines:
+  - '&8Block Shop'
+redshop:
+  location: world, -129.489, 75.200, -16.737
+  lines:
+  - '&cRedstone Shop'
+armourportal:
+  location: world, -133.400, 75.200, -20.558
+  lines:
+  - '&bArmor&6/&bWeapon &dShop'
+hi:
+  location: world, -87.543, 10.200, 29.660
+  lines:
+  - '&4 Redstone Shop'
+sup:
+  location: minigames, -148.305, 8.111, 68.432
+  lines:
+  - '&9 Run!'
+lvl1:
+  location: minigames, -131.405, 5.200, 64.615
+  lines:
+  - '&bWater World'
+  - Level 1
+  - '&aEasy'
+lvl2:
+  location: minigames, -136.301, 5.200, 69.432
+  lines:
+  - '&1Miner &3World'
+  - Level 2
+  - '&1Medium'
+lvl3:
+  location: minigames, -131.536, 5.200, 74.741
+  lines:
+  - '&4Nether Realm'
+  - Level 3
+  - '&cHard'
+lvl4:
+  location: minigames, -126.285, 5.200, 69.454
+  lines:
+  - '&2Earth'
+  - Level 4
+  - '&4&lInsane!'
+a:
+  location: minigames, -22.632, 6.082, 170.700
+  lines:
+  - '&6 Scout'
+heavt:
+  location: minigames, -28.562, 6.082, 170.700
+  lines:
+  - '&6Heavy'
+b:
+  location: minigames, -17.300, 6.200, 165.625
+  lines:
+  - '&6 Sniper'
+c:
+  location: minigames, -17.411, 6.200, 159.429
+  lines:
+  - '&6 Archer'
+d:
+  location: minigames, -33.485, 6.200, 165.478
+  lines:
+  - '&6 King'
+mnigms:
+  location: spawn, -1.544, 112.739, 12.659
+  lines:
+  - '&b&khi &6&lMiniGames &b&khi'
+mg1:
+  location: minigames, -190.635, 67.500, 375.973
+  lines:
+  - '&b&khi &6King Of The Ladder &b&khi'
+suh:
+  location: minigames, -185.458, 68.827, 351.300
+  lines:
+  - '&k&6 Roller Coaster!'
+kingpvp:
+  location: minigames, -180.557, 67.200, 376.059
+  lines:
+  - '&b&khi &6KitPvP &b&khi'
+facs:
+  location: spawn, -9.675, 113.112, 5.537
+  lines:
+  - '&b&khi &6&lFactions &b&khi'
+fyi:
+  location: spawn, -1.497, 112.739, -2.486
+  lines:
+  - '&b&khi &4&lRULES AND INFO &b&khi'
+app:
+  location: spawn, -43.300, 5.708, 289.368
+  lines:
+  - '&4&lTo Apply Go to: &6https://bit.do/kapjapps'
+ban:
+  location: spawn, -6.499, 113.000, -9.374
+  lines:
+  - '&4&lTo Appeal your mute/temp-ban/or you ban! &6&lGo to: &bhttps:bit.do/kapjappeal'
+allowed:
+  location: spawn, 3.536, 114.700, -9.553
+  lines:
+  - '&6Allowed Mods'
+  - '&5DMG Indicator'
+  - '&5OptiFine'
+  - '&5MiniMaps'
+ranks:
+  location: spawn, 0.906, 112.612, -4.300
+  lines:
+  - '&b&khi &6Ranks &b&khi'
+  - '&3Member'
+  - '&2Veteran'
+  - '&7Destoryer'
+  - '&fAngel'
+  - '&4&lTITAN'
+jag:
+  location: factions, 437.048, 191.738, 19.554
+  lines:
+  - '&1&l Jag''s Room'
+sw1:
+  location: skywars, 9.608, 8.000, 4.948
+  lines:
+  - '&4&khihi&6Jump Down to Join A Game!&4&khihi'
+  - '&6|'
+  - '&6|'
+  - '&6|'
+  - '&6|'
+  - '&6\/'
+sw2:
+  location: skywars, 9.507, 8.000, -6.007
+  lines:
+  - '&4&khihi&6Jump Down to Join A Game!&4&khihi'
+  - '&6|'
+  - '&6|'
+  - '&6|'
+  - '&6|'
+  - '&6\/'
+sw111:
+  location: minigames, -180.300, 68.000, 368.005
+  lines:
+  - '&b&khi&c&lSKYWARS&b&khi'
+pts1:
+  location: plots, -25.801, 71.700, -23.431
+  lines:
+  - '&6&khi &b&lDo &c/p auto &b&lto go make a plot! &6&khi'
+pts2:
+  location: plots, -23.480, 71.700, -25.810
+  lines:
+  - '&6&khi &b&lDo &c/p auto &b&lto go make a plot! &6&khi'
+pts3:
+  location: plots, -21.021, 71.700, -23.592
+  lines:
+  - '&6&khi &b&lDo &c/p auto &b&lto go make a plot! &6&khi'
+pts4:
+  location: plots, -23.433, 71.700, -21.166
+  lines:
+  - '&6&khi &b&lDo &c/p auto &b&lto go make a plot! &6&khi'
+creative:
+  location: minigames, -190.700, 67.761, 367.814
+  lines:
+  - '&4&klolol&6&lCREATIVE&4&klolol'
+jag07:
+  location: plots, -111.301, 67.152, 21.091
+  lines:
+  - '&4&l THIS IS JAG''S MARKET'
+  - '&4&lThis is JAG''s room'
+jag007:
+  location: plots, 10.152, 61.200, 88.301
+  lines:
+  - '&4&lThis is JAG''s room'
+line:
+  location: spawn, -19.260, 4.007, -14.602
+  lines:
+  - Pls sacrifice yourself to the almighty shrek!
+  - Pls just jump in the lava... OR ELSE!
+die:
+  location: spawn, 63.802, 6.739, 18.556
+  lines:
+  - You can't run sacrifice now!
+feriousdestroyer:
+  location: spawn, 152.300, 6.700, 1.700
+  lines:
+  - 'Pat: Help me out plz!'
+dantdm:
+  location: spawn, 153.968, 6.700, -5.468
+  lines:
+  - 'Dan: Plz help me outa here!!!'
+preston:
+  location: spawn, 152.580, 6.700, -12.379
+  lines:
+  - 'Preston: Plz dude let me out! I have vids to upload!!!'

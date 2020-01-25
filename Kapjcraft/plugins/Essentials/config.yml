@@ -1,0 +1,342 @@
+# 
+# +------------------------------------------------------+ #
+# |                       Notes                          | #
+# +------------------------------------------------------+ #
+ops-name-color: '4'
+nickname-prefix: ''
+max-nick-length: 30
+change-displayname: true
+teleport-safety: true
+teleport-cooldown: 10
+teleport-delay: 2
+teleport-invulnerability: 0
+heal-cooldown: 60
+permission-based-item-spawn: false
+spawnmob-limit: 10
+warn-on-smite: true
+socialspy-commands:
+- msg
+- w
+- r
+- mail
+- m
+- t
+- whisper
+- emsg
+- tell
+- er
+- reply
+- ereply
+- email
+- action
+- describe
+- eme
+- eaction
+- edescribe
+- etell
+- ewhisper
+- pm
+player-commands:
+- afk
+- afk.auto
+- back
+- back.ondeath
+- balance
+- balance.others
+- balancetop
+- build
+- chat.color
+- chat.format
+- chat.shout
+- chat.question
+- clearinventory
+- compass
+- depth
+- delhome
+- getpos
+- geoip.show
+- help
+- helpop
+- home
+- home.others
+- ignore
+- info
+- itemdb
+- kit
+- kits.tools
+- list
+- mail
+- mail.send
+- me
+- motd
+- msg
+- msg.color
+- nick
+- near
+- pay
+- ping
+- protect
+- r
+- rules
+- realname
+- seen
+- sell
+- sethome
+- setxmpp
+- signs.create.protection
+- signs.create.trade
+- signs.break.protection
+- signs.break.trade
+- signs.use.balance
+- signs.use.buy
+- signs.use.disposal
+- signs.use.enchant
+- signs.use.free
+- signs.use.gamemode
+- signs.use.heal
+- signs.use.info
+- signs.use.kit
+- signs.use.mail
+- signs.use.protection
+- signs.use.repair
+- signs.use.sell
+- signs.use.time
+- signs.use.trade
+- signs.use.warp
+- signs.use.weather
+- spawn
+- suicide
+- time
+- tpa
+- tpaccept
+- tpahere
+- tpdeny
+- warp
+- warp.list
+- world
+- worth
+- xmpp
+kits:
+  member:
+    delay: 6000
+  Scout:
+    delay: 6000
+    items:
+    - 272:0 1
+    - 261:0 1
+    - 302:0 1
+    - 303:0 1
+    - 304:0 1
+    - 305:0 1
+    - 262:0 64
+  Heavy:
+    delay: 6000
+    items:
+    - 276:0 1
+    - 261:0 1
+    - 310:0 1
+    - 311:0 1
+    - 312:0 1
+    - 313:0 1
+    - 262:0 64
+    - 262:0 64
+  Sniper:
+    delay: 6000
+    items:
+    - 261:0 1 arrow_infinite:1 arrow_damage:3
+    - 262:0 1
+    - 298:0 1
+    - 299:0 1
+    - 300:0 1
+    - 301:0 1
+  Archer:
+    delay: 6000
+    items:
+    - 261:0 1 arrow_infinite:2 arrow_knockback:2 arrow_damage:3
+    - 306:0 1
+    - 303:0 1
+    - 304:0 1
+    - 309:0 1
+    - 262:0 1
+  Member:
+    delay: 6000
+    items:
+    - 267:0 1 damage_all:1
+    - 302:0 1
+    - 303:0 1
+    - 304:0 1
+    - 305:0 1
+    - 17:0 64
+    - 274:0 1
+    - 273:0 1
+    - 275:0 1
+  Titan:
+    delay: 86400
+    items:
+    - 276:0 1 damage_all:5 name:§4§lTITAN_SWORD
+    - 278:0 1 durability:3 loot_bonus_blocks:5 dig_speed:5 silk_touch:5
+    - 277:0 1 durability:3 loot_bonus_blocks:5 silk_touch:5
+    - 279:0 1 durability:3 loot_bonus_blocks:5 dig_speed:5 silk_touch:5
+    - 322:1 6
+    - 49:0 64
+    - 49:0 64
+    - 310:0 1 protection_fire:5 protection_fall:5 protection_explosions:5 protection_projectile:5 oxygen:5 name:§6§khi_§4§lTitan's_Armour_§6§khi
+    - 311:0 1 protection_fire:5 protection_fall:5 protection_explosions:5 protection_projectile:5 oxygen:5 name:§6§khi_§4§lTitan's_Armour_§6§khi
+    - 312:0 1 protection_fire:5 protection_fall:5 protection_explosions:5 protection_projectile:5 oxygen:5 name:§6§khi_§4§lTitan's_Armour_§6§khi
+    - 313:0 1 protection_fire:5 protection_fall:5 protection_explosions:5 protection_projectile:5 oxygen:5 name:§6§khi_§4§lTitan's_Armour_§6§khi
+    - 310:0 1 protection_projectile:4 protection_fire:4 protection_fall:4 protection_explosions:4
+    - 310:0 1 protection_projectile:4 protection_fire:4 protection_fall:4 protection_explosions:4
+    - 311:0 1 protection_projectile:4 protection_fire:4 protection_fall:4 protection_explosions:4
+    - 312:0 1 protection_projectile:4 protection_fire:4 protection_fall:4 protection_explosions:4
+    - 313:0 1 protection_fire:4 protection_fall:4 protection_explosions:4
+    - 313:0 1 protection_fire:5
+  Trainee:
+    items:
+    - 387 1 title:Trainee author:KapjGames
+    delay: 0
+enabledSigns:
+- color
+- balance
+- buy
+- sell
+- trade
+- free
+- disposal
+- warp
+- kit
+sign-use-per-second: 4
+backup:
+  interval: 30
+per-warp-permission: false
+list:
+  Admins: owner admin
+debug: false
+remove-god-on-disconnect: false
+auto-afk: 300
+auto-afk-kick: -1
+freeze-afk-players: false
+disable-item-pickup-while-afk: false
+cancel-afk-on-interact: true
+cancel-afk-on-move: true
+death-messages: true
+allow-silent-join-quit: false
+custom-join-message: '&0[&3+&0] &4{PLAYER}'
+custom-quit-message: '&0[&3-&0] &4{PLAYER}'
+world-teleport-permissions: false
+default-stack-size: -1
+oversized-stacksize: 64
+repair-enchanted: true
+unsafe-enchantments: false
+register-back-in-listener: false
+login-attack-delay: 5
+max-fly-speed: 0.8
+max-walk-speed: 0.8
+mails-per-minute: 1000
+max-tempban-time: -1
+update-bed-at-daytime: true
+world-home-permissions: false
+sethome-multiple:
+  default: 3
+  vip: 5
+  staff: 10
+tpa-accept-cancellation: 120
+starting-balance: 100
+currency-symbol: $
+max-money: 10000000000000
+min-money: -10000
+economy-log-enabled: false
+non-ess-in-help: true
+hide-permissionless-help: true
+chat:
+  radius: 0
+  format: <{DISPLAYNAME}> {MESSAGE}
+protect:
+  prevent:
+    lava-flow: false
+    water-flow: false
+    water-bucket-flow: false
+    fire-spread: true
+    lava-fire-spread: true
+    flint-fire: false
+    lightning-fire-spread: true
+    portal-creation: false
+    tnt-explosion: false
+    tnt-playerdamage: false
+    tnt-minecart-explosion: false
+    tnt-minecart-playerdamage: false
+    fireball-explosion: false
+    fireball-fire: false
+    fireball-playerdamage: false
+    witherskull-explosion: false
+    witherskull-playerdamage: false
+    wither-spawnexplosion: false
+    wither-blockreplace: false
+    creeper-explosion: false
+    creeper-playerdamage: false
+    creeper-blockdamage: false
+    enderdragon-blockdamage: true
+    enderman-pickup: false
+    villager-death: false
+    entitytarget: false
+    spawn:
+      creeper: false
+      skeleton: false
+      spider: false
+      giant: false
+      zombie: false
+      slime: false
+      ghast: false
+      pig_zombie: false
+      enderman: false
+      cave_spider: false
+      silverfish: false
+      blaze: false
+      magma_cube: false
+      ender_dragon: false
+      pig: false
+      sheep: false
+      cow: false
+      chicken: false
+      squid: false
+      wolf: false
+      mushroom_cow: false
+      snowman: false
+      ocelot: false
+      iron_golem: false
+      villager: false
+      wither: false
+      bat: false
+      witch: false
+      horse: false
+  creeper:
+    max-height: -1
+  disable:
+    fall: false
+    pvp: false
+    drown: false
+    suffocate: false
+    lavadmg: false
+    projectiles: false
+    contactdmg: false
+    firedmg: false
+    lightning: false
+    wither: false
+    weather:
+      storm: false
+      thunder: false
+      lightning: false
+    build: true
+    use: true
+    warn-on-build-disallow: true
+  alert:
+    on-placement: 10,11,46,327
+    on-use: 327
+  blacklist:
+    placement: 10,11,46,327
+    usage: 327
+newbies:
+  announce-format: '&dWelcome {DISPLAYNAME}&d to the server!'
+  spawnpoint: newbies
+  kit: tools
+respawn-listener-priority: high
+respawn-at-home: false

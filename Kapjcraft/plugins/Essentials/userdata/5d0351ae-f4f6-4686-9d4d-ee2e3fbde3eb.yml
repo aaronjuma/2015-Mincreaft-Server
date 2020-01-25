@@ -1,0 +1,35 @@
+geolocation: Kuwait
+lastAccountName: iiHqcked
+timestamps:
+  login: 1459116220614
+  kits:
+    tools: 1459115341722
+    firework: 1459115355540
+    color: 1459115349278
+    notch: 1459115323643
+  lastteleport: 1459116406458
+  logout: 1459116214935
+ipAddress: 37.231.241.213
+lastlocation:
+  world: world
+  x: -136.13605375357474
+  y: 102.37171072297389
+  z: -16.74915981724131
+  yaw: 110.255646
+  pitch: 16.999182
+homes:
+  home:
+    world: world
+    x: -129.70499990802418
+    y: 102.0
+    z: -18.91221435545667
+    yaw: 14.705704
+    pitch: 69.949165
+logoutlocation:
+  world: world
+  x: -125.58320212316421
+  y: 101.0
+  z: -18.30764858639781
+  yaw: 39.755524
+  pitch: 30.199173
+afk: false

@@ -1,0 +1,34 @@
+lastAccountName: JockGaming
+timestamps:
+  login: 1469739203726
+  logout: 1469739231181
+  lastteleport: 1469739117637
+ipAddress: 174.95.145.5
+geolocation: Canada
+lastlocation:
+  world: spawn
+  x: -1.3371267325588825
+  y: 114.0
+  z: 5.617857553300323
+  yaw: -85.64737
+  pitch: 26.099976
+logoutlocation:
+  world: spawn
+  x: -1.3371267325588825
+  y: 114.0
+  z: 5.617857553300323
+  yaw: -77.99736
+  pitch: 45.299973
+afk: false
+homes:
+  home:
+    world: factions
+    x: 758.31575217476
+    y: 65.0
+    z: 71.37217356677334
+    yaw: 88.35606
+    pitch: 32.850117
+nickname: §4Creepy§8Pervert
+powertools:
+  '18':
+  - smite _YouAlwaysWin

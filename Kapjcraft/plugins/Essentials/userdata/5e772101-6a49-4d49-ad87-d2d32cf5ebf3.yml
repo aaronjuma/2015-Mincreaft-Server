@@ -1,0 +1,21 @@
+lastAccountName: Bowser1215
+timestamps:
+  login: 1468359576640
+  kits:
+    member: 1468359618600
+  logout: 1468359626611
+ipAddress: 76.91.171.232
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: factions
+  x: 25.189886996970937
+  y: 73.0
+  z: -2.2657189879112654
+  yaw: -164.29979
+  pitch: 2.4117389

@@ -1,0 +1,15 @@
+{
+  "priority": 5000,
+  "name": "lever",
+  "desc": "use levers",
+  "standard": [
+    "LEADER",
+    "OFFICER",
+    "MEMBER",
+    "RECRUIT",
+    "ALLY"
+  ],
+  "territory": true,
+  "editable": true,
+  "visible": true
+}

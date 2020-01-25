@@ -1,0 +1,29 @@
+lastAccountName: Freez_ey
+timestamps:
+  login: 1471565008098
+  lastteleport: 1471565129587
+  logout: 1471565491289
+  kits:
+    member: 1468168266159
+    trainee: 1471486568503
+    titan: 1471486675400
+  mute: 0
+ipAddress: 68.192.56.60
+lastlocation:
+  world: caves_2
+  x: 28.620860274753262
+  y: 32.147696135080814
+  z: 3.453504536540007
+  yaw: -225.7502
+  pitch: 22.800007
+nickname: §bF§3r§8e§be§3z§8e
+logoutlocation:
+  world: skywars
+  x: 9.0
+  y: 6.0
+  z: -1.0
+  yaw: -89.0
+  pitch: 39.0
+godmode: false
+muted: false
+money: '9999999999999'

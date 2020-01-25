@@ -1,0 +1,25 @@
+geolocation: Norway
+lastAccountName: HostedMC
+timestamps:
+  login: 1459124033309
+  lastteleport: 1459123808330
+  logout: 1459124022405
+  kits:
+    tools: 1459110404515
+    dtools: 1459110402612
+ipAddress: 92.221.185.66
+lastlocation:
+  world: world
+  x: -110.81486649863939
+  y: 86.31127275546027
+  z: -31.3217953923878
+  yaw: -41.779266
+  pitch: -44.242115
+logoutlocation:
+  world: world
+  x: -106.46488000870237
+  y: 104.60329810022348
+  z: -22.858868039859335
+  yaw: 27.605652
+  pitch: 13.249146
+nickname: §fHostedMC

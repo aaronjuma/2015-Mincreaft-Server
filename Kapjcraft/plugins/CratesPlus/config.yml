@@ -1,0 +1,524 @@
+# [][][][][][][][][][][][][][][][][][][][][]
+#  CratesPlus V4.1.1 Config
+# [][][][][][][][][][][][][][][][][][][][][]
+# ------------------------------------------
+# There are many placeholders that can now be used withing the config and messages file, placeholders are as followed:
+# - %name% - Replaces with the players name, Example: "Notch".
+# - %displayname% - Replaces with the players display name, Example: "[Owner] Notch".
+# - %uuid% - Replaces with the players UUID.
+# - %crate% - The crate types name.
+# - %prize% - The name of the winning.
+# - %percentage% - Percentage of the winning, useful for "Chance Message".
+# ------------------------------------------
+# Don't change the config version!
+
+Config Version: 6
+Update Checks: true
+Update Branch: spigot
+Metrics: true
+Default Opener: BasicGUI
+Cooldown: 5
+Crate Protection: false
+Disable Key Swapping: false
+Default Hologram Text:
+- '%crate%'
+- Right-Click to Open!
+- Left-Click to Preview!
+Crates:
+  Vote:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: RED
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1
+        - DURABILITY-1
+        Lore: []
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1
+        - DURABILITY-1
+        Lore: []
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1
+        - DURABILITY-1
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1
+        - DURABILITY-1
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        - DAMAGE_ALL-1
+        Lore: []
+      '6':
+        Type: ITEM
+        Item Type: BOW
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        - ARROW_DAMAGE-1
+        Lore: []
+      '7':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        - DAMAGE_ALL-1
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        - DIG_SPEED-1
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: DIAMOND_SPADE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        - DIG_SPEED-1
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 0
+        Name: §cNormal Crate Key
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§cNormal§7" crate
+        - §7to win an item!
+        - ''
+      '11':
+        Type: ITEM
+        Item Type: BEDROCK
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+  Normal:
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: IRON_SWORD
+        Item Data: 0
+        Percentage: 0
+        Name: '&6&lExample Sword'
+        Amount: 1
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: RED
+  Master:
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: IRON_SWORD
+        Item Data: 0
+        Percentage: 0
+        Name: '&6&lExample Sword'
+        Amount: 1
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: RED
+  Insane:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: RED
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1000
+        - PROTECTION_FIRE-1000
+        - PROTECTION_FALL-1000
+        - PROTECTION_EXPLOSIONS-1000
+        - PROTECTION_PROJECTILE-1000
+        - OXYGEN-1000
+        - WATER_WORKER-1000
+        - THORNS-1000
+        - DEPTH_STRIDER-1000
+        - DAMAGE_UNDEAD-1000
+        - DAMAGE_ALL-1000
+        - KNOCKBACK-1000
+        - DAMAGE_ARTHROPODS-1000
+        - LOOT_BONUS_MOBS-1000
+        - FIRE_ASPECT-1000
+        - DURABILITY-1000
+        - LOOT_BONUS_BLOCKS-1000
+        - DIG_SPEED-1000
+        - SILK_TOUCH-1000
+        - ARROW_INFINITE-1000
+        - ARROW_FIRE-1000
+        - ARROW_KNOCKBACK-1000
+        - ARROW_DAMAGE-1000
+        - LURE-1000
+        - LUCK-1000
+        Lore: []
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1000
+        - PROTECTION_FIRE-1000
+        - PROTECTION_FALL-1000
+        - PROTECTION_EXPLOSIONS-1000
+        - PROTECTION_PROJECTILE-1000
+        - OXYGEN-1000
+        - WATER_WORKER-1000
+        - THORNS-1000
+        - DEPTH_STRIDER-1000
+        - DAMAGE_UNDEAD-1000
+        - DAMAGE_ALL-1000
+        - KNOCKBACK-1000
+        - DAMAGE_ARTHROPODS-1000
+        - LOOT_BONUS_MOBS-1000
+        - FIRE_ASPECT-1000
+        - DURABILITY-1000
+        - LOOT_BONUS_BLOCKS-1000
+        - DIG_SPEED-1000
+        - SILK_TOUCH-1000
+        - ARROW_INFINITE-1000
+        - ARROW_FIRE-1000
+        - ARROW_KNOCKBACK-1000
+        - ARROW_DAMAGE-1000
+        - LURE-1000
+        - LUCK-1000
+        Lore: []
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1000
+        - PROTECTION_FIRE-1000
+        - PROTECTION_FALL-1000
+        - PROTECTION_EXPLOSIONS-1000
+        - PROTECTION_PROJECTILE-1000
+        - OXYGEN-1000
+        - WATER_WORKER-1000
+        - THORNS-1000
+        - DEPTH_STRIDER-1000
+        - DAMAGE_UNDEAD-1000
+        - DAMAGE_ALL-1000
+        - KNOCKBACK-1000
+        - DAMAGE_ARTHROPODS-1000
+        - LOOT_BONUS_MOBS-1000
+        - FIRE_ASPECT-1000
+        - DURABILITY-1000
+        - LOOT_BONUS_BLOCKS-1000
+        - DIG_SPEED-1000
+        - SILK_TOUCH-1000
+        - ARROW_INFINITE-1000
+        - ARROW_FIRE-1000
+        - ARROW_KNOCKBACK-1000
+        - ARROW_DAMAGE-1000
+        - LURE-1000
+        - LUCK-1000
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1000
+        - PROTECTION_FIRE-1000
+        - PROTECTION_FALL-1000
+        - PROTECTION_EXPLOSIONS-1000
+        - PROTECTION_PROJECTILE-1000
+        - OXYGEN-1000
+        - WATER_WORKER-1000
+        - THORNS-1000
+        - DEPTH_STRIDER-1000
+        - DAMAGE_UNDEAD-1000
+        - DAMAGE_ALL-1000
+        - KNOCKBACK-1000
+        - DAMAGE_ARTHROPODS-1000
+        - LOOT_BONUS_MOBS-1000
+        - FIRE_ASPECT-1000
+        - DURABILITY-1000
+        - LOOT_BONUS_BLOCKS-1000
+        - DIG_SPEED-1000
+        - SILK_TOUCH-1000
+        - ARROW_INFINITE-1000
+        - ARROW_FIRE-1000
+        - ARROW_KNOCKBACK-1000
+        - ARROW_DAMAGE-1000
+        - LURE-1000
+        - LUCK-1000
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: BOW
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1000
+        - PROTECTION_FIRE-1000
+        - PROTECTION_FALL-1000
+        - PROTECTION_EXPLOSIONS-1000
+        - PROTECTION_PROJECTILE-1000
+        - OXYGEN-1000
+        - WATER_WORKER-1000
+        - THORNS-1000
+        - DEPTH_STRIDER-1000
+        - DAMAGE_UNDEAD-1000
+        - DAMAGE_ALL-1000
+        - KNOCKBACK-1000
+        - DAMAGE_ARTHROPODS-1000
+        - LOOT_BONUS_MOBS-1000
+        - FIRE_ASPECT-1000
+        - DURABILITY-1000
+        - LOOT_BONUS_BLOCKS-1000
+        - DIG_SPEED-1000
+        - SILK_TOUCH-1000
+        - ARROW_INFINITE-1000
+        - ARROW_FIRE-1000
+        - ARROW_KNOCKBACK-1000
+        - ARROW_DAMAGE-1000
+        - LURE-1000
+        - LUCK-1000
+        Lore: []
+      '6':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1000
+        - PROTECTION_FIRE-1000
+        - PROTECTION_FALL-1000
+        - PROTECTION_EXPLOSIONS-1000
+        - PROTECTION_PROJECTILE-1000
+        - OXYGEN-1000
+        - WATER_WORKER-1000
+        - THORNS-1000
+        - DEPTH_STRIDER-1000
+        - DAMAGE_UNDEAD-1000
+        - DAMAGE_ALL-1000
+        - KNOCKBACK-1000
+        - DAMAGE_ARTHROPODS-1000
+        - LOOT_BONUS_MOBS-1000
+        - FIRE_ASPECT-1000
+        - DURABILITY-1000
+        - LOOT_BONUS_BLOCKS-1000
+        - DIG_SPEED-1000
+        - SILK_TOUCH-1000
+        - ARROW_INFINITE-1000
+        - ARROW_FIRE-1000
+        - ARROW_KNOCKBACK-1000
+        - ARROW_DAMAGE-1000
+        - LURE-1000
+        - LUCK-1000
+        Lore: []
+      '7':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1000
+        - PROTECTION_FIRE-1000
+        - PROTECTION_FALL-1000
+        - PROTECTION_EXPLOSIONS-1000
+        - PROTECTION_PROJECTILE-1000
+        - OXYGEN-1000
+        - WATER_WORKER-1000
+        - THORNS-1000
+        - DEPTH_STRIDER-1000
+        - DAMAGE_UNDEAD-1000
+        - DAMAGE_ALL-1000
+        - KNOCKBACK-1000
+        - DAMAGE_ARTHROPODS-1000
+        - LOOT_BONUS_MOBS-1000
+        - FIRE_ASPECT-1000
+        - DURABILITY-1000
+        - LOOT_BONUS_BLOCKS-1000
+        - DIG_SPEED-1000
+        - SILK_TOUCH-1000
+        - ARROW_INFINITE-1000
+        - ARROW_FIRE-1000
+        - ARROW_KNOCKBACK-1000
+        - ARROW_DAMAGE-1000
+        - LURE-1000
+        - LUCK-1000
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1000
+        - PROTECTION_FIRE-1000
+        - PROTECTION_FALL-1000
+        - PROTECTION_EXPLOSIONS-1000
+        - PROTECTION_PROJECTILE-1000
+        - OXYGEN-1000
+        - WATER_WORKER-1000
+        - THORNS-1000
+        - DEPTH_STRIDER-1000
+        - DAMAGE_UNDEAD-1000
+        - DAMAGE_ALL-1000
+        - KNOCKBACK-1000
+        - DAMAGE_ARTHROPODS-1000
+        - LOOT_BONUS_MOBS-1000
+        - FIRE_ASPECT-1000
+        - DURABILITY-1000
+        - LOOT_BONUS_BLOCKS-1000
+        - DIG_SPEED-1000
+        - SILK_TOUCH-1000
+        - ARROW_INFINITE-1000
+        - ARROW_FIRE-1000
+        - ARROW_KNOCKBACK-1000
+        - ARROW_DAMAGE-1000
+        - LURE-1000
+        - LUCK-1000
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: DIAMOND_SPADE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-1000
+        - PROTECTION_FIRE-1000
+        - PROTECTION_FALL-1000
+        - PROTECTION_EXPLOSIONS-1000
+        - PROTECTION_PROJECTILE-1000
+        - OXYGEN-1000
+        - WATER_WORKER-1000
+        - THORNS-1000
+        - DEPTH_STRIDER-1000
+        - DAMAGE_UNDEAD-1000
+        - DAMAGE_ALL-1000
+        - KNOCKBACK-1000
+        - DAMAGE_ARTHROPODS-1000
+        - LOOT_BONUS_MOBS-1000
+        - FIRE_ASPECT-1000
+        - DURABILITY-1000
+        - LOOT_BONUS_BLOCKS-1000
+        - DIG_SPEED-1000
+        - SILK_TOUCH-1000
+        - ARROW_INFINITE-1000
+        - ARROW_FIRE-1000
+        - ARROW_KNOCKBACK-1000
+        - ARROW_DAMAGE-1000
+        - LURE-1000
+        - LUCK-1000
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: BEDROCK
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+  Legendary:
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: IRON_SWORD
+        Item Data: 0
+        Percentage: 0
+        Name: '&6&lExample Sword'
+        Amount: 1
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: GOLD
+Default Cooldown: 5

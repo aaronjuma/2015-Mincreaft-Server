@@ -1,0 +1,23 @@
+lastAccountName: Jagwrr
+timestamps:
+  login: 1469384238684
+  lastteleport: 1469384310130
+  kits:
+    member: 1468371274946
+  logout: 1469384594181
+ipAddress: 73.155.206.46
+lastlocation:
+  world: factions
+  x: -32992.08104723165
+  y: 76.0
+  z: 33841.69999998808
+  yaw: -11.396586
+  pitch: 32.4
+money: '0.0'
+logoutlocation:
+  world: skywars
+  x: 9.0
+  y: 6.0
+  z: -1.0
+  yaw: -89.0
+  pitch: -16.0

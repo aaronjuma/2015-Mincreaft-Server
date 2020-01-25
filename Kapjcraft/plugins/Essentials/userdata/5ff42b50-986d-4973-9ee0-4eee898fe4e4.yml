@@ -1,0 +1,23 @@
+lastAccountName: Raw_Beef_Is_Yum
+timestamps:
+  login: 1469413121229
+  lastteleport: 1469402855694
+  logout: 1469413329712
+  kits:
+    member: 1467602482137
+ipAddress: 203.45.136.195
+geolocation: Australia
+lastlocation:
+  world: world
+  x: -121.10391818007672
+  y: 41.0
+  z: -11.029504725573632
+  yaw: 167.85033
+  pitch: -12.900046
+logoutlocation:
+  world: plots
+  x: -118.31283458600274
+  y: 82.66427042415036
+  z: -61.82583456711663
+  yaw: -78.450775
+  pitch: 58.94987

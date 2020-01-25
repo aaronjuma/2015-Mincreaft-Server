@@ -1,0 +1,31 @@
+geolocation: United States
+lastAccountName: HopSin_
+timestamps:
+  login: 1459720643320
+  kits:
+    member: 1459721123228
+  lastteleport: 1459721423599
+  logout: 1459721715944
+ipAddress: 162.199.41.7
+lastlocation:
+  world: world
+  x: -128.62552868195323
+  y: 72.5
+  z: -22.967176984805263
+  yaw: -267.4444
+  pitch: -51.25085
+homes:
+  home:
+    world: world
+    x: 847.6969021691554
+    y: 64.0
+    z: 2305.860220835878
+    yaw: -20.844208
+    pitch: 4.549174
+logoutlocation:
+  world: world
+  x: -133.47450243433636
+  y: 72.0
+  z: -55.59693955725745
+  yaw: 24.005981
+  pitch: 12.64927

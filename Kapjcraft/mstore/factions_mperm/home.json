@@ -1,0 +1,15 @@
+{
+  "priority": 13000,
+  "name": "home",
+  "desc": "teleport home",
+  "standard": [
+    "LEADER",
+    "OFFICER",
+    "MEMBER",
+    "RECRUIT",
+    "ALLY"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

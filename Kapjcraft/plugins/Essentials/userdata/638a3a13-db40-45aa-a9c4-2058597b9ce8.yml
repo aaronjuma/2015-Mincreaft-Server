@@ -1,0 +1,40 @@
+geolocation: New Zealand
+lastAccountName: SpamExe
+timestamps:
+  login: 1468459036030
+  lastteleport: 1468389900378
+  kits:
+    member: 1468389891623
+    archer: 1468389875620
+    sniper: 1468389880121
+    titan: 1468389870618
+    dtools: 1459114968246
+    heavy: 1468389883722
+    notch: 1459114961488
+  mute: 0
+  logout: 1468459056677
+ipAddress: 122.58.49.41
+lastlocation:
+  world: factions
+  x: 822.5057550114801
+  y: 78.22939338921624
+  z: -1036.5202968231206
+  yaw: -342.0427
+  pitch: 9.313571
+muted: false
+homes:
+  home:
+    world: world
+    x: -110.06919262075809
+    y: 40.0
+    z: -14.480574388551043
+    yaw: 81.67723
+    pitch: 0.60005873
+socialspy: true
+logoutlocation:
+  world: world
+  x: -130.73035929978528
+  y: 102.0
+  z: -19.30000001192093
+  yaw: -1.3442931
+  pitch: 6.349164

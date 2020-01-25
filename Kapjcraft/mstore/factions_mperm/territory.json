@@ -1,0 +1,12 @@
+{
+  "priority": 17000,
+  "name": "territory",
+  "desc": "claim or unclaim",
+  "standard": [
+    "LEADER",
+    "OFFICER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

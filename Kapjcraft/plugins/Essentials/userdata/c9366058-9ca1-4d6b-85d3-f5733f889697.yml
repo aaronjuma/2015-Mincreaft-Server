@@ -1,0 +1,33 @@
+lastAccountName: Reaper_258
+timestamps:
+  login: 1469086586246
+  kits:
+    member: 1468356965890
+  lastteleport: 1468632587983
+  logout: 1469086673936
+ipAddress: 75.80.194.241
+lastlocation:
+  world: minigames
+  x: -50.15128981972888
+  y: 13.23262974584812
+  z: 161.97849915817196
+  yaw: -54.449932
+  pitch: -35.550003
+homes:
+  home:
+    world: factions
+    x: 351.007648731866
+    y: 78.43226231980124
+    z: -585.5870811833092
+    yaw: -189.5488
+    pitch: -5.5500007
+logoutlocation:
+  world: world
+  x: -130.7984377141567
+  y: 99.5
+  z: -37.28376133561942
+  yaw: 343.9558
+  pitch: 1.0991495
+money: '5076965'
+nickname: GrimReaper
+afk: false

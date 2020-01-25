@@ -1,0 +1,22 @@
+geolocation: Canada
+lastAccountName: TDC_Hobotaco05
+timestamps:
+  login: 1460149298813
+  logout: 1460149400145
+  lastteleport: 1460148973996
+ipAddress: 99.224.67.130
+lastlocation:
+  world: world
+  x: -84.28737964174083
+  y: 7.0
+  z: 35.70413626656112
+  yaw: -203.98021
+  pitch: 1.9499732
+logoutlocation:
+  world: world
+  x: -129.9546075399445
+  y: 101.5
+  z: -25.81620156997306
+  yaw: 99.90552
+  pitch: 58.20002
+teleportenabled: false

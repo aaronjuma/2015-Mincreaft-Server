@@ -1,0 +1,21 @@
+lastAccountName: My_Original_Name
+timestamps:
+  login: 1467692394177
+  kits:
+    member: 1467692490327
+  logout: 1467692670472
+ipAddress: 97.103.56.216
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: factions
+  x: -23.797379547425987
+  y: 68.0
+  z: 94.57731590971292
+  yaw: -298.8315
+  pitch: 7.9500017

@@ -1,0 +1,20 @@
+geolocation: Belgium
+lastAccountName: OPGamers55
+timestamps:
+  login: 1469462116572
+  logout: 1469462146914
+ipAddress: 91.177.21.60
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: factions
+  x: 22.635029255219003
+  y: 73.0
+  z: 0.871103847067441
+  yaw: -154.04999
+  pitch: 17.849997

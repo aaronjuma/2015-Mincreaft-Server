@@ -1,0 +1,21 @@
+lastAccountName: iCodeHits
+timestamps:
+  login: 1469749166749
+  lastteleport: 1467683632729
+  logout: 1469749330835
+ipAddress: 104.162.18.193
+lastlocation:
+  world: shop
+  x: 2.495225057188655
+  y: 61.0
+  z: 46.62918309873709
+  yaw: 0.6470337
+  pitch: -5.297274
+logoutlocation:
+  world: world
+  x: -123.4006701656998
+  y: 41.0
+  z: -15.383550077599187
+  yaw: 210.73216
+  pitch: -1.4540044
+money: '25'

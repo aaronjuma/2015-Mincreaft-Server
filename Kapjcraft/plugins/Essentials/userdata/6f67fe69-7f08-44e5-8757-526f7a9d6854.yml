@@ -1,0 +1,27 @@
+lastAccountName: Pikachan
+timestamps:
+  login: 1471398005918
+  lastteleport: 1471398440645
+  logout: 1471398505080
+  kits:
+    member: 1467688760073
+ipAddress: 70.180.130.229
+geolocation: United States
+lastlocation:
+  world: spawn
+  x: -12.733383626560297
+  y: -64.80875580510929
+  z: -14.084164708348908
+  yaw: 338.9716
+  pitch: 40.949993
+logoutlocation:
+  world: spawn
+  x: -12.58959031187381
+  y: 110.5
+  z: 6.065285451893828
+  yaw: 129.45255
+  pitch: 39.899967
+money: '1200.0'
+nickname: §4§lPika
+afk: false
+godmode: false

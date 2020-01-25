@@ -1,0 +1,10 @@
+Whitelist:
+  Normal:
+    Enabled: false
+    Message: You are not on the whitelist!
+  Maintenance:
+    Enabled: true
+    Message: '&4Disconnected: &c&lWe are currently under maintenance Please come back'
+  Lockdown:
+    Enabled: false
+    Message: The server is currently locked!

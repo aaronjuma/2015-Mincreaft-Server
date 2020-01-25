@@ -1,0 +1,56 @@
+geolocation: Canada
+lastAccountName: KapjGames
+timestamps:
+  login: 1566434766526
+  lastteleport: 1566435751635
+  logout: 1566436789767
+  kits:
+    member: 1468191822944
+    scout: 1468098217879
+    sniper: 1468013481900
+    trainee: 1471401052350
+    pvp: 1467679839277
+    titan: 1472160135942
+    heavy: 1468098288837
+    beginner: 1459699764917
+ipAddress: 127.0.0.1
+lastlocation:
+  world: factions
+  x: 17.699999988079075
+  y: 123.0
+  z: -3.300000011920929
+  yaw: -81.44698
+  pitch: -84.29989
+afk: false
+logoutlocation:
+  world: Sakurasou
+  x: 687.4424529400203
+  y: 11.0
+  z: 174.21814540532156
+  yaw: 10.307556
+  pitch: 19.649904
+socialspy: true
+money: '9999899580867.0'
+godmode: false
+powertools:
+  '383':
+  - smite
+  '276':
+  - heal KapjGames
+  '261':
+  - fireball
+  '262':
+  - smite Awesometron274
+  '280':
+  - heal KapjGames
+  '272':
+  - heal kapjgames
+homes:
+  home:
+    world: factions
+    x: 771.481783567229
+    y: 24.0
+    z: 69.69999998807907
+    yaw: -179.69812
+    pitch: 67.80003
+teleportenabled: true

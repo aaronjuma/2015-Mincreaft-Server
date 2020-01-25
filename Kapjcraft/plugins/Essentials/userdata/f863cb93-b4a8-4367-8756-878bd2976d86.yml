@@ -1,0 +1,28 @@
+lastAccountName: CreeperYT_
+timestamps:
+  login: 1471400482276
+  lastteleport: 1471400396346
+  logout: 1471400842298
+  kits:
+    scout: 1468024659837
+    heavy: 1468633235854
+ipAddress: 76.112.204.77
+lastlocation:
+  world: skywars
+  x: 9.0
+  y: 6.0
+  z: -1.0
+  yaw: -88.85
+  pitch: 39.0
+money: '2000.0'
+logoutlocation:
+  world: plots
+  x: -87.62268648787642
+  y: 78.83893110677718
+  z: -36.04542749825474
+  yaw: -78.60025
+  pitch: 10.350005
+afk: false
+godmode: false
+powertools: {}
+nickname: Magic

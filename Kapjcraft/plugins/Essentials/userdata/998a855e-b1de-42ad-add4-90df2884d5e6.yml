@@ -1,0 +1,22 @@
+lastAccountName: LMC2007
+timestamps:
+  login: 1469106211250
+  logout: 1469106231076
+  lastteleport: 1469069798772
+  kits:
+    member: 1468524819571
+ipAddress: 75.181.145.2
+lastlocation:
+  world: minigames
+  x: -120.30000001192093
+  y: 80.0
+  z: 135.70077697202294
+  yaw: -302.99985
+  pitch: 9.750009
+logoutlocation:
+  world: factions
+  x: -219.49639308148815
+  y: 78.0
+  z: -18.745688102848902
+  yaw: -129.74983
+  pitch: 13.350015

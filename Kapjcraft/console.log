@@ -1,0 +1,1531 @@
+Loading libraries, please wait...
+[22:53:54 INFO]: Starting minecraft server version 1.8.8
+[22:53:54 INFO]: Loading properties
+[22:53:54 INFO]: Default game type: SURVIVAL
+[22:53:54 INFO]: This server is running CraftBukkit version git-Spigot-21fe707-e1ebe52 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[22:53:54 INFO]: Using 4 threads for Netty based IO
+[22:53:54 INFO]: Server Ping Player Sample Count: 12
+[22:53:54 INFO]: Debug logging is disabled
+[22:53:54 INFO]: Generating keypair
+[22:53:54 INFO]: Starting Minecraft server on *:40587
+[22:53:54 INFO]: Using epoll channel type
+[22:53:55 INFO]: Set PluginClassLoader as parallel capable
+[22:53:55 INFO]: [INFO][NoCheatPlus] Wed May 10 22:53:55 EDT 2017
+[22:53:55 INFO]: Player instances are stored for efficiency.
+[22:53:55 INFO]: [TimTheEnchanter] Loading TimTheEnchanter v3.0
+[22:53:55 INFO]: [GroupManager] Loading GroupManager vPre2.14.1.3 FINAL (Phoenix)
+[22:53:55 INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[22:53:55 INFO]: [NoCheatPlus] Loading NoCheatPlus v3.13.7-RC-sMD5NET-b925
+[22:53:55 INFO]: onLoad: Early set up of static API, configuration, logging.
+[22:53:56 INFO]: [NoCheatPlus] Logging system initialized.
+[22:53:56 INFO]: [NoCheatPlus] Detected Minecraft version: 1.8.8
+[22:53:56 INFO]: [MassiveCore] Loading MassiveCore v2.8.5
+[22:53:56 INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[22:53:56 INFO]: [CClearChat] Loading CClearChat v1.9
+[22:53:56 INFO]: [Vault] Loading Vault v1.5.6-b49
+[22:53:56 INFO]: [LobbyCompass] Loading LobbyCompass v1.3
+[22:53:56 INFO]: [WorldGuard] Loading WorldGuard v6.1
+[22:53:56 INFO]: [PlotSquared] Loading PlotSquared v3.3.0
+[22:53:56 INFO]: [Tablist] Loading Tablist v1.2.3.7
+[22:53:56 INFO]: [MyMenu] Loading MyMenu v1.0.4.3
+[22:53:56 INFO]: [AutoBroadcaster] Loading AutoBroadcaster v0.4
+[22:53:56 INFO]: [PerWorldInventory] Loading PerWorldInventory v1.5.8
+[22:53:56 INFO]: [BlockParty] Loading BlockParty v0.9.2
+[22:53:56 INFO]: [CustomBanMessage] Loading CustomBanMessage v1.0.1
+[22:53:56 INFO]: [BuycraftX] Loading BuycraftX v10.1.3
+[22:53:56 INFO]: [Votifier] Loading Votifier v1.9
+[22:53:56 INFO]: [GAListener] Loading GAListener v1.3.2
+[22:53:56 INFO]: [Essentials] Loading Essentials vTeamCity
+[22:53:56 INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+[22:53:56 INFO]: [SimpleRename] Loading SimpleRename v8.7
+[22:53:56 INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[22:53:56 INFO]: [KitAdder] Loading KitAdder v2.3
+[22:53:56 INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b717
+[22:53:56 INFO]: [SkyWarsReloaded] Loading SkyWarsReloaded v2.8
+[22:53:56 INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[22:53:56 INFO]: [EssentialsKitManager] Loading EssentialsKitManager v1.0.4
+[22:53:56 INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.12
+[22:53:56 INFO]: [Factions] Loading Factions v2.8.7Beta
+[22:53:56 INFO]: [CratesPlus] Loading CratesPlus v4.1.1
+[22:53:56 INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b725
+[22:53:56 INFO]: [MassiveCore] Enabling MassiveCore v2.8.5
+[22:53:56 INFO]: [MassiveCore 2.8.5] === ENABLE START ===
+[22:53:56 INFO]: [MassiveCore 2.8.5] Loading Cachefile datas...
+[22:53:56 INFO]: [MassiveCore 2.8.5] Loading Onlineplayer datas...
+[22:53:56 INFO]: [MassiveCore 2.8.5] Loading Registry datas...
+[22:53:56 INFO]: [MassiveCore 2.8.5] Saving Cachefile...
+[22:53:56 INFO]: [MassiveCore 2.8.5] Setup of IdUtil took 48ms.
+[22:53:56 INFO]: [MassiveCore 2.8.5] === ENABLE COMPLETE (Took 244ms) ===
+[22:53:56 INFO]: [Vault] Enabling Vault v1.5.6-b49
+[22:53:56 INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:53:56 INFO]: [Vault] [Permission] GroupManager found: Waiting
+[22:53:56 INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:53:56 INFO]: [Vault] [Chat] GroupManager found: Waiting
+[22:53:56 INFO]: [Vault] Enabled Version 1.5.6-b49
+[22:53:56 INFO]: [MassiveCore 2.8.5] Activated integration with Vault
+[22:53:56 INFO]: [PlotSquared] Enabling PlotSquared v3.3.0
+[22:53:56 INFO]: &cIt's really recommended to run Java 1.8, as it increases performance
+[22:53:56 INFO]: $1PlotSquared is now enabled
+[22:53:56 INFO]: $3[$1P2$3] $2&6Debug Mode Enabled (Default). Edit the config to turn this off.
+[22:53:56 INFO]: [P2]  - Adding flag: greeting
+[22:53:56 INFO]: [P2]  - Adding flag: farewell
+[22:53:56 INFO]: [P2]  - Adding flag: feed
+[22:53:56 INFO]: [P2]  - Adding flag: heal
+[22:53:56 INFO]: [P2]  - Adding flag: notify-enter
+[22:53:56 INFO]: [P2]  - Adding flag: notify-leave
+[22:53:56 INFO]: [P2]  - Adding flag: item-drop
+[22:53:56 INFO]: [P2]  - Adding flag: invincible
+[22:53:56 INFO]: [P2]  - Adding flag: instabreak
+[22:53:56 INFO]: [P2]  - Adding flag: drop-protection
+[22:53:56 INFO]: [P2]  - Adding flag: forcefield
+[22:53:56 INFO]: [P2]  - Adding flag: titles
+[22:53:56 INFO]: [P2]  - Adding flag: pve
+[22:53:56 INFO]: [P2]  - Adding flag: pvp
+[22:53:56 INFO]: [P2]  - Adding flag: no-worldedit
+[22:53:56 INFO]: [P2]  - Adding flag: redstone
+[22:53:56 INFO]: [P2]  - Adding flag: misc-cap
+[22:53:56 INFO]: [P2]  - Adding flag: entity-cap
+[22:53:56 INFO]: [P2]  - Adding flag: mob-cap
+[22:53:56 INFO]: [P2]  - Adding flag: animal-cap
+[22:53:56 INFO]: [P2]  - Adding flag: hostile-cap
+[22:53:56 INFO]: [P2]  - Adding flag: vehicle-cap
+[22:53:56 INFO]: [P2]  - Adding flag: music
+[22:53:56 INFO]: [P2]  - Adding flag: done
+[22:53:56 INFO]: [P2]  - Adding flag: analysis
+[22:53:56 INFO]: [P2]  - Adding flag: disable-physics
+[22:53:56 INFO]: [P2]  - Adding flag: fly
+[22:53:56 INFO]: [P2]  - Adding flag: explosion
+[22:53:56 INFO]: [P2]  - Adding flag: mob-place
+[22:53:56 INFO]: [P2]  - Adding flag: hostile-interact
+[22:53:56 INFO]: [P2]  - Adding flag: hostile-attack
+[22:53:56 INFO]: [P2]  - Adding flag: animal-interact
+[22:53:56 INFO]: [P2]  - Adding flag: animal-attack
+[22:53:56 INFO]: [P2]  - Adding flag: tamed-interact
+[22:53:56 INFO]: [P2]  - Adding flag: tamed-attack
+[22:53:56 INFO]: [P2]  - Adding flag: player-interact
+[22:53:56 INFO]: [P2]  - Adding flag: misc-interact
+[22:53:56 INFO]: [P2]  - Adding flag: misc-place
+[22:53:56 INFO]: [P2]  - Adding flag: misc-break
+[22:53:56 INFO]: [P2]  - Adding flag: hanging-interact
+[22:53:56 INFO]: [P2]  - Adding flag: hanging-place
+[22:53:56 INFO]: [P2]  - Adding flag: hanging-break
+[22:53:56 INFO]: [P2]  - Adding flag: vehicle-use
+[22:53:56 INFO]: [P2]  - Adding flag: vehicle-place
+[22:53:56 INFO]: [P2]  - Adding flag: vehicle-break
+[22:53:56 INFO]: [P2]  - Adding flag: device-interact
+[22:53:56 INFO]: [P2]  - Adding flag: place
+[22:53:56 INFO]: [P2]  - Adding flag: break
+[22:53:56 INFO]: [P2]  - Adding flag: use
+[22:53:56 INFO]: [P2]  - Adding flag: blocked-cmds
+[22:53:56 INFO]: [P2]  - Adding flag: ice-melt
+[22:53:56 INFO]: [P2]  - Adding flag: keep
+[22:53:56 INFO]: [P2]  - Adding flag: gamemode
+[22:53:56 INFO]: [P2]  - Adding flag: price
+[22:53:56 INFO]: [P2]  - Adding flag: time
+[22:53:56 INFO]: [P2]  - Adding flag: weather
+[22:53:56 INFO]: [P2]  - Adding flag: description
+[22:53:57 INFO]: [P2] Metrics enabled.
+[22:53:57 INFO]: [P2] Metrics enabled.
+[22:53:57 INFO]: [P2]  PlotSquared is using online UUIDs
+[22:53:57 INFO]: [P2] Key: API Location, Value: http://www.intellectualsites.com/minecraft.php
+[22:53:57 INFO]: [P2] Key: Delete Plots On Ban, Value: false
+[22:53:57 INFO]: [P2] Key: Schematics Save Path, Value: plugins/PlotSquared/schematics
+[22:53:57 INFO]: [P2] Key: DB Mysql Enabled, Value: false
+[22:53:57 INFO]: [P2] Key: Auto Clear Enabled, Value: true
+[22:53:57 INFO]: [P2] Key: Use Metrics, Value: true
+[22:53:57 INFO]: [P2] Key: DB SQLite Enabled, Value: true
+[22:53:57 INFO]: [P2] Key: Kill Road Mobs, Value: false
+[22:53:57 INFO]: [P2] Key: Auto Clear Days, Value: 7
+[22:53:57 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[22:53:57 INFO]: Preparing level "Sakurasou"
+[22:53:57 INFO]: -------- World Settings For [Sakurasou] --------
+[22:53:57 INFO]: Mob Spawn Range: 4
+[22:53:57 INFO]: Anti X-Ray: true
+[22:53:57 INFO]:        Engine Mode: 1
+[22:53:57 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:53:57 INFO]:        Replace Blocks: [1, 5]
+[22:53:57 INFO]: Nerfing mobs spawned from spawners: false
+[22:53:57 INFO]: Cactus Growth Modifier: 100%
+[22:53:57 INFO]: Cane Growth Modifier: 100%
+[22:53:57 INFO]: Melon Growth Modifier: 100%
+[22:53:57 INFO]: Mushroom Growth Modifier: 100%
+[22:53:57 INFO]: Pumpkin Growth Modifier: 100%
+[22:53:57 INFO]: Sapling Growth Modifier: 100%
+[22:53:57 INFO]: Wheat Growth Modifier: 100%
+[22:53:57 INFO]: NetherWart Growth Modifier: 100%
+[22:53:57 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:53:57 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:53:57 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:53:57 INFO]: Random Lighting Updates: false
+[22:53:57 INFO]: Structure Info Saving: true
+[22:53:57 INFO]: Sending up to 10 chunks per packet
+[22:53:57 INFO]: Max Entity Collisions: 8
+[22:53:57 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:53:57 INFO]: Max TNT Explosions: 100
+[22:53:57 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:53:57 INFO]: Zombie Aggressive Towards Villager: true
+[22:53:57 INFO]: Item Despawn Rate: 6000
+[22:53:57 INFO]: Item Merge Radius: 2.5
+[22:53:57 INFO]: Arrow Despawn Rate: 1200
+[22:53:57 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:53:57 INFO]: View Distance: 10
+[22:53:57 INFO]: Chunks to Grow per Tick: 650
+[22:53:57 INFO]: Clear tick list: false
+[22:53:57 INFO]: Experience Merge Radius: 3.0
+[22:53:57 INFO]: BukkitPlotGenerator does not fully support: null
+[22:53:57 INFO]: -------- World Settings For [Sakurasou_nether] --------
+[22:53:57 INFO]: Mob Spawn Range: 4
+[22:53:57 INFO]: Anti X-Ray: true
+[22:53:57 INFO]:        Engine Mode: 1
+[22:53:57 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:53:57 INFO]:        Replace Blocks: [1, 5]
+[22:53:57 INFO]: Nerfing mobs spawned from spawners: false
+[22:53:57 INFO]: Cactus Growth Modifier: 100%
+[22:53:57 INFO]: Cane Growth Modifier: 100%
+[22:53:57 INFO]: Melon Growth Modifier: 100%
+[22:53:57 INFO]: Mushroom Growth Modifier: 100%
+[22:53:57 INFO]: Pumpkin Growth Modifier: 100%
+[22:53:57 INFO]: Sapling Growth Modifier: 100%
+[22:53:57 INFO]: Wheat Growth Modifier: 100%
+[22:53:57 INFO]: NetherWart Growth Modifier: 100%
+[22:53:57 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:53:57 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:53:57 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:53:57 INFO]: Random Lighting Updates: false
+[22:53:57 INFO]: Structure Info Saving: true
+[22:53:57 INFO]: Sending up to 10 chunks per packet
+[22:53:57 INFO]: Max Entity Collisions: 8
+[22:53:57 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:53:57 INFO]: Max TNT Explosions: 100
+[22:53:57 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:53:57 INFO]: Zombie Aggressive Towards Villager: true
+[22:53:57 INFO]: Item Despawn Rate: 6000
+[22:53:57 INFO]: Item Merge Radius: 2.5
+[22:53:57 INFO]: Arrow Despawn Rate: 1200
+[22:53:57 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:53:57 INFO]: View Distance: 10
+[22:53:57 INFO]: Chunks to Grow per Tick: 650
+[22:53:57 INFO]: Clear tick list: false
+[22:53:57 INFO]: Experience Merge Radius: 3.0
+[22:53:57 INFO]: BukkitPlotGenerator does not fully support: null
+[22:53:57 INFO]: -------- World Settings For [Sakurasou_the_end] --------
+[22:53:57 INFO]: Mob Spawn Range: 4
+[22:53:57 INFO]: Anti X-Ray: true
+[22:53:57 INFO]:        Engine Mode: 1
+[22:53:57 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:53:57 INFO]:        Replace Blocks: [1, 5]
+[22:53:57 INFO]: Nerfing mobs spawned from spawners: false
+[22:53:57 INFO]: Cactus Growth Modifier: 100%
+[22:53:57 INFO]: Cane Growth Modifier: 100%
+[22:53:57 INFO]: Melon Growth Modifier: 100%
+[22:53:57 INFO]: Mushroom Growth Modifier: 100%
+[22:53:57 INFO]: Pumpkin Growth Modifier: 100%
+[22:53:57 INFO]: Sapling Growth Modifier: 100%
+[22:53:57 INFO]: Wheat Growth Modifier: 100%
+[22:53:57 INFO]: NetherWart Growth Modifier: 100%
+[22:53:57 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:53:57 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:53:57 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:53:57 INFO]: Random Lighting Updates: false
+[22:53:57 INFO]: Structure Info Saving: true
+[22:53:57 INFO]: Sending up to 10 chunks per packet
+[22:53:57 INFO]: Max Entity Collisions: 8
+[22:53:57 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:53:57 INFO]: Max TNT Explosions: 100
+[22:53:57 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:53:57 INFO]: Zombie Aggressive Towards Villager: true
+[22:53:57 INFO]: Item Despawn Rate: 6000
+[22:53:57 INFO]: Item Merge Radius: 2.5
+[22:53:57 INFO]: Arrow Despawn Rate: 1200
+[22:53:57 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:53:57 INFO]: View Distance: 10
+[22:53:57 INFO]: Chunks to Grow per Tick: 650
+[22:53:57 INFO]: Clear tick list: false
+[22:53:57 INFO]: Experience Merge Radius: 3.0
+[22:53:57 INFO]: BukkitPlotGenerator does not fully support: null
+[22:53:57 INFO]: Preparing start region for level 0 (Seed: -6306311206404126485)
+[22:53:57 INFO]: Preparing start region for level 1 (Seed: -6306311206404126485)
+[22:53:58 INFO]: Preparing start region for level 2 (Seed: -6306311206404126485)
+[22:53:58 INFO]: [TimTheEnchanter] Enabling TimTheEnchanter v3.0
+[22:53:58 INFO]: [Tim] Unused enchantments: DEPTH_STRIDER(8) LURE(62) LUCK(61) 
+[22:53:58 INFO]: [TimTheEnchanter] There are some who call me... Tim?
+[22:53:58 INFO]: [GroupManager] Enabling GroupManager vPre2.14.1.3 FINAL (Phoenix)
+[22:53:58 INFO]: GroupManager - INFO - World Found: sakurasou
+[22:53:58 INFO]: GroupManager - INFO - World Found: world
+[22:53:58 INFO]: GroupManager - INFO - Superperms support enabled.
+[22:53:58 INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[22:53:58 INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[22:53:58 INFO]: GroupManager version Pre2.14.1.3 FINAL (Phoenix) is enabled!
+[22:53:58 INFO]: [Vault][Permission] GroupManager hooked.
+[22:53:58 INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[22:53:58 INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[22:53:58 INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[22:53:58 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[22:53:58 WARN]: [WorldEdit] WorldEdit has detected you are using Java 7 (based on detected version 1.7.0_80).
+[22:53:58 WARN]: [WorldEdit] WorldEdit will stop supporting Java less than version 8 in the future, due to Java 7 being EOL since April 2015. Please update your server to Java 8.
+[22:53:58 INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.13.7-RC-sMD5NET-b925
+[22:53:58 INFO]: [NoCheatPlus] McAccess set to: 1.8.4-1.8.8 / Spigot-CB-1.8_R3
+[22:53:58 INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[22:53:58 INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[22:53:58 INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[22:53:58 INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[22:53:58 INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[22:53:58 INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
+[22:53:58 INFO]: [NoCheatPlus] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+[22:53:59 INFO]: [CClearChat] Enabling CClearChat v1.9
+[22:53:59 INFO]: [LobbyCompass] Enabling LobbyCompass v1.3
+[22:53:59 INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[22:53:59 INFO]: [WorldGuard] (Sakurasou) TNT ignition is PERMITTED.
+[22:53:59 INFO]: [WorldGuard] (Sakurasou) Lighters are PERMITTED.
+[22:53:59 INFO]: [WorldGuard] (Sakurasou) Lava fire is blocked.
+[22:53:59 INFO]: [WorldGuard] (Sakurasou) Fire spread is UNRESTRICTED.
+[22:53:59 INFO]: [WorldGuard] Loaded configuration for world 'Sakurasou'
+[22:53:59 INFO]: [WorldGuard] (Sakurasou_nether) TNT ignition is PERMITTED.
+[22:53:59 INFO]: [WorldGuard] (Sakurasou_nether) Lighters are PERMITTED.
+[22:53:59 INFO]: [WorldGuard] (Sakurasou_nether) Lava fire is blocked.
+[22:53:59 INFO]: [WorldGuard] (Sakurasou_nether) Fire spread is UNRESTRICTED.
+[22:53:59 INFO]: [WorldGuard] Loaded configuration for world 'Sakurasou_nether'
+[22:53:59 INFO]: [WorldGuard] (Sakurasou_the_end) TNT ignition is PERMITTED.
+[22:53:59 INFO]: [WorldGuard] (Sakurasou_the_end) Lighters are PERMITTED.
+[22:53:59 INFO]: [WorldGuard] (Sakurasou_the_end) Lava fire is blocked.
+[22:53:59 INFO]: [WorldGuard] (Sakurasou_the_end) Fire spread is UNRESTRICTED.
+[22:53:59 INFO]: [WorldGuard] Loaded configuration for world 'Sakurasou_the_end'
+[22:53:59 INFO]: [WorldGuard] Loading region data...
+[22:53:59 INFO]: [Tablist] Enabling Tablist v1.2.3.7
+[22:53:59 INFO]: Tablist> Tablist v1.2.3.7 enabled!!
+[22:53:59 INFO]: [MyMenu] Enabling MyMenu v1.0.4.3
+[22:53:59 INFO]: [AutoBroadcaster] Enabling AutoBroadcaster v0.4
+[22:53:59 INFO]: [PerWorldInventory] Enabling PerWorldInventory v1.5.8
+[22:53:59 INFO]: [PerWorldInventory] Starting metrics...
+[22:53:59 INFO]: [PerWorldInventory] Registering commands...
+[22:53:59 INFO]: [PerWorldInventory] Commands registered! Registering listeners...
+[22:53:59 INFO]: [PerWorldInventory] Registered PlayerChangedWorldListener.
+[22:53:59 INFO]: [PerWorldInventory] Registered PlayerQuitListener.
+[22:53:59 INFO]: [PerWorldInventory] Registered PlayerGameModeChangeListener.
+[22:53:59 INFO]: [PerWorldInventory] Listeners enabled!
+[22:53:59 INFO]: [PerWorldInventory] Vault found! Hooking into it...
+[22:53:59 INFO]: [PerWorldInventory] Hooked into Vault!
+[22:53:59 INFO]: [BlockParty] Enabling BlockParty v0.9.2
+[22:53:59 WARN]: [BlockParty] ERROR : Arena yourEnabledArenas doesn't exists!
+[22:53:59 INFO]: §3[BlockParty] §8Arena yourEnabledArenas does not exists or is not enabled!
+[22:53:59 INFO]: §3[BlockParty] §8Arena yourEnabledArenas does not exists or is not enabled!
+[22:53:59 INFO]: §3[BlockParty]§r Arena yourEnabledArenas loaded!
+[22:53:59 INFO]: §3[BlockParty]§r Arena X-Ray loaded!
+[22:53:59 INFO]: §3[BlockParty]§r Plugin by [Leon167, XxChxppellxX, ScriptJunkie, CPx1989]
+[22:53:59 INFO]: [BlockParty] Loading Inventories To Restore
+[22:53:59 INFO]: [CustomBanMessage] Enabling CustomBanMessage v1.0.1
+[22:53:59 INFO]: [BuycraftX] Enabling BuycraftX v10.1.3
+[22:53:59 INFO]: [BuycraftX] Validating your server key...
+[22:54:00 INFO]: [BuycraftX] A new version of BuycraftX (10.2) is available. Go to your server panel at https://server.buycraft.net to download the update.
+[22:54:00 INFO]: [BuycraftX] Fetching all server packages...
+[22:54:00 INFO]: [Votifier] Enabling Votifier v1.9
+[22:54:00 ERROR]: [Votifier] Error initializing vote receiver. Please verify that the configured
+[22:54:00 ERROR]: [Votifier] IP address and port are not already in use. This is a common problem
+[22:54:00 ERROR]: [Votifier] with hosting services and, if so, you should check with your hosting provider.
+java.net.BindException: Permission denied
+        at java.net.PlainSocketImpl.socketBind(Native Method) ~[?:1.7.0_80]
+        at java.net.AbstractPlainSocketImpl.bind(Unknown Source) ~[?:1.7.0_80]
+        at java.net.ServerSocket.bind(Unknown Source) ~[?:1.7.0_80]
+        at java.net.ServerSocket.bind(Unknown Source) ~[?:1.7.0_80]
+        at com.vexsoftware.votifier.net.VoteReceiver.initialize(VoteReceiver.java:81) [votifier-1.9.jar:?]
+        at com.vexsoftware.votifier.net.VoteReceiver.<init>(VoteReceiver.java:75) [votifier-1.9.jar:?]
+        at com.vexsoftware.votifier.Votifier.onEnable(Votifier.java:172) [votifier-1.9.jar:?]
+        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.lang.Thread.run(Unknown Source) [?:1.7.0_80]
+[22:54:00 ERROR]: [Votifier] Votifier did not initialize properly!
+[22:54:00 INFO]: [GAListener] Enabling GAListener v1.3.2
+[22:54:00 INFO]: [GAListener] GAListener v1.3.2 Enabled
+[22:54:00 INFO]: [Essentials] Enabling Essentials vTeamCity
+[22:54:00 WARN]: §4Version mismatch! Please update EssentialsKitManager to the same version.
+[22:54:00 INFO]: Bukkit version format changed. Version not checked.
+[22:54:00 INFO]: git-Spigot-21fe707-e1ebe52 (MC: 1.8.8)
+[22:54:00 INFO]: 1.8.8-R0.1-SNAPSHOT
+[22:54:00 INFO]: Using locale en_GB
+[22:54:00 INFO]: Using locale en_GB
+[22:54:00 INFO]: [Vault][Economy] Essentials Economy hooked.
+[22:54:00 INFO]: Essentials: Using GroupManager based permissions.
+[22:54:00 INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[22:54:00 INFO]: [SimpleRename] Enabling SimpleRename v8.7
+[22:54:00 INFO]: SimpleRename enabled!
+[22:54:00 INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[22:54:00 INFO]: [KitAdder] Enabling KitAdder v2.3
+[22:54:00 INFO]: [KitAdder] KitAdder plugin has been enabled!
+[22:54:00 INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b717
+[22:54:01 INFO]: -------- World Settings For [shop] --------
+[22:54:01 INFO]: Mob Spawn Range: 4
+[22:54:01 INFO]: Anti X-Ray: true
+[22:54:01 INFO]:        Engine Mode: 1
+[22:54:01 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:54:01 INFO]:        Replace Blocks: [1, 5]
+[22:54:01 INFO]: Nerfing mobs spawned from spawners: false
+[22:54:01 INFO]: Cactus Growth Modifier: 100%
+[22:54:01 INFO]: Cane Growth Modifier: 100%
+[22:54:01 INFO]: Melon Growth Modifier: 100%
+[22:54:01 INFO]: Mushroom Growth Modifier: 100%
+[22:54:01 INFO]: Pumpkin Growth Modifier: 100%
+[22:54:01 INFO]: Sapling Growth Modifier: 100%
+[22:54:01 INFO]: Wheat Growth Modifier: 100%
+[22:54:01 INFO]: NetherWart Growth Modifier: 100%
+[22:54:01 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:54:01 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:54:01 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:54:01 INFO]: Random Lighting Updates: false
+[22:54:01 INFO]: Structure Info Saving: true
+[22:54:01 INFO]: Sending up to 10 chunks per packet
+[22:54:01 INFO]: Max Entity Collisions: 8
+[22:54:01 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:54:01 INFO]: Max TNT Explosions: 100
+[22:54:01 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:01 INFO]: Zombie Aggressive Towards Villager: true
+[22:54:01 INFO]: Item Despawn Rate: 6000
+[22:54:01 INFO]: Item Merge Radius: 2.5
+[22:54:01 INFO]: Arrow Despawn Rate: 1200
+[22:54:01 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:54:01 INFO]: View Distance: 10
+[22:54:01 INFO]: Chunks to Grow per Tick: 650
+[22:54:01 INFO]: Clear tick list: false
+[22:54:01 INFO]: Experience Merge Radius: 3.0
+[22:54:01 INFO]: BukkitPlotGenerator does not fully support: null
+[22:54:01 INFO]: Preparing start region for level 3 (Seed: -1098191720547559773)
+[22:54:01 INFO]: [WorldGuard] (shop) TNT ignition is PERMITTED.
+[22:54:01 INFO]: [WorldGuard] (shop) Lighters are PERMITTED.
+[22:54:01 INFO]: [WorldGuard] (shop) Lava fire is blocked.
+[22:54:01 INFO]: [WorldGuard] (shop) Fire spread is UNRESTRICTED.
+[22:54:01 INFO]: [WorldGuard] Loaded configuration for world 'shop'
+[22:54:01 INFO]: -------- World Settings For [flatroom] --------
+[22:54:01 INFO]: Mob Spawn Range: 4
+[22:54:01 INFO]: Anti X-Ray: true
+[22:54:01 INFO]:        Engine Mode: 1
+[22:54:01 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:54:01 INFO]:        Replace Blocks: [1, 5]
+[22:54:01 INFO]: Nerfing mobs spawned from spawners: false
+[22:54:01 INFO]: Cactus Growth Modifier: 100%
+[22:54:01 INFO]: Cane Growth Modifier: 100%
+[22:54:01 INFO]: Melon Growth Modifier: 100%
+[22:54:01 INFO]: Mushroom Growth Modifier: 100%
+[22:54:01 INFO]: Pumpkin Growth Modifier: 100%
+[22:54:01 INFO]: Sapling Growth Modifier: 100%
+[22:54:01 INFO]: Wheat Growth Modifier: 100%
+[22:54:01 INFO]: NetherWart Growth Modifier: 100%
+[22:54:01 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:54:01 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:54:01 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:54:01 INFO]: Random Lighting Updates: false
+[22:54:01 INFO]: Structure Info Saving: true
+[22:54:01 INFO]: Sending up to 10 chunks per packet
+[22:54:01 INFO]: Max Entity Collisions: 8
+[22:54:01 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:54:01 INFO]: Max TNT Explosions: 100
+[22:54:01 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:01 INFO]: Zombie Aggressive Towards Villager: true
+[22:54:01 INFO]: Item Despawn Rate: 6000
+[22:54:01 INFO]: Item Merge Radius: 2.5
+[22:54:01 INFO]: Arrow Despawn Rate: 1200
+[22:54:01 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:54:01 INFO]: View Distance: 10
+[22:54:01 INFO]: Chunks to Grow per Tick: 650
+[22:54:01 INFO]: Clear tick list: false
+[22:54:01 INFO]: Experience Merge Radius: 3.0
+[22:54:01 INFO]: BukkitPlotGenerator does not fully support: null
+[22:54:01 INFO]: Preparing start region for level 4 (Seed: -5343691815423055668)
+[22:54:02 INFO]: [WorldGuard] (flatroom) TNT ignition is PERMITTED.
+[22:54:02 INFO]: [WorldGuard] (flatroom) Lighters are PERMITTED.
+[22:54:02 INFO]: [WorldGuard] (flatroom) Lava fire is blocked.
+[22:54:02 INFO]: [WorldGuard] (flatroom) Fire spread is UNRESTRICTED.
+[22:54:02 INFO]: [WorldGuard] Loaded configuration for world 'flatroom'
+[22:54:02 INFO]: -------- World Settings For [blockparty] --------
+[22:54:02 INFO]: Mob Spawn Range: 4
+[22:54:02 INFO]: Anti X-Ray: true
+[22:54:02 INFO]:        Engine Mode: 1
+[22:54:02 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:54:02 INFO]:        Replace Blocks: [1, 5]
+[22:54:02 INFO]: Nerfing mobs spawned from spawners: false
+[22:54:02 INFO]: Cactus Growth Modifier: 100%
+[22:54:02 INFO]: Cane Growth Modifier: 100%
+[22:54:02 INFO]: Melon Growth Modifier: 100%
+[22:54:02 INFO]: Mushroom Growth Modifier: 100%
+[22:54:02 INFO]: Pumpkin Growth Modifier: 100%
+[22:54:02 INFO]: Sapling Growth Modifier: 100%
+[22:54:02 INFO]: Wheat Growth Modifier: 100%
+[22:54:02 INFO]: NetherWart Growth Modifier: 100%
+[22:54:02 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:54:02 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:54:02 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:54:02 INFO]: Random Lighting Updates: false
+[22:54:02 INFO]: Structure Info Saving: true
+[22:54:02 INFO]: Sending up to 10 chunks per packet
+[22:54:02 INFO]: Max Entity Collisions: 8
+[22:54:02 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:54:02 INFO]: Max TNT Explosions: 100
+[22:54:02 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:02 INFO]: Zombie Aggressive Towards Villager: true
+[22:54:02 INFO]: Item Despawn Rate: 6000
+[22:54:02 INFO]: Item Merge Radius: 2.5
+[22:54:02 INFO]: Arrow Despawn Rate: 1200
+[22:54:02 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:54:02 INFO]: View Distance: 10
+[22:54:02 INFO]: Chunks to Grow per Tick: 650
+[22:54:02 INFO]: Clear tick list: false
+[22:54:02 INFO]: Experience Merge Radius: 3.0
+[22:54:02 INFO]: BukkitPlotGenerator does not fully support: null
+[22:54:02 INFO]: Preparing start region for level 5 (Seed: -2796814902228331232)
+[22:54:02 INFO]: [WorldGuard] (blockparty) TNT ignition is PERMITTED.
+[22:54:02 INFO]: [WorldGuard] (blockparty) Lighters are PERMITTED.
+[22:54:02 INFO]: [WorldGuard] (blockparty) Lava fire is blocked.
+[22:54:02 INFO]: [WorldGuard] (blockparty) Fire spread is UNRESTRICTED.
+[22:54:02 INFO]: [WorldGuard] Loaded configuration for world 'blockparty'
+[22:54:05 INFO]: -------- World Settings For [skywars] --------
+[22:54:05 INFO]: Mob Spawn Range: 4
+[22:54:05 INFO]: Anti X-Ray: true
+[22:54:05 INFO]:        Engine Mode: 1
+[22:54:05 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:54:05 INFO]:        Replace Blocks: [1, 5]
+[22:54:05 INFO]: Nerfing mobs spawned from spawners: false
+[22:54:05 INFO]: Cactus Growth Modifier: 100%
+[22:54:05 INFO]: Cane Growth Modifier: 100%
+[22:54:05 INFO]: Melon Growth Modifier: 100%
+[22:54:05 INFO]: Mushroom Growth Modifier: 100%
+[22:54:05 INFO]: Pumpkin Growth Modifier: 100%
+[22:54:05 INFO]: Sapling Growth Modifier: 100%
+[22:54:05 INFO]: Wheat Growth Modifier: 100%
+[22:54:05 INFO]: NetherWart Growth Modifier: 100%
+[22:54:05 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:54:05 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:54:05 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:54:05 INFO]: Random Lighting Updates: false
+[22:54:05 INFO]: Structure Info Saving: true
+[22:54:05 INFO]: Sending up to 10 chunks per packet
+[22:54:05 INFO]: Max Entity Collisions: 8
+[22:54:05 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:54:05 INFO]: Max TNT Explosions: 100
+[22:54:05 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:05 INFO]: Zombie Aggressive Towards Villager: true
+[22:54:05 INFO]: Item Despawn Rate: 6000
+[22:54:05 INFO]: Item Merge Radius: 2.5
+[22:54:05 INFO]: Arrow Despawn Rate: 1200
+[22:54:05 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:54:05 INFO]: View Distance: 10
+[22:54:05 INFO]: Chunks to Grow per Tick: 650
+[22:54:05 INFO]: Clear tick list: false
+[22:54:05 INFO]: Experience Merge Radius: 3.0
+[22:54:05 INFO]: BukkitPlotGenerator does not fully support: null
+[22:54:05 INFO]: Preparing start region for level 6 (Seed: 5359805791368984159)
+[22:54:05 INFO]: [WorldGuard] (skywars) TNT ignition is PERMITTED.
+[22:54:05 INFO]: [WorldGuard] (skywars) Lighters are PERMITTED.
+[22:54:05 INFO]: [WorldGuard] (skywars) Lava fire is blocked.
+[22:54:05 INFO]: [WorldGuard] (skywars) Fire spread is UNRESTRICTED.
+[22:54:05 INFO]: [WorldGuard] Loaded configuration for world 'skywars'
+[22:54:05 INFO]: -------- World Settings For [world_the_end] --------
+[22:54:05 INFO]: Mob Spawn Range: 4
+[22:54:05 INFO]: Anti X-Ray: true
+[22:54:05 INFO]:        Engine Mode: 1
+[22:54:05 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:54:05 INFO]:        Replace Blocks: [1, 5]
+[22:54:05 INFO]: Nerfing mobs spawned from spawners: false
+[22:54:05 INFO]: Cactus Growth Modifier: 100%
+[22:54:05 INFO]: Cane Growth Modifier: 100%
+[22:54:05 INFO]: Melon Growth Modifier: 100%
+[22:54:05 INFO]: Mushroom Growth Modifier: 100%
+[22:54:05 INFO]: Pumpkin Growth Modifier: 100%
+[22:54:05 INFO]: Sapling Growth Modifier: 100%
+[22:54:05 INFO]: Wheat Growth Modifier: 100%
+[22:54:05 INFO]: NetherWart Growth Modifier: 100%
+[22:54:05 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:54:05 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:54:05 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:54:05 INFO]: Random Lighting Updates: false
+[22:54:05 INFO]: Structure Info Saving: true
+[22:54:05 INFO]: Sending up to 10 chunks per packet
+[22:54:05 INFO]: Max Entity Collisions: 8
+[22:54:05 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:54:05 INFO]: Max TNT Explosions: 100
+[22:54:05 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:05 INFO]: Zombie Aggressive Towards Villager: true
+[22:54:05 INFO]: Item Despawn Rate: 6000
+[22:54:05 INFO]: Item Merge Radius: 2.5
+[22:54:05 INFO]: Arrow Despawn Rate: 1200
+[22:54:05 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:54:05 INFO]: View Distance: 10
+[22:54:05 INFO]: Chunks to Grow per Tick: 650
+[22:54:05 INFO]: Clear tick list: false
+[22:54:05 INFO]: Experience Merge Radius: 3.0
+[22:54:05 INFO]: BukkitPlotGenerator does not fully support: null
+[22:54:05 INFO]: Preparing start region for level 7 (Seed: 5521080240015849389)
+[22:54:05 INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[22:54:05 INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[22:54:05 INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[22:54:05 INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[22:54:05 INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[22:54:05 INFO]: -------- World Settings For [minigames] --------
+[22:54:05 INFO]: Mob Spawn Range: 4
+[22:54:05 INFO]: Anti X-Ray: true
+[22:54:05 INFO]:        Engine Mode: 1
+[22:54:05 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:54:05 INFO]:        Replace Blocks: [1, 5]
+[22:54:05 INFO]: Nerfing mobs spawned from spawners: false
+[22:54:05 INFO]: Cactus Growth Modifier: 100%
+[22:54:05 INFO]: Cane Growth Modifier: 100%
+[22:54:05 INFO]: Melon Growth Modifier: 100%
+[22:54:05 INFO]: Mushroom Growth Modifier: 100%
+[22:54:05 INFO]: Pumpkin Growth Modifier: 100%
+[22:54:05 INFO]: Sapling Growth Modifier: 100%
+[22:54:05 INFO]: Wheat Growth Modifier: 100%
+[22:54:05 INFO]: NetherWart Growth Modifier: 100%
+[22:54:05 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:54:05 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:54:05 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:54:05 INFO]: Random Lighting Updates: false
+[22:54:05 INFO]: Structure Info Saving: true
+[22:54:05 INFO]: Sending up to 10 chunks per packet
+[22:54:05 INFO]: Max Entity Collisions: 8
+[22:54:05 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:54:05 INFO]: Max TNT Explosions: 100
+[22:54:05 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:05 INFO]: Zombie Aggressive Towards Villager: true
+[22:54:05 INFO]: Item Despawn Rate: 6000
+[22:54:05 INFO]: Item Merge Radius: 2.5
+[22:54:05 INFO]: Arrow Despawn Rate: 1200
+[22:54:05 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:54:05 INFO]: View Distance: 10
+[22:54:05 INFO]: Chunks to Grow per Tick: 650
+[22:54:05 INFO]: Clear tick list: false
+[22:54:05 INFO]: Experience Merge Radius: 3.0
+[22:54:05 INFO]: BukkitPlotGenerator does not fully support: null
+[22:54:05 INFO]: Preparing start region for level 8 (Seed: -5330747346825270960)
+[22:54:06 INFO]: [WorldGuard] (minigames) TNT ignition is PERMITTED.
+[22:54:06 INFO]: [WorldGuard] (minigames) Lighters are PERMITTED.
+[22:54:06 INFO]: [WorldGuard] (minigames) Lava fire is blocked.
+[22:54:06 INFO]: [WorldGuard] (minigames) Fire spread is UNRESTRICTED.
+[22:54:06 INFO]: [WorldGuard] Loaded configuration for world 'minigames'
+[22:54:06 INFO]: -------- World Settings For [spawn] --------
+[22:54:06 INFO]: Mob Spawn Range: 4
+[22:54:06 INFO]: Anti X-Ray: true
+[22:54:06 INFO]:        Engine Mode: 1
+[22:54:06 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:54:06 INFO]:        Replace Blocks: [1, 5]
+[22:54:06 INFO]: Nerfing mobs spawned from spawners: false
+[22:54:06 INFO]: Cactus Growth Modifier: 100%
+[22:54:06 INFO]: Cane Growth Modifier: 100%
+[22:54:06 INFO]: Melon Growth Modifier: 100%
+[22:54:06 INFO]: Mushroom Growth Modifier: 100%
+[22:54:06 INFO]: Pumpkin Growth Modifier: 100%
+[22:54:06 INFO]: Sapling Growth Modifier: 100%
+[22:54:06 INFO]: Wheat Growth Modifier: 100%
+[22:54:06 INFO]: NetherWart Growth Modifier: 100%
+[22:54:06 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:54:06 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:54:06 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:54:06 INFO]: Random Lighting Updates: false
+[22:54:06 INFO]: Structure Info Saving: true
+[22:54:06 INFO]: Sending up to 10 chunks per packet
+[22:54:06 INFO]: Max Entity Collisions: 8
+[22:54:06 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:54:06 INFO]: Max TNT Explosions: 100
+[22:54:06 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:06 INFO]: Zombie Aggressive Towards Villager: true
+[22:54:06 INFO]: Item Despawn Rate: 6000
+[22:54:06 INFO]: Item Merge Radius: 2.5
+[22:54:06 INFO]: Arrow Despawn Rate: 1200
+[22:54:06 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:54:06 INFO]: View Distance: 10
+[22:54:06 INFO]: Chunks to Grow per Tick: 650
+[22:54:06 INFO]: Clear tick list: false
+[22:54:06 INFO]: Experience Merge Radius: 3.0
+[22:54:06 INFO]: BukkitPlotGenerator does not fully support: null
+[22:54:06 INFO]: Preparing start region for level 9 (Seed: 5709837023565766292)
+[22:54:06 INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
+[22:54:06 INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[22:54:06 INFO]: [WorldGuard] (spawn) Lava fire is blocked.
+[22:54:06 INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[22:54:06 INFO]: [WorldGuard] Loaded configuration for world 'spawn'
+[22:54:06 INFO]: -------- World Settings For [plots] --------
+[22:54:06 INFO]: Mob Spawn Range: 4
+[22:54:06 INFO]: Anti X-Ray: true
+[22:54:06 INFO]:        Engine Mode: 1
+[22:54:06 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:54:06 INFO]:        Replace Blocks: [1, 5]
+[22:54:06 INFO]: Nerfing mobs spawned from spawners: false
+[22:54:06 INFO]: Cactus Growth Modifier: 100%
+[22:54:06 INFO]: Cane Growth Modifier: 100%
+[22:54:06 INFO]: Melon Growth Modifier: 100%
+[22:54:06 INFO]: Mushroom Growth Modifier: 100%
+[22:54:06 INFO]: Pumpkin Growth Modifier: 100%
+[22:54:06 INFO]: Sapling Growth Modifier: 100%
+[22:54:06 INFO]: Wheat Growth Modifier: 100%
+[22:54:06 INFO]: NetherWart Growth Modifier: 100%
+[22:54:06 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:54:06 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:54:06 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:54:06 INFO]: Random Lighting Updates: false
+[22:54:06 INFO]: Structure Info Saving: true
+[22:54:06 INFO]: Sending up to 10 chunks per packet
+[22:54:06 INFO]: Max Entity Collisions: 8
+[22:54:06 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:54:06 INFO]: Max TNT Explosions: 100
+[22:54:06 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:06 INFO]: Zombie Aggressive Towards Villager: true
+[22:54:06 INFO]: Item Despawn Rate: 6000
+[22:54:06 INFO]: Item Merge Radius: 2.5
+[22:54:06 INFO]: Arrow Despawn Rate: 1200
+[22:54:06 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:54:06 INFO]: View Distance: 10
+[22:54:06 INFO]: Chunks to Grow per Tick: 650
+[22:54:06 INFO]: Clear tick list: false
+[22:54:06 INFO]: Experience Merge Radius: 3.0
+[22:54:06 INFO]: [P2] Detected world load for 'plots'
+[22:54:06 INFO]: [P2]  - generator: PlotSquared>PlotSquared
+[22:54:06 INFO]: [P2]  - plotworld: com.intellectualcrafters.plot.generator.HybridPlotWorld
+[22:54:06 INFO]: [P2]  - manager: com.intellectualcrafters.plot.generator.HybridPlotManager
+[22:54:06 INFO]: [P2]  - schematic: false
+[22:54:06 INFO]: World possibly already loaded: plots
+[22:54:06 INFO]: Preparing start region for level 10 (Seed: -1280667225946434910)
+[22:54:07 INFO]: Preparing spawn area for plots, 77%
+[22:54:08 INFO]: [WorldGuard] (plots) TNT ignition is PERMITTED.
+[22:54:08 INFO]: [WorldGuard] (plots) Lighters are PERMITTED.
+[22:54:08 INFO]: [WorldGuard] (plots) Lava fire is blocked.
+[22:54:08 INFO]: [WorldGuard] (plots) Fire spread is UNRESTRICTED.
+[22:54:08 INFO]: [WorldGuard] Loaded configuration for world 'plots'
+[22:54:08 INFO]: -------- World Settings For [factions] --------
+[22:54:08 INFO]: Mob Spawn Range: 4
+[22:54:08 INFO]: Anti X-Ray: true
+[22:54:08 INFO]:        Engine Mode: 1
+[22:54:08 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:54:08 INFO]:        Replace Blocks: [1, 5]
+[22:54:08 INFO]: Nerfing mobs spawned from spawners: false
+[22:54:08 INFO]: Cactus Growth Modifier: 100%
+[22:54:08 INFO]: Cane Growth Modifier: 100%
+[22:54:08 INFO]: Melon Growth Modifier: 100%
+[22:54:08 INFO]: Mushroom Growth Modifier: 100%
+[22:54:08 INFO]: Pumpkin Growth Modifier: 100%
+[22:54:08 INFO]: Sapling Growth Modifier: 100%
+[22:54:08 INFO]: Wheat Growth Modifier: 100%
+[22:54:08 INFO]: NetherWart Growth Modifier: 100%
+[22:54:08 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:54:08 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:54:08 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:54:08 INFO]: Random Lighting Updates: false
+[22:54:08 INFO]: Structure Info Saving: true
+[22:54:08 INFO]: Sending up to 10 chunks per packet
+[22:54:08 INFO]: Max Entity Collisions: 8
+[22:54:08 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:54:08 INFO]: Max TNT Explosions: 100
+[22:54:08 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:08 INFO]: Zombie Aggressive Towards Villager: true
+[22:54:08 INFO]: Item Despawn Rate: 6000
+[22:54:08 INFO]: Item Merge Radius: 2.5
+[22:54:08 INFO]: Arrow Despawn Rate: 1200
+[22:54:08 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:54:08 INFO]: View Distance: 10
+[22:54:08 INFO]: Chunks to Grow per Tick: 650
+[22:54:08 INFO]: Clear tick list: false
+[22:54:08 INFO]: Experience Merge Radius: 3.0
+[22:54:08 INFO]: BukkitPlotGenerator does not fully support: null
+[22:54:08 INFO]: Preparing start region for level 11 (Seed: 2697794044133669455)
+[22:54:08 INFO]: [WorldGuard] (factions) TNT ignition is PERMITTED.
+[22:54:08 INFO]: [WorldGuard] (factions) Lighters are PERMITTED.
+[22:54:08 INFO]: [WorldGuard] (factions) Lava fire is blocked.
+[22:54:08 INFO]: [WorldGuard] (factions) Fire spread is UNRESTRICTED.
+[22:54:08 INFO]: [WorldGuard] Loaded configuration for world 'factions'
+[22:54:09 INFO]: -------- World Settings For [world_nether] --------
+[22:54:09 INFO]: Mob Spawn Range: 4
+[22:54:09 INFO]: Anti X-Ray: true
+[22:54:09 INFO]:        Engine Mode: 1
+[22:54:09 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:54:09 INFO]:        Replace Blocks: [1, 5]
+[22:54:09 INFO]: Nerfing mobs spawned from spawners: false
+[22:54:09 INFO]: Cactus Growth Modifier: 100%
+[22:54:09 INFO]: Cane Growth Modifier: 100%
+[22:54:09 INFO]: Melon Growth Modifier: 100%
+[22:54:09 INFO]: Mushroom Growth Modifier: 100%
+[22:54:09 INFO]: Pumpkin Growth Modifier: 100%
+[22:54:09 INFO]: Sapling Growth Modifier: 100%
+[22:54:09 INFO]: Wheat Growth Modifier: 100%
+[22:54:09 INFO]: NetherWart Growth Modifier: 100%
+[22:54:09 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:54:09 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:54:09 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:54:09 INFO]: Random Lighting Updates: false
+[22:54:09 INFO]: Structure Info Saving: true
+[22:54:09 INFO]: Sending up to 10 chunks per packet
+[22:54:09 INFO]: Max Entity Collisions: 8
+[22:54:09 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:54:09 INFO]: Max TNT Explosions: 100
+[22:54:09 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:09 INFO]: Zombie Aggressive Towards Villager: true
+[22:54:09 INFO]: Item Despawn Rate: 6000
+[22:54:09 INFO]: Item Merge Radius: 2.5
+[22:54:09 INFO]: Arrow Despawn Rate: 1200
+[22:54:09 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:54:09 INFO]: View Distance: 10
+[22:54:09 INFO]: Chunks to Grow per Tick: 650
+[22:54:09 INFO]: Clear tick list: false
+[22:54:09 INFO]: Experience Merge Radius: 3.0
+[22:54:09 INFO]: BukkitPlotGenerator does not fully support: null
+[22:54:09 INFO]: Preparing start region for level 12 (Seed: 5521080240015849389)
+[22:54:09 INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[22:54:09 INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[22:54:09 INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[22:54:09 INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[22:54:09 INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[22:54:09 INFO]: -------- World Settings For [world] --------
+[22:54:09 INFO]: Mob Spawn Range: 4
+[22:54:09 INFO]: Anti X-Ray: true
+[22:54:09 INFO]:        Engine Mode: 1
+[22:54:09 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[22:54:09 INFO]:        Replace Blocks: [1, 5]
+[22:54:09 INFO]: Nerfing mobs spawned from spawners: false
+[22:54:09 INFO]: Cactus Growth Modifier: 100%
+[22:54:09 INFO]: Cane Growth Modifier: 100%
+[22:54:09 INFO]: Melon Growth Modifier: 100%
+[22:54:09 INFO]: Mushroom Growth Modifier: 100%
+[22:54:09 INFO]: Pumpkin Growth Modifier: 100%
+[22:54:09 INFO]: Sapling Growth Modifier: 100%
+[22:54:09 INFO]: Wheat Growth Modifier: 100%
+[22:54:09 INFO]: NetherWart Growth Modifier: 100%
+[22:54:09 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:54:09 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:54:09 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[22:54:09 INFO]: Random Lighting Updates: false
+[22:54:09 INFO]: Structure Info Saving: true
+[22:54:09 INFO]: Sending up to 10 chunks per packet
+[22:54:09 INFO]: Max Entity Collisions: 8
+[22:54:09 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[22:54:09 INFO]: Max TNT Explosions: 100
+[22:54:09 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:09 INFO]: Zombie Aggressive Towards Villager: true
+[22:54:09 INFO]: Item Despawn Rate: 6000
+[22:54:09 INFO]: Item Merge Radius: 2.5
+[22:54:09 INFO]: Arrow Despawn Rate: 1200
+[22:54:09 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:54:09 INFO]: View Distance: 10
+[22:54:09 INFO]: Chunks to Grow per Tick: 650
+[22:54:09 INFO]: Clear tick list: false
+[22:54:09 INFO]: Experience Merge Radius: 3.0
+[22:54:09 INFO]: BukkitPlotGenerator does not fully support: null
+[22:54:09 INFO]: Preparing start region for level 13 (Seed: 5521080240015849389)
+[22:54:10 INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[22:54:10 INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[22:54:10 INFO]: [WorldGuard] (world) Lava fire is blocked.
+[22:54:10 INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[22:54:10 INFO]: [WorldGuard] Loaded configuration for world 'world'
+[22:54:10 INFO]: [Multiverse-Core] 14 - World(s) loaded.
+[22:54:10 INFO]: [Multiverse-Core] Version 2.5-b717 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[22:54:10 INFO]: [SkyWarsReloaded] Enabling SkyWarsReloaded v2.8
+[22:54:10 INFO]: [SkyWarsReloaded] Loading support for v1_8_R3
+[22:54:10 INFO]: NetherWart Growth Modifier: 100%
+[22:54:10 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:10 INFO]: BukkitPlotGenerator does not fully support: com.walrusone.skywars.controllers.WorldController@11762
+[22:54:10 INFO]: Preparing start region for level 14 (Seed: -1024946660393637971)
+[22:54:10 INFO]: [WorldGuard] (caves) TNT ignition is PERMITTED.
+[22:54:10 INFO]: [WorldGuard] (caves) Lighters are PERMITTED.
+[22:54:10 INFO]: [WorldGuard] (caves) Lava fire is blocked.
+[22:54:10 INFO]: [WorldGuard] (caves) Fire spread is UNRESTRICTED.
+[22:54:10 INFO]: [WorldGuard] Loaded configuration for world 'caves'
+[22:54:10 INFO]: [SkyWarsReloaded] Registered Map caves!
+[22:54:10 WARN]: [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+[22:54:10 WARN]: [Multiverse-Core] To let Multiverse know about it, use:
+[22:54:10 WARN]: [Multiverse-Core] /mv import caves NORMAL
+[22:54:10 INFO]: NetherWart Growth Modifier: 100%
+[22:54:10 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:54:10 INFO]: BukkitPlotGenerator does not fully support: com.walrusone.skywars.controllers.WorldController@10a99ca6
+[22:54:10 INFO]: Preparing start region for level 14 (Seed: 8928945951755683100)
+[22:54:10 INFO]: [WorldGuard] (construct) TNT ignition is PERMITTED.
+[22:54:10 INFO]: [WorldGuard] (construct) Lighters are PERMITTED.
+[22:54:10 INFO]: [WorldGuard] (construct) Lava fire is blocked.
+[22:54:10 INFO]: [WorldGuard] (construct) Fire spread is UNRESTRICTED.
+[22:54:10 INFO]: [WorldGuard] Loaded configuration for world 'construct'
+[22:54:11 INFO]: [SkyWarsReloaded] Registered Map construct!
+[22:54:11 WARN]: [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+[22:54:11 WARN]: [Multiverse-Core] To let Multiverse know about it, use:
+[22:54:11 WARN]: [Multiverse-Core] /mv import construct NORMAL
+[22:54:11 INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[22:54:11 INFO]: [EssentialsKitManager] Enabling EssentialsKitManager v1.0.4
+[22:54:11 INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.12
+[22:54:11 INFO]: [Factions] Enabling Factions v2.8.7Beta
+[22:54:11 INFO]: [Factions 2.8.7Beta] === ENABLE START ===
+[22:54:11 INFO]: [Factions 2.8.7Beta] WARNING: You are using Factions 2.8.7Beta and MassiveCore 2.8.5!
+[22:54:11 INFO]: [Factions 2.8.7Beta] WARNING: They must be the exact same version to work properly!
+[22:54:11 INFO]: [Factions 2.8.7Beta] WARNING: Remember to always update all plugins at the same time!
+[22:54:11 INFO]: [Factions 2.8.7Beta] WARNING: You should stop your server and properly update.
+[22:54:21 INFO]: [Factions 2.8.7Beta] === ENABLE COMPLETE (Took 4ms) ===
+[22:54:21 INFO]: [CratesPlus] Enabling CratesPlus v4.1.1
+[22:54:21 INFO]: CratesPlus Version 4.1.1
+[22:54:21 INFO]: HolographicDisplays was found, hooking in!
+[22:54:21 INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b725
+[22:54:21 INFO]: [Multiverse-Portals] - Version 2.5-b725 Enabled - By Rigby and fernferret
+[22:54:21 INFO]: [MVPLogging] 15 - Portals(s) loaded
+[22:54:21 INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[22:54:21 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:54:22 INFO]: Done (24.836s)! For help, type "help" or "?"
+[22:54:22 INFO]: Starting GS4 status listener
+[22:54:22 INFO]: Query running on 0.0.0.0:40587
+[22:54:22 INFO]: [MyMenu] Checking for updates:
+[22:54:22 INFO]: [MyMenu] No update available!
+[22:54:22 INFO]: [GAListener] Connection established!
+[22:54:22 INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[22:54:22 INFO]: [GAListener] Loading queued votes
+[22:54:22 INFO]: [GAListener] Loaded 2 queued votes
+[22:54:22 INFO]: [HolographicDisplays] Found a new version available: v2.2.5
+[22:54:22 INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[22:54:22 INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[22:54:22 INFO]: [NoCheatPlus] Post-enable running...
+[22:54:22 WARN]: Exception in thread "Craft Scheduler Thread - 10" 
+[22:54:22 WARN]: org.apache.commons.lang.UnhandledException: Plugin GAListener v1.3.2 generated an exception while executing task 49
+        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NoSuchMethodError: org.bukkit.Server._INVALID_getOnlinePlayers()[Lorg/bukkit/entity/Player;
+        at com.swifteh.GAL.Metrics.postPlugin(Metrics.java:335)
+        at com.swifteh.GAL.Metrics.access$4(Metrics.java:328)
+        at com.swifteh.GAL.Metrics$1.run(Metrics.java:223)
+        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+        ... 3 more
+
+[22:54:22 INFO]: [NoCheatPlus] Post-enable finished.
+[22:54:22 INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[22:54:22 INFO]: [Citizens] Loaded 33 NPCs.
+[22:54:22 INFO]: [Vault] Checking for Updates ... 
+[22:54:22 INFO]: [Vault] No new version available
+[22:54:22 INFO]: You are running the latest version of PlotSquared
+[22:54:23 INFO]: Checking for updates via Spigot...
+[22:54:23 INFO]: [CratesPlus] No update was found, you are running the latest version. Will check again later.
+[22:54:24 INFO]: [BuycraftX] Fetching all due players...
+[22:54:24 INFO]: Starting UUID caching
+[22:54:24 INFO]: [P2] Starting player data caching for: Sakurasou
+[22:54:24 INFO]: Fast mode UUID caching enabled!
+[22:54:24 INFO]: [P2] Cached a total of: 15 UUIDs
+[22:54:24 INFO]: Failed to cache: 7 uuids - slowly processing all files
+[22:54:24 INFO]: [P2] Cached a total of: 20 UUIDs
+[22:54:31 INFO]: [BuycraftX] Fetched due players (2 found).
+[22:54:31 INFO]: [ExpireManager] Ignoring modified plot: plots;0;0 : 39 - 20
+[22:55:58 INFO]: UUID of player Blackhunter44 is 018bfebe-88c8-49f4-99b5-85334d1cacbc
+[22:55:58 INFO]: Blackhunter44[/99.246.15.246:53004] logged in with entity id 1358 at ([Sakurasou]663.5, 8.0, 176.5)
+[22:55:58 INFO]: [GAListener] Player: Blackhunter44 has 0 votes
+[22:55:58 INFO]: [+] [Member] Blackhunter44
+[22:55:59 INFO]: Creating empty config: /home/gs/gs/data/servers/2612389/plugins/Essentials/userdata/018bfebe-88c8-49f4-99b5-85334d1cacbc.yml
+[22:55:59 WARN]: §4That kit does not exist.
+[22:56:30 INFO]: [ExpireManager] Skipping modified: plots;0;1
+[22:56:30 INFO]: [ExpireManager] Skipping modified: plots;0;2
+[22:56:32 INFO]: Blackhunter44 lost connection: Disconnected
+[22:56:32 INFO]: [-] [Member] Blackhunter44
+[22:57:15 INFO]: UUID of player Blackhunter44 is 018bfebe-88c8-49f4-99b5-85334d1cacbc
+[22:57:15 INFO]: Blackhunter44[/99.246.15.246:53113] logged in with entity id 1779 at ([factions]16.89070447969934, 73.0, -14.033660948214504)
+[22:57:15 INFO]: [GAListener] Player: Blackhunter44 has 0 votes
+[22:57:16 INFO]: [+] [Member] Blackhunter44
+[22:57:18 INFO]: UUID of player KapjGames is f20729a4-3058-4bad-93f2-dd412fa4ec79
+[22:57:18 INFO]: KapjGames[/70.50.214.1:55716] logged in with entity id 1855 at ([spawn]-1.8458169013981025, 113.0, 3.1252328683183297)
+[22:57:18 INFO]: [GAListener] Player: KapjGames has 1 votes
+[22:57:18 INFO]: [+] [Member] KapjGames
+[22:57:29 INFO]: KapjGames issued server command: /op
+[22:57:29 INFO]: Blackhunter44 issued server command: /pv 1
+[22:57:32 INFO]: Blackhunter44 issued server command: /pv 1
+[22:57:34 INFO]: Blackhunter44 issued server command: /op
+[22:57:47 INFO]: KapjGames issued server command: /help
+[22:57:52 INFO]: Blackhunter44 issued server command: /hub
+[22:57:52 INFO]: KapjGames issued server command: /help 2
+[22:57:56 INFO]: Blackhunter44 issued server command: /spawn
+[22:58:00 INFO]: KapjGames issued server command: /help 3
+[22:58:13 INFO]: KapjGames issued server command: /help 3
+[22:58:16 INFO]: KapjGames issued server command: /help 2
+[22:58:25 INFO]: KapjGames issued server command: /help 1
+[22:58:32 INFO]: Blackhunter44 issued server command: /buy
+[22:58:34 INFO]: KapjGames issued server command: /help groupmanager
+[22:58:34 INFO]: [ExpireManager] Ignoring modified plot: plots;-2;-1 : 125 - 63
+[22:58:42 INFO]: KapjGames issued server command: /manuadd
+[22:58:51 INFO]: KapjGames issued server command: /manuadd kapjgames owner
+[22:58:54 INFO]: CommandBlock at -26,4,18 issued server command: /day 
+[22:58:58 INFO]: KapjGames issued server command: /gm1
+[22:59:00 INFO]: KapjGames issued server command: /gm 1
+[22:59:21 INFO]: KapjGames issued server command: /manuadd Blackhunter44 Titan
+[22:59:26 ERROR]: Could not pass event EntityDamageByEntityEvent to SkyWarsReloaded v2.8
+org.bukkit.event.EventException
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callEvent(CraftEventFactory.java:87) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:553) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:466) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:585) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.d(EntityLiving.java:1102) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityHuman.d(EntityHuman.java:859) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:743) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:800) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:496) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.citizensnpcs.npc.entity.EntityHumanNPC.damageEntity(EntityHumanNPC.java:106) [Citizens%20(1).jar:?]
+        at net.minecraft.server.v1_8_R3.EntityHuman.attack(EntityHuman.java:1001) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityPlayer.attack(EntityPlayer.java:1063) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1355) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:52) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:11) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.7.0_80]
+        at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.7.0_80]
+        at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.lang.Thread.run(Unknown Source) [?:1.7.0_80]
+Caused by: java.lang.NullPointerException
+        at com.walrusone.skywars.listeners.PlayerListener.onEntityDamageEntity(PlayerListener.java:78) ~[?:?]
+        at sun.reflect.GeneratedMethodAccessor176.invoke(Unknown Source) ~[?:?]
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_80]
+        at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_80]
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        ... 27 more
+[22:59:27 ERROR]: Could not pass event EntityDamageByEntityEvent to SkyWarsReloaded v2.8
+org.bukkit.event.EventException
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callEvent(CraftEventFactory.java:87) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:553) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:466) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:585) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.d(EntityLiving.java:1102) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityHuman.d(EntityHuman.java:859) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:743) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:800) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:496) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.citizensnpcs.npc.entity.EntityHumanNPC.damageEntity(EntityHumanNPC.java:106) [Citizens%20(1).jar:?]
+        at net.minecraft.server.v1_8_R3.EntityHuman.attack(EntityHuman.java:1001) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityPlayer.attack(EntityPlayer.java:1063) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1355) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:52) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:11) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.7.0_80]
+        at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.7.0_80]
+        at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.lang.Thread.run(Unknown Source) [?:1.7.0_80]
+Caused by: java.lang.NullPointerException
+        at com.walrusone.skywars.listeners.PlayerListener.onEntityDamageEntity(PlayerListener.java:78) ~[?:?]
+        at sun.reflect.GeneratedMethodAccessor176.invoke(Unknown Source) ~[?:?]
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_80]
+        at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_80]
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        ... 27 more
+[22:59:27 ERROR]: Could not pass event EntityDamageByEntityEvent to SkyWarsReloaded v2.8
+org.bukkit.event.EventException
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callEvent(CraftEventFactory.java:87) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:553) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:466) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:585) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.d(EntityLiving.java:1102) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityHuman.d(EntityHuman.java:859) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:743) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:800) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:496) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.citizensnpcs.npc.entity.EntityHumanNPC.damageEntity(EntityHumanNPC.java:106) [Citizens%20(1).jar:?]
+        at net.minecraft.server.v1_8_R3.EntityHuman.attack(EntityHuman.java:1001) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityPlayer.attack(EntityPlayer.java:1063) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1355) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:52) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:11) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.7.0_80]
+        at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.7.0_80]
+        at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.lang.Thread.run(Unknown Source) [?:1.7.0_80]
+Caused by: java.lang.NullPointerException
+        at com.walrusone.skywars.listeners.PlayerListener.onEntityDamageEntity(PlayerListener.java:78) ~[?:?]
+        at sun.reflect.GeneratedMethodAccessor176.invoke(Unknown Source) ~[?:?]
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_80]
+        at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_80]
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        ... 27 more
+[22:59:27 ERROR]: Could not pass event EntityDamageByEntityEvent to SkyWarsReloaded v2.8
+org.bukkit.event.EventException
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callEvent(CraftEventFactory.java:87) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:553) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:466) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.craftbukkit.v1_8_R3.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:585) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.d(EntityLiving.java:1102) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityHuman.d(EntityHuman.java:859) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.damageEntity(EntityLiving.java:743) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityHuman.damageEntity(EntityHuman.java:800) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityPlayer.damageEntity(EntityPlayer.java:496) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.citizensnpcs.npc.entity.EntityHumanNPC.damageEntity(EntityHumanNPC.java:106) [Citizens%20(1).jar:?]
+        at net.minecraft.server.v1_8_R3.EntityHuman.attack(EntityHuman.java:1001) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityPlayer.attack(EntityPlayer.java:1063) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PlayerConnection.a(PlayerConnection.java:1355) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:52) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PacketPlayInUseEntity.a(SourceFile:11) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PlayerConnectionUtils$1.run(SourceFile:13) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.7.0_80]
+        at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.7.0_80]
+        at net.minecraft.server.v1_8_R3.SystemUtils.a(SourceFile:44) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:715) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.lang.Thread.run(Unknown Source) [?:1.7.0_80]
+Caused by: java.lang.NullPointerException
+        at com.walrusone.skywars.listeners.PlayerListener.onEntityDamageEntity(PlayerListener.java:78) ~[?:?]
+        at sun.reflect.GeneratedMethodAccessor176.invoke(Unknown Source) ~[?:?]
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_80]
+        at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_80]
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        ... 27 more
+[22:59:33 INFO]: Blackhunter44 issued server command: /fly
+[22:59:33 INFO]: §cBlackhunter44 §4was denied access to command.
+[22:59:42 INFO]: KapjGames issued server command: /fly blackhunter44
+[22:59:42 INFO]: Blackhunter44 issued server command: /fly
+[22:59:42 INFO]: §cBlackhunter44 §4was denied access to command.
+[22:59:54 INFO]: KapjGames issued server command: /warp staff
+[23:00:09 INFO]: Blackhunter44 issued server command: /kit
+[23:00:14 INFO]: Blackhunter44 issued server command: /kit titan
+[23:00:14 WARN]: [Essentials] Enchantment PROTECTION_FALL: Specified enchantment cannot be applied to this itemstack
+[23:00:21 INFO]: KapjGames issued server command: /warp shop
+[23:00:30 ERROR]: Could not pass event EntityTargetLivingEntityEvent to SkyWarsReloaded v2.8
+org.bukkit.event.EventException
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.setGoalTarget(EntityInsentient.java:109) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PathfinderGoalNearestAttackableTarget.c(PathfinderGoalNearestAttackableTarget.java:86) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PathfinderGoalSelector.a(PathfinderGoalSelector.java:69) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.doTick(EntityInsentient.java:470) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.m(EntityLiving.java:1626) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.m(EntityInsentient.java:338) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityMonster.m(EntityMonster.java:20) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityZombie.m(EntityZombie.java:163) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1487) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.t_(EntityInsentient.java:193) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityMonster.t_(EntityMonster.java:24) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityZombie.t_(EntityZombie.java:221) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1607) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.World.g(World.java:1582) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1425) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:597) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:786) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.lang.Thread.run(Unknown Source) [?:1.7.0_80]
+Caused by: java.lang.NullPointerException
+        at com.walrusone.skywars.listeners.SpectatorListener.onEntityTarget(SpectatorListener.java:292) ~[?:?]
+        at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_80]
+        at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_80]
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_80]
+        at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_80]
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        ... 24 more
+[23:00:31 INFO]: KapjGames issued server command: /fly
+[23:00:38 INFO]: [ExpireManager] Deleted expired plot: plots;-2;-2 : 0 - 0
+[23:00:38 INFO]:  - Area: plots
+[23:00:38 INFO]:  - Owner: JAG07
+[23:01:08 INFO]: KapjGames issued server command: /tp Blackhunter44
+[23:01:40 INFO]: KapjGames issued server command: /f
+[23:01:41 INFO]: KapjGames issued server command: /f
+[23:01:47 INFO]: KapjGames issued server command: /f
+[23:01:54 INFO]: KapjGames issued server command: //wand
+[23:02:22 INFO]: KapjGames issued server command: //up
+[23:02:25 INFO]: KapjGames issued server command: /up 1
+[23:02:40 INFO]: [ExpireManager] Ignoring modified plot: plots;1;1 : 614 - 309
+[23:03:01 INFO]: Blackhunter44 issued server command: /kit
+[23:03:06 INFO]: Blackhunter44 issued server command: /kit member
+[23:03:38 INFO]: KapjGames issued server command: //region
+[23:03:40 INFO]: KapjGames issued server command: /region
+[23:03:45 INFO]: KapjGames issued server command: /region define
+[23:03:58 INFO]: GroupManager - INFO -  Data files refreshed.
+[23:04:04 INFO]: KapjGames issued server command: /region define harambe
+[23:04:09 INFO]: KapjGames issued server command: /rg flag harambe
+[23:04:11 INFO]: KapjGames issued server command: /rg flag harambe lol
+[23:04:29 INFO]: Blackhunter44 issued server command: //wand
+[23:04:31 INFO]: KapjGames issued server command: /rg flag harambe block-break false
+[23:04:31 INFO]: [WorldGuard] Region data changes made in 'spawn' have been background saved
+[23:04:34 INFO]: [KapjCraft]: hi For More Info or where to apply, appeal or ranks go to https://bit.do/kapj hi
+[23:04:34 INFO]: [KapjCraft]: hi For More Info or where to apply, appeal or ranks go to https://bit.do/kapj hi
+[23:04:35 INFO]: KapjGames issued server command: /rg flag harambe block-break deny
+[23:04:39 INFO]: [ExpireManager] Skipping modified: plots;1;2
+[23:04:39 INFO]: [ExpireManager] Skipping modified: plots;-1;-2
+[23:04:39 INFO]: [ExpireManager] Skipping modified: plots;-1;-1
+[23:04:39 INFO]: [ExpireManager] Skipping modified: plots;0;-1
+[23:04:46 INFO]: KapjGames issued server command: /rg flag harambe block-break build deny
+[23:04:58 INFO]: KapjGames issued server command: /rg flag harambe build deny
+[23:05:01 INFO]: [WorldGuard] Region data changes made in 'spawn' have been background saved
+[23:05:19 INFO]: KapjGames issued server command: /rg flag harambe block-place deny
+[23:05:28 INFO]: KapjGames issued server command: /tphere black
+[23:05:31 INFO]: [WorldGuard] Region data changes made in 'spawn' have been background saved
+[23:05:41 INFO]: KapjGames issued server command: /feed Blackhunter44
+[23:05:48 INFO]: KapjGames issued server command: /thru'
+[23:05:49 INFO]: KapjGames issued server command: /thru
+[23:05:59 INFO]: KapjGames issued server command: /thru
+[23:06:19 INFO]: KapjGames issued server command: /tp hun
+[23:06:28 INFO]: KapjGames issued server command: /warp
+[23:06:30 INFO]: KapjGames issued server command: /warp court
+[23:06:34 INFO]: Blackhunter44 issued server command: /warp
+[23:06:45 INFO]: KapjGames issued server command: /warp apply
+[23:06:45 INFO]: Blackhunter44 issued server command: /warp court
+[23:06:45 INFO]: [ExpireManager] Deleted expired plot: plots;3;2 : 0 - 0
+[23:06:45 INFO]:  - Area: plots
+[23:06:45 INFO]:  - Owner: SilverPuffle274
+[23:07:04 INFO]: KapjGames issued server command: /warp commands
+[23:07:08 INFO]: Blackhunter44 issued server command: /warp parkour
+[23:07:13 INFO]: KapjGames issued server command: /home
+[23:07:40 INFO]: KapjGames issued server command: /fly Blackhunter44
+[23:07:46 INFO]: CommandBlock at -133,10,24 issued server command: /eco give Blackhunter44 100
+[23:07:46 INFO]: CommandBlock at -134,10,24 issued server command: /warp parkour Blackhunter44
+[23:07:46 INFO]: CommandBlock at -131,10,24 issued server command: /w Blackhunter44 Try the next level
+[23:07:50 INFO]: CommandBlock at -133,10,24 issued server command: /eco give Blackhunter44 100
+[23:07:50 INFO]: CommandBlock at -134,10,24 issued server command: /warp parkour Blackhunter44
+[23:07:50 INFO]: CommandBlock at -131,10,24 issued server command: /w Blackhunter44 Try the next level
+[23:08:08 INFO]: KapjGames issued server command: /tphere hunter
+[23:08:45 INFO]: [ExpireManager] Skipping modified: plots;0;-2
+[23:08:52 INFO]: [ExpireManager] Deleted expired plot: plots;3;1 : 0 - 0
+[23:08:52 INFO]:  - Area: plots
+[23:08:52 INFO]:  - Owner: TheDashDevil
+[23:09:39 INFO]: KapjGames issued server command: /baltop
+[23:09:43 INFO]: Blackhunter44 issued server command: /baltop
+[23:09:43 INFO]: §cBlackhunter44 §4was denied access to command.
+[23:09:44 WARN]: Exception in thread "Craft Scheduler Thread - 42" 
+[23:09:44 WARN]: org.apache.commons.lang.UnhandledException: Plugin GAListener v1.3.2 generated an exception while executing task 49
+        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NoSuchMethodError: org.bukkit.Server._INVALID_getOnlinePlayers()[Lorg/bukkit/entity/Player;
+        at com.swifteh.GAL.Metrics.postPlugin(Metrics.java:335)
+        at com.swifteh.GAL.Metrics.access$4(Metrics.java:328)
+        at com.swifteh.GAL.Metrics$1.run(Metrics.java:223)
+        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+        ... 3 more
+
+[23:09:46 INFO]: [BuycraftX] Fetching all due players...
+[23:09:47 INFO]: [BuycraftX] Fetched due players (2 found).
+[23:09:47 INFO]: Blackhunter44 issued server command: /bal top
+[23:09:47 INFO]: §cBlackhunter44 §4was denied access to command.
+[23:09:49 INFO]: Blackhunter44 issued server command: /bal
+[23:09:49 INFO]: §cBlackhunter44 §4was denied access to command.
+[23:09:55 INFO]: Blackhunter44 issued server command: /baltop
+[23:09:55 INFO]: §cBlackhunter44 §4was denied access to command.
+[23:10:08 INFO]: Blackhunter44 issued server command: /shop
+[23:10:16 INFO]: Blackhunter44 issued server command: /money
+[23:10:16 INFO]: §cBlackhunter44 §4was denied access to command.
+[23:10:19 INFO]: KapjGames issued server command: /butcher
+[23:10:19 INFO]: Blackhunter44 issued server command: /ba;
+[23:10:21 INFO]: Blackhunter44 issued server command: /bal
+[23:10:21 INFO]: §cBlackhunter44 §4was denied access to command.
+[23:10:33 INFO]: KapjGames issued server command: /tp hun
+[23:10:39 INFO]: Blackhunter44 issued server command: /kit
+[23:10:40 INFO]: KapjGames issued server command: /thru
+[23:10:43 INFO]: KapjGames issued server command: /thru
+[23:10:56 INFO]: [ExpireManager] Ignoring modified plot: plots;-2;0 : 648 - 326
+[23:11:03 INFO]: Blackhunter44 issued server command: /spawn
+[23:11:04 INFO]: KapjGames issued server command: /warp skywars
+[23:11:09 INFO]: NetherWart Growth Modifier: 100%
+[23:11:09 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:11:09 INFO]: GroupManager - INFO - New world detected...
+[23:11:09 INFO]: GroupManager - INFO - Creating data for: caves_1
+[23:11:09 INFO]: GroupManager - INFO - Don't forget to configure/mirror this world in config.yml.
+[23:11:09 INFO]: BukkitPlotGenerator does not fully support: com.walrusone.skywars.controllers.WorldController@1c05447
+[23:11:09 INFO]: Preparing start region for level 14 (Seed: -1024946660393637971)
+[23:11:09 INFO]: [WorldGuard] Default configuration file written: /home/gs/gs/data/servers/2612389/plugins/WorldGuard/worlds/caves_1/config.yml
+[23:11:09 INFO]: [WorldGuard] Default configuration file written: /home/gs/gs/data/servers/2612389/plugins/WorldGuard/worlds/caves_1/blacklist.txt
+[23:11:09 INFO]: [WorldGuard] (caves_1) TNT ignition is PERMITTED.
+[23:11:09 INFO]: [WorldGuard] (caves_1) Lighters are PERMITTED.
+[23:11:09 INFO]: [WorldGuard] (caves_1) Lava fire is blocked.
+[23:11:09 INFO]: [WorldGuard] (caves_1) Fire spread is UNRESTRICTED.
+[23:11:09 INFO]: [WorldGuard] Loaded configuration for world 'caves_1'
+[23:11:10 INFO]: Blackhunter44 issued server command: /shop
+[23:11:19 INFO]: Blackhunter44 issued server command: /warp skywars
+[23:11:32 INFO]: KapjGames issued server command: /sw
+[23:11:36 INFO]: KapjGames issued server command: /sws start
+[23:11:41 INFO]: KapjGames issued server command: /sw start
+[23:11:47 INFO]: KapjGames issued server command: /help
+[23:11:50 INFO]: KapjGames issued server command: /op kapjgames
+[23:11:56 INFO]: KapjGames issued server command: /help
+[23:11:57 INFO]: KapjGames issued server command: /sws
+[23:11:58 INFO]: KapjGames issued server command: /sw
+[23:12:09 INFO]: KapjGames issued server command: /swr start
+[23:12:18 INFO]: [NoCheatPlus] Blackhunter44 failed FastClick: tried to move items in their inventory too quickly. VL 59.
+[23:12:25 INFO]: [NoCheatPlus] Blackhunter44 failed FastClick: tried to move items in their inventory too quickly. VL 94.
+[23:12:30 INFO]: [NoCheatPlus] Blackhunter44 failed FastClick: tried to move items in their inventory too quickly. VL 13397.
+[23:12:56 INFO]: [ExpireManager] Skipping modified: plots;-2;1
+[23:13:16 WARN]: [Multiverse-Core] Hmm Multiverse does not know about this world but it's loaded in memory.
+[23:13:16 WARN]: [Multiverse-Core] To let Multiverse know about it, use:
+[23:13:16 WARN]: [Multiverse-Core] /mv import caves_1 NORMAL
+[23:13:42 INFO]: Blackhunter44 issued server command: /warp skywars
+[23:14:00 INFO]: KapjGames issued server command: /who epixswaglol
+[23:14:04 INFO]: KapjGames issued server command: /who
+[23:14:08 INFO]: KapjGames issued server command: /ip
+[23:14:12 INFO]: KapjGames issued server command: /name
+[23:14:22 INFO]: KapjGames issued server command: /seen
+[23:14:48 INFO]: [KapjCraft]: hi To make a donation to KapjCraft go to https://server.pro/server/2612389/donate/
+[23:14:48 INFO]: [KapjCraft]: hi To make a donation to KapjCraft go to https://server.pro/server/2612389/donate/
+[23:14:54 INFO]: KapjGames issued server command: /seen pikachan
+[23:15:28 INFO]: Blackhunter44 issued server command: /spawn
+[23:15:55 INFO]: KapjGames issued server command: /seen itsjagged
+[23:16:01 INFO]: KapjGames issued server command: /seen JAG07
+[23:16:04 INFO]: KapjGames issued server command: /seen itsjagged
+[23:16:07 INFO]: KapjGames issued server command: /seen pikachan
+[23:16:15 INFO]: KapjGames issued server command: /warp spawn
+[23:16:17 INFO]: KapjGames issued server command: /spawn
+[23:16:21 INFO]: Blackhunter44 issued server command: /fly
+[23:16:21 INFO]: §cBlackhunter44 §4was denied access to command.
+[23:16:24 INFO]: KapjGames issued server command: /tp -13, 110, 6
+[23:16:30 INFO]: KapjGames issued server command: /tp -13 110 6
+[23:17:12 INFO]: KapjGames issued server command: /seen
+[23:18:55 INFO]: Blackhunter44 issued server command: //wand
+[23:19:03 INFO]: Blackhunter44 issued server command: //wand
+[23:20:42 INFO]: KapjGames issued server command: /tp hun
+[23:20:52 INFO]: Blackhunter44 issued server command: /invsee KapjGames
+[23:20:52 INFO]: §cBlackhunter44 §4was denied access to command.
+[23:21:17 INFO]: Blackhunter44 issued server command: /break
+[23:21:17 INFO]: §cBlackhunter44 §4was denied access to command.
+[23:21:19 INFO]: KapjGames issued server command: /p
+[23:21:21 INFO]: KapjGames issued server command: /p home
+[23:21:52 INFO]: KapjGames issued server command: /manuadd blackhunter44 mod
+[23:21:53 INFO]: Blackhunter44 issued server command: /kill
+[23:21:53 INFO]: §cBlackhunter44 §4was denied access to command.
+[23:21:55 INFO]: KapjGames issued server command: /manuadd blackhunter44 moderator
+[23:22:04 INFO]: Blackhunter44 issued server command: /fly
+[23:22:06 INFO]: Blackhunter44 issued server command: /fly
+[23:22:09 INFO]: Blackhunter44 issued server command: //wand
+[23:22:15 INFO]: Blackhunter44 issued server command: //wand
+[23:22:20 INFO]: Blackhunter44 issued server command: /help
+[23:22:30 INFO]: Blackhunter44 issued server command: /help 2
+[23:22:43 INFO]: Blackhunter44 issued server command: /balance
+[23:22:47 INFO]: Blackhunter44 issued server command: /balancetop
+[23:22:56 INFO]: KapjGames issued server command: /balance
+[23:23:01 INFO]: KapjGames issued server command: /balancetop
+[23:23:13 INFO]: Blackhunter44 issued server command: /balancetop 2
+[23:23:17 INFO]: KapjGames issued server command: /balancetop
+[23:23:21 INFO]: Blackhunter44 issued server command: /balancetop 19
+[23:23:24 INFO]: KapjGames issued server command: /baltop 2
+[23:23:40 INFO]: Blackhunter44 issued server command: /spawm
+[23:23:44 INFO]: Blackhunter44 issued server command: /spawn
+[23:23:48 INFO]: Blackhunter44 issued server command: /kit
+[23:23:50 INFO]: KapjGames issued server command: /thru
+[23:23:57 INFO]: Blackhunter44 issued server command: /gmc
+[23:23:58 INFO]: GroupManager - INFO -  Data files refreshed.
+[23:24:00 INFO]: KapjGames issued server command: /inv
+[23:24:03 INFO]: KapjGames issued server command: /vanish
+[23:24:07 INFO]: KapjGames issued server command: /tp Blackhunter44
+[23:24:08 INFO]: Blackhunter44 issued server command: /gms
+[23:24:11 INFO]: Blackhunter44 issued server command: /shop
+[23:24:18 INFO]: KapjGames issued server command: /tp Blackhunter44
+[23:24:32 INFO]: Blackhunter44 tried to swim in lava
+[23:24:38 INFO]: Blackhunter44 issued server command: /back
+[23:24:46 INFO]: Blackhunter44 issued server command: /staff
+[23:24:49 WARN]: Exception in thread "Craft Scheduler Thread - 47" 
+[23:24:49 WARN]: org.apache.commons.lang.UnhandledException: Plugin GAListener v1.3.2 generated an exception while executing task 49
+        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:56)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NoSuchMethodError: org.bukkit.Server._INVALID_getOnlinePlayers()[Lorg/bukkit/entity/Player;
+        at com.swifteh.GAL.Metrics.postPlugin(Metrics.java:335)
+        at com.swifteh.GAL.Metrics.access$4(Metrics.java:328)
+        at com.swifteh.GAL.Metrics$1.run(Metrics.java:223)
+        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:71)
+        at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+        ... 3 more
+
+[23:24:49 INFO]: [KapjCraft]: hi For More Info or where to apply, appeal or ranks go to https://bit.do/kapj hi
+[23:24:49 INFO]: [KapjCraft]: hi For More Info or where to apply, appeal or ranks go to https://bit.do/kapj hi
+[23:24:49 INFO]: Blackhunter44 issued server command: /v
+[23:24:51 INFO]: [BuycraftX] Fetching all due players...
+[23:24:52 INFO]: [BuycraftX] Fetched due players (2 found).
+[23:25:01 INFO]: Blackhunter44 issued server command: /v
+[23:25:05 INFO]: Blackhunter44 issued server command: /staff
+[23:25:26 INFO]: Blackhunter44 issued server command: /tpohere kapjgames
+[23:25:26 INFO]: §cBlackhunter44 §4was denied access to command.
+[23:25:30 INFO]: Blackhunter44 issued server command: /shop
+[23:25:43 INFO]: Blackhunter44 issued server command: /shop
+[23:25:45 INFO]: Blackhunter44 issued server command: /shop
+[23:25:55 INFO]: KapjGames issued server command: /tp
+[23:25:56 INFO]: Blackhunter44 issued server command: /gmc
+[23:25:58 INFO]: KapjGames issued server command: /tp h
+[23:26:09 INFO]: Blackhunter44 issued server command: /gms
+[23:26:13 INFO]: Blackhunter44 issued server command: /gms
+[23:26:16 INFO]: Blackhunter44 issued server command: /gmc
+[23:26:28 INFO]: Blackhunter44 issued server command: /gms
+[23:26:50 INFO]: Blackhunter44 issued server command: /bal
+[23:27:10 INFO]: Blackhunter44 issued server command: /thru
+[23:27:13 INFO]: Blackhunter44 issued server command: /through
+[23:27:23 INFO]: Blackhunter44 issued server command: /through
+[23:27:27 INFO]: Blackhunter44 issued server command: /thu
+[23:27:31 INFO]: Blackhunter44 issued server command: /thru
+[23:27:43 INFO]: KapjGames issued server command: /thru
+[23:27:47 INFO]: KapjGames issued server command: /top
+[23:28:39 INFO]: Blackhunter44 issued server command: /v
+[23:28:52 INFO]: Blackhunter44 issued server command: /gmc
+[23:29:35 INFO]: Blackhunter44 issued server command: //claim
+[23:29:58 INFO]: Blackhunter44 issued server command: /v
+[23:30:07 INFO]: KapjGames issued server command: /tp h
+[23:30:38 INFO]: Blackhunter44 issued server command: /bal
+[23:30:50 INFO]: Blackhunter44 issued server command: //wand
+[23:31:07 INFO]: Blackhunter44 issued server command: /warp
+[23:31:10 INFO]: Blackhunter44 issued server command: /warp parkour
+[23:31:20 INFO]: KapjGames issued server command: /warp parkour
+[23:31:30 INFO]: Blackhunter44 issued server command: /gmc
+[23:31:58 INFO]: CommandBlock at -133,10,24 issued server command: /eco give KapjGames 100
+[23:31:58 INFO]: CommandBlock at -134,10,24 issued server command: /warp parkour KapjGames
+[23:31:58 INFO]: CommandBlock at -131,10,24 issued server command: /w KapjGames Try the next level
+[23:32:15 ERROR]: Could not pass event EntityTargetLivingEntityEvent to SkyWarsReloaded v2.8
+org.bukkit.event.EventException
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.setGoalTarget(EntityInsentient.java:109) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PathfinderGoalNearestAttackableTarget.c(PathfinderGoalNearestAttackableTarget.java:86) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PathfinderGoalSelector.a(PathfinderGoalSelector.java:69) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.doTick(EntityInsentient.java:470) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.m(EntityLiving.java:1626) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.m(EntityInsentient.java:338) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityMonster.m(EntityMonster.java:20) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityZombie.m(EntityZombie.java:163) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1487) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.t_(EntityInsentient.java:193) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityMonster.t_(EntityMonster.java:24) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityZombie.t_(EntityZombie.java:221) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1607) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.World.g(World.java:1582) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1425) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:597) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:786) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.lang.Thread.run(Unknown Source) [?:1.7.0_80]
+Caused by: java.lang.NullPointerException
+        at com.walrusone.skywars.listeners.SpectatorListener.onEntityTarget(SpectatorListener.java:292) ~[?:?]
+        at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_80]
+        at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_80]
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_80]
+        at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_80]
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        ... 24 more
+[23:32:49 INFO]: KapjGames lost connection: Disconnected
+[23:32:49 INFO]: [-] hi[OWNER]hiKapjGames
+[23:33:03 INFO]: CommandBlock at -133,10,24 issued server command: /eco give Blackhunter44 100
+[23:33:03 INFO]: CommandBlock at -134,10,24 issued server command: /warp parkour Blackhunter44
+[23:33:03 INFO]: CommandBlock at -131,10,24 issued server command: /w Blackhunter44 Try the next level
+[23:33:11 INFO]: CommandBlock at -133,10,24 issued server command: /eco give Blackhunter44 100
+[23:33:11 INFO]: CommandBlock at -134,10,24 issued server command: /warp parkour Blackhunter44
+[23:33:11 INFO]: CommandBlock at -131,10,24 issued server command: /w Blackhunter44 Try the next level
+[23:33:13 INFO]: CommandBlock at -133,10,24 issued server command: /eco give Blackhunter44 100
+[23:33:13 INFO]: CommandBlock at -134,10,24 issued server command: /warp parkour Blackhunter44
+[23:33:13 INFO]: CommandBlock at -131,10,24 issued server command: /w Blackhunter44 Try the next level
+[23:33:15 INFO]: CommandBlock at -133,10,24 issued server command: /eco give Blackhunter44 100
+[23:33:15 INFO]: CommandBlock at -134,10,24 issued server command: /warp parkour Blackhunter44
+[23:33:15 INFO]: CommandBlock at -131,10,24 issued server command: /w Blackhunter44 Try the next level
+[23:33:16 INFO]: CommandBlock at -133,10,24 issued server command: /eco give Blackhunter44 100
+[23:33:16 INFO]: CommandBlock at -134,10,24 issued server command: /warp parkour Blackhunter44
+[23:33:16 INFO]: CommandBlock at -131,10,24 issued server command: /w Blackhunter44 Try the next level
+[23:33:27 INFO]: CommandBlock at -133,10,24 issued server command: /eco give Blackhunter44 100
+[23:33:27 INFO]: CommandBlock at -134,10,24 issued server command: /warp parkour Blackhunter44
+[23:33:27 INFO]: CommandBlock at -131,10,24 issued server command: /w Blackhunter44 Try the next level
+[23:33:34 INFO]: CommandBlock at -133,10,24 issued server command: /eco give Blackhunter44 100
+[23:33:34 INFO]: CommandBlock at -134,10,24 issued server command: /warp parkour Blackhunter44
+[23:33:34 INFO]: CommandBlock at -131,10,24 issued server command: /w Blackhunter44 Try the next level
+[23:33:36 INFO]: CommandBlock at -133,10,24 issued server command: /eco give Blackhunter44 100
+[23:33:36 INFO]: CommandBlock at -134,10,24 issued server command: /warp parkour Blackhunter44
+[23:33:36 INFO]: CommandBlock at -131,10,24 issued server command: /w Blackhunter44 Try the next level
+save-all
+[23:33:50 INFO]: Saving...
+[23:33:50 INFO]: Saved the world
+[23:33:52 ERROR]: Could not pass event EntityTargetLivingEntityEvent to SkyWarsReloaded v2.8
+org.bukkit.event.EventException
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.setGoalTarget(EntityInsentient.java:109) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PathfinderGoalNearestAttackableTarget.c(PathfinderGoalNearestAttackableTarget.java:86) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PathfinderGoalSelector.a(PathfinderGoalSelector.java:69) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.doTick(EntityInsentient.java:470) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.m(EntityLiving.java:1626) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.m(EntityInsentient.java:338) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityMonster.m(EntityMonster.java:20) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityZombie.m(EntityZombie.java:163) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1487) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.t_(EntityInsentient.java:193) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityMonster.t_(EntityMonster.java:24) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityZombie.t_(EntityZombie.java:221) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1607) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.World.g(World.java:1582) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1425) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:597) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:786) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.lang.Thread.run(Unknown Source) [?:1.7.0_80]
+Caused by: java.lang.NullPointerException
+        at com.walrusone.skywars.listeners.SpectatorListener.onEntityTarget(SpectatorListener.java:292) ~[?:?]
+        at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_80]
+        at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_80]
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_80]
+        at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_80]
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        ... 24 more
+[23:33:55 ERROR]: Could not pass event EntityTargetLivingEntityEvent to SkyWarsReloaded v2.8
+org.bukkit.event.EventException
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.setGoalTarget(EntityInsentient.java:109) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PathfinderGoalNearestAttackableTarget.c(PathfinderGoalNearestAttackableTarget.java:86) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.PathfinderGoalSelector.a(PathfinderGoalSelector.java:69) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.doTick(EntityInsentient.java:470) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.m(EntityLiving.java:1626) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.m(EntityInsentient.java:338) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityMonster.m(EntityMonster.java:20) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityZombie.m(EntityZombie.java:163) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityLiving.t_(EntityLiving.java:1487) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityInsentient.t_(EntityInsentient.java:193) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityMonster.t_(EntityMonster.java:24) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.EntityZombie.t_(EntityZombie.java:221) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.World.entityJoinedWorld(World.java:1607) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.World.g(World.java:1582) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.World.tickEntities(World.java:1425) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.WorldServer.tickEntities(WorldServer.java:597) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.B(MinecraftServer.java:786) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.DedicatedServer.B(DedicatedServer.java:374) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.A(MinecraftServer.java:654) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:557) [spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        at java.lang.Thread.run(Unknown Source) [?:1.7.0_80]
+Caused by: java.lang.NullPointerException
+        at com.walrusone.skywars.listeners.SpectatorListener.onEntityTarget(SpectatorListener.java:292) ~[?:?]
+        at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_80]
+        at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_80]
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_80]
+        at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_80]
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot-1.8.8.jar:git-Spigot-21fe707-e1ebe52]
+        ... 24 more

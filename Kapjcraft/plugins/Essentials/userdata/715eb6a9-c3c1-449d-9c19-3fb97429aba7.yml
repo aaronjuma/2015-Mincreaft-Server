@@ -1,0 +1,21 @@
+geolocation: United States
+lastAccountName: Waffle_Dino_YT
+timestamps:
+  login: 1459205945081
+  lastteleport: 1459115055211
+  logout: 1459115077346
+ipAddress: 184.91.89.50
+lastlocation:
+  world: world
+  x: -129.4972254339819
+  y: 102.0
+  z: -20.522710014720126
+  yaw: -9.895782
+  pitch: 65.099976
+logoutlocation:
+  world: world
+  x: -129.5
+  y: 102.0
+  z: -20.5
+  yaw: 0.60570633
+  pitch: 36.199165

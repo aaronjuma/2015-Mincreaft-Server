@@ -1,0 +1,56 @@
+lastAccountName: Phantom12378
+timestamps:
+  login: 1469412512853
+  kits:
+    member: 1468477551149
+    scout: 1468477542648
+    titan: 1468603136444
+    heavy: 1468477526089
+  lastteleport: 1469412566890
+  logout: 1469413392221
+ipAddress: 68.103.218.138
+lastlocation:
+  world: world
+  x: -130.10891647021384
+  y: 103.20000004768372
+  z: -20.035585351676527
+  yaw: -179.69366
+  pitch: 16.399145
+money: '3632800.0'
+logoutlocation:
+  world: blockparty
+  x: -2743.705321704591
+  y: 256.0
+  z: -2743.5110375666595
+  yaw: -353.84946
+  pitch: 79.94998
+homes:
+  top:
+    world: factions
+    x: -338.19894006174997
+    y: 68.0
+    z: -337.6390184639504
+    yaw: -205.94884
+    pitch: 2.0999775
+  afk:
+    world: factions
+    x: -337.30000001192093
+    y: 242.0
+    z: -337.92500001192093
+    yaw: -227.11627
+    pitch: 9.600002
+  igs:
+    world: factions
+    x: -350.69999998807907
+    y: 183.0
+    z: -350.69999998807907
+    yaw: -62.116516
+    pitch: 2.2499757
+  home:
+    world: blockparty
+    x: -2745.6765437104805
+    y: 256.0
+    z: -2740.4136161254783
+    yaw: 274.95068
+    pitch: 39.90001
+nickname: Phantom12378

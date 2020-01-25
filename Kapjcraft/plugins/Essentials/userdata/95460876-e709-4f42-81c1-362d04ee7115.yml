@@ -1,0 +1,34 @@
+lastAccountName: KupCate
+timestamps:
+  login: 1471397305623
+  logout: 1471397439449
+  lastteleport: 1470094521618
+  mute: 0
+  jail: 0
+ipAddress: 70.180.130.229
+lastlocation:
+  world: Sakurasou
+  x: 677.7022569320688
+  y: 11.0
+  z: 180.15499450034312
+  yaw: -16.088503
+  pitch: 71.84986
+logoutlocation:
+  world: Sakurasou
+  x: 669.2893473563713
+  y: 4.0
+  z: 175.93883247757307
+  yaw: 157.0115
+  pitch: 17.550024
+nickname: §l§5Bonnie
+afk: false
+homes:
+  home:
+    world: factions
+    x: 778.7624999880791
+    y: 14.0
+    z: 81.56654895651596
+    yaw: -264.45078
+    pitch: 24.149998
+muted: false
+jailed: false

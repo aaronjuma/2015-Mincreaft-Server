@@ -1,0 +1,11 @@
+enabledArenas:
+- yourEnabledArenas
+- X-Ray
+defaultLanguage: en
+timerResetOnJoin: false
+bypassCommands:
+- msg
+- ban
+- kick
+- mute
+- a

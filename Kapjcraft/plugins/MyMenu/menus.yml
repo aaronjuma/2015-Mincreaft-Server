@@ -1,0 +1,127 @@
+menus:
+  welcome:
+    inventoryName: '&4&lWelcome to MyMenu!'
+    rows: 3
+    inventory:
+      slots:
+        s0:
+          item:
+            material: SIGN
+            displayName: '&b&lMyMenu'
+            amount: 1
+            type: 0
+            itemLore:
+            - '&rCreate custom interactive menus'
+            - '&rfor easier server management'
+            - '&rand a better player experience.'
+        s16:
+          item:
+            material: DIAMOND_PICKAXE
+            displayName: '&c&lJust a pickaxe'
+            amount: 1
+            type: 0
+            itemLore:
+            - '&rThis item does nothing'
+            - '&rbut sit here.'
+        s18:
+          item:
+            material: PAPER
+            displayName: '&e&lPossible step 1'
+            amount: 1
+            type: 0
+        s4:
+          item:
+            material: SIGN
+            displayName: '&4&lMyMenu Author'
+            amount: 1
+            type: 0
+            itemLore:
+            - '&rMyMenu is brought to you'
+            - '&rby &bChaddTheMan&f.'
+        s20:
+          item:
+            material: PAPER
+            displayName: '&e&lPossible step 2'
+            amount: 2
+            type: 0
+        s22:
+          item:
+            material: PAPER
+            displayName: '&e&lPossible step 3'
+            amount: 3
+            type: 0
+        s8:
+          item:
+            material: SIGN
+            displayName: '&6&lFor More Information'
+            amount: 1
+            type: 0
+            itemLore:
+            - '&rMake sure to visit the plugin page'
+            - '&rand get a good understanding'
+            - '&rof all the features so that you can'
+            - '&ruse it as effective as possible.'
+        s24:
+          item:
+            material: PAPER
+            displayName: '&e&lPossible step 4'
+            amount: 4
+            type: 0
+        s10:
+          item:
+            material: SIGN
+            displayName: '&b&lWelcome to MyMenu!'
+            amount: 1
+            type: 0
+            itemLore:
+            - '&r&fWelcome to MyMenu!'
+            - '&r&fFor help use &b/mmhelp'
+            - '&r&fThis menu contains examples'
+            - '&r&fof possible items for a menu.'
+        s26:
+          item:
+            material: PAPER
+            displayName: '&e&lPossible step 5'
+            amount: 5
+            type: 0
+        s12:
+          commands:
+          - time set day
+          item:
+            material: WATCH
+            displayName: '&e&lTime: Day'
+            amount: 1
+            type: 0
+            itemLore:
+            - '&rClicking this item will run'
+            - '&rthe following command:'
+            - '&r&b/time set day'
+        s14:
+          commands:
+          - difficulty 0
+          item:
+            material: DIAMOND_SWORD
+            displayName: '&a&lDifficulty: Peaceful'
+            amount: 1
+            type: 0
+            itemLore:
+            - '&rClicking this item will'
+            - '&rwill run the command:'
+            - '&r&b/difficulty 0'
+  Hub:
+    inventoryName: Menu
+    author: KapjGames
+    authorUUID: f20729a4-3058-4bad-93f2-dd412fa4ec79
+    rows: 6
+    inventory:
+      slots:
+        s4:
+          commands:
+          - $warp {PLAYER} factions
+          item:
+            material: DIAMOND_SWORD
+            displayName: '&r&4&lFACTIONS'
+            amount: 1
+            type: 0
+            itemLore:
+            - '&r&3&nClick here to play factions!'

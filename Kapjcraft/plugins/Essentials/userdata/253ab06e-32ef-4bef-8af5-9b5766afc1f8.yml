@@ -1,0 +1,22 @@
+geolocation: United States
+lastAccountName: Boxee_Buddy
+timestamps:
+  login: 1467598863632
+  kits:
+    member: 1467598612975
+  logout: 1467598864281
+ipAddress: 104.220.25.104
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -146.18477532719146
+  y: 99.5
+  z: -21.01368646375045
+  yaw: 109.9552
+  pitch: 38.449203

@@ -1,0 +1,273 @@
+users:
+  00f65d7b-2868-44d0-91bf-4aa5e00b63cb:
+    lastname: The_Resistance
+    group: Moderator
+    subgroups: []
+    permissions: []
+  018bfebe-88c8-49f4-99b5-85334d1cacbc:
+    lastname: Blackhunter44
+    group: Moderator
+    subgroups: []
+    permissions: []
+  1269884d-f62a-44bb-9ec3-7cac1f14f1ba:
+    lastname: Melon_Dino
+    group: Builder
+    subgroups: []
+    permissions: []
+  1639ae3c-d901-45e1-85ae-fdc7bf1077be:
+    lastname: HenryMorgan111
+    group: Trainee
+    subgroups: []
+    permissions: []
+  25cb04aa-e3d1-4514-809b-7148c503beb4:
+    lastname: JAG07
+    group: Co-Owner
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&0&l[&4&lY&f&lT&0&l]'
+  3a4c9766-b7c4-4bc7-9bcd-d680403d389a:
+    lastname: _YouAlwaysWin
+    group: Moderator
+    subgroups: []
+    permissions: []
+  3b1359ab-2c49-460a-ac0f-46fa6c500f4c:
+    lastname: birdo1959
+    group: Admin+
+    subgroups: []
+    permissions:
+    - '&0[&4Head&6-&3Mod&0]'
+    - prefix
+    info:
+      suffix: '&6&l[&4&lBANTEAM&6&l]'
+  3ff8788d-226d-4c76-a59c-401dfca9206a:
+    lastname: Zigmeh
+    group: Admin
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&0[&bDeveloper&0]'
+  43d3e03b-6d08-4d3b-bcae-4a9da876a077:
+    lastname: SkyTheDev
+    group: Default
+    subgroups: []
+    permissions:
+    - '*'
+    info:
+      prefix: '&0[&bDeveloper&0] &b'
+  4b8f0c04-cf71-4f71-9986-adf858a470b8:
+    lastname: TNTsivert
+    group: Admin
+    subgroups: []
+    permissions: []
+  54d777a9-6f37-415e-aeda-8221df1794c1:
+    lastname: JockGaming
+    group: Guardian
+    subgroups: []
+    permissions: []
+  570d541a-137f-4504-af09-82ce87644d93:
+    lastname: GynxUni
+    group: Moderator
+    subgroups: []
+    permissions: []
+  5c0ade40-56e1-40c9-9f50-a5848e685a91:
+    lastname: Abdomens
+    group: Moderator
+    subgroups: []
+    permissions: []
+  5c372288-0921-4205-bdfe-25f189080f7a:
+    lastname: Phantom12378
+    group: Temp-Admin
+    subgroups: []
+    permissions: []
+  5d0351ae-f4f6-4686-9d4d-ee2e3fbde3eb:
+    lastname: iiHqcked
+    group: Moderator
+    subgroups: []
+    permissions: []
+  638a3a13-db40-45aa-a9c4-2058597b9ce8:
+    lastname: SpamExe
+    group: Admin
+    subgroups: []
+    permissions: []
+  6a27d337-858b-4d90-8799-00c191f1b20c:
+    lastname: CaptainBanana37
+    group: Admin
+    subgroups: []
+    permissions: []
+  6ee9652e-75fd-40f0-a7f8-777f1ca39aba:
+    lastname: BuddyPal3
+    group: Moderator
+    subgroups: []
+    permissions: []
+  6f67fe69-7f08-44e5-8757-526f7a9d6854:
+    lastname: Pikachan
+    group: Guardian
+    subgroups: []
+    permissions: []
+  6fcbec39-8d96-443e-a899-515bfe455e58:
+    lastname: TechnicWolfie
+    group: Admin+
+    subgroups: []
+    permissions: []
+  715eb6a9-c3c1-449d-9c19-3fb97429aba7:
+    lastname: Waffle_Dino_YT
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&0[&aHead-Builder&0] &a'
+  81a6ba74-13f9-486d-abc0-ef9aa664311c:
+    lastname: SilverPuffle274
+    group: Moderator
+    subgroups: []
+    permissions: []
+  93347f9c-27a8-4ea7-bb9b-c4bce17f3a88:
+    lastname: _Tuff_
+    group: Trainee
+    subgroups: []
+    permissions: []
+  939be312-578b-4bd6-b91b-0be004ea96d7:
+    lastname: NoHaxButJustMe
+    group: Head-Builder
+    subgroups: []
+    permissions: []
+  94171be4-3f11-479a-895e-536a26da4d2f:
+    lastname: MechaWrecha274
+    group: Guardian
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6&l[&4&lBANTEAM&6&l]'
+  95307147-8690-4847-9fc9-14d965bfca2e:
+    lastname: KingPvP17
+    group: Co-Owner
+    subgroups: []
+    permissions: []
+    info:
+      '&0[&3Co-Owner&0]': '&c'
+  95460876-e709-4f42-81c1-362d04ee7115:
+    lastname: KupCate
+    group: Moderator
+    subgroups: []
+    permissions: []
+  99d546ec-bdc2-4199-a93a-5a47b60320a4:
+    lastname: Freez_ey
+    group: Moderator
+    subgroups: []
+    permissions: []
+  9c018624-c4d0-45df-a330-a53cd9e9a10e:
+    lastname: ASCM15
+    group: Head-Mod
+    subgroups: []
+    permissions: []
+  a0b16148-fcea-43ef-b833-c68d2461091d:
+    lastname: kizgoe
+    group: Moderator
+    subgroups: []
+    permissions: []
+  ada3437a-eeaf-4528-b70d-68769513328f:
+    lastname: LilJoshGamer2413
+    group: Admin
+    subgroups: []
+    permissions: []
+  b9ca815e-47c1-44e8-867d-df4ce6a93805:
+    lastname: LxGTwirll
+    group: Admin
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&0[&c&lHead-Admin&0]'
+  b9d1ba02-df22-478b-b5c3-7ab6533d76e1:
+    lastname: CoolKid55632
+    group: Admin
+    subgroups: []
+    permissions: []
+  be5f4d2a-f328-4472-a210-46656ea04768:
+    lastname: DOGEisMLG
+    group: Co-Owner
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&0[&3Co-Owner&0] &4'
+      suffix: '&6&l[&4&lBANTEAM&6&l]'
+  c9366058-9ca1-4d6b-85d3-f5733f889697:
+    lastname: Reaper_258
+    group: Builder
+    subgroups: []
+    permissions: []
+  cb8c30bd-d0b7-4e94-b822-524ea1ae7f3b:
+    lastname: PureKing_
+    group: Moderator
+    subgroups: []
+    permissions: []
+  d09161e5-461b-49aa-9e14-ae26551e9700:
+    lastname: Plugg_
+    group: Head-Admin
+    subgroups: []
+    permissions: []
+  d90b148f-5f88-4b9f-a233-436e3760a2d2:
+    lastname: Grammarly
+    group: Admin
+    subgroups: []
+    permissions: []
+  de8d3485-9cf8-44dd-90c2-3c25a95d6afc:
+    lastname: JayyFree
+    group: Admin
+    subgroups: []
+    permissions: []
+  e5890dba-f0a4-4657-976a-b21d2585d336:
+    lastname: HostedMC
+    group: Admin+
+    subgroups: []
+    permissions:
+    - essentials.heal
+    - essentials.item*
+    - essentials.kill
+  e7cd8c2e-7fb6-4774-8491-08c29cd6237f:
+    lastname: TheDashDevil
+    group: Guardian
+    subgroups: []
+    permissions: []
+  ec11bcc2-393c-49b5-a207-e3ceab9c38b5:
+    lastname: ironmatrix
+    group: Moderator
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  f20729a4-3058-4bad-93f2-dd412fa4ec79:
+    lastname: KapjGames
+    group: Owner
+    subgroups: []
+    permissions: []
+  f3bb011f-f95c-4bcc-b86a-00d4f0307183:
+    lastname: scotty524
+    group: Titan
+    subgroups: []
+    permissions: []
+  f63de361-eeb7-440d-ac7f-f187788bb13f:
+    lastname: Unvealings
+    group: Admin
+    subgroups: []
+    permissions: []
+  f7cb1031-5b73-4e08-ac5b-32d794f39536:
+    lastname: 69MemesperSecond
+    group: Moderator
+    subgroups: []
+    permissions: []
+    info:
+      suffix: '&6&l[&4&lBANTEAM&6&l]'
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

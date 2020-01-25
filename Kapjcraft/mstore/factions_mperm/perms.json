@@ -1,0 +1,11 @@
+{
+  "priority": 23000,
+  "name": "perms",
+  "desc": "manage permissions",
+  "standard": [
+    "LEADER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

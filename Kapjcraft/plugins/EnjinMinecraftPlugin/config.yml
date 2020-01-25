@@ -1,0 +1,21 @@
+debug: false
+authkey: ''
+https: true
+autoupdate: true
+collectplayerstats: true
+sendstatsinterval: 5
+listenforbans: true
+statscollected:
+  player:
+    travel: true
+    blocksbroken: true
+    blocksplaced: true
+    kills: true
+    deaths: true
+    xp: true
+  server:
+    creeperexplosions: true
+    playerkicks: true
+buycommand: buy
+usebuygui: true
+loggingenabled: true

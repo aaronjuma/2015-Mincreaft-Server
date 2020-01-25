@@ -1,0 +1,21 @@
+lastAccountName: scotty524
+timestamps:
+  login: 1470514884464
+  lastteleport: 1470515026450
+  logout: 1470515735163
+ipAddress: 24.127.63.20
+lastlocation:
+  world: minigames
+  x: -131.3432018002348
+  y: 9.0
+  z: 28.848629142596042
+  yaw: 175.42566
+  pitch: 3.0621662
+logoutlocation:
+  world: spawn
+  x: 4.801493769472942
+  y: 111.0
+  z: 5.74297989567543
+  yaw: -238.27466
+  pitch: 38.87678
+money: '200'

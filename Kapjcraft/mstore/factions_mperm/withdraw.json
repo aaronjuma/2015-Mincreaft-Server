@@ -1,0 +1,11 @@
+{
+  "priority": 16000,
+  "name": "withdraw",
+  "desc": "withdraw money",
+  "standard": [
+    "LEADER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

@@ -1,0 +1,38 @@
+lastAccountName: Plugg_
+timestamps:
+  login: 1471151735459
+  lastteleport: 1471152492211
+  kits:
+    member: 1468115869842
+    sniper: 1468115876543
+  logout: 1471152636094
+  mute: 0
+ipAddress: 40.134.85.24
+geolocation: United States
+lastlocation:
+  world: spawn
+  x: 3.3995436205302867
+  y: 111.5
+  z: 11.222664801091419
+  yaw: -109.01323
+  pitch: 56.84683
+logoutlocation:
+  world: spawn
+  x: 164.9935659941463
+  y: 5.0155550727022
+  z: -135.10621699730734
+  yaw: -257.3274
+  pitch: 21.290625
+afk: false
+muted: false
+homes:
+  tnt:
+    world: minigames
+    x: 4506.133429174644
+    y: 43.0
+    z: -3740.6310938082274
+    yaw: -73.83374
+    pitch: 5.948027
+socialspy: true
+godmode: false
+nickname: §6§lYoBoiPlugg

@@ -1,0 +1,13 @@
+{
+  "priority": 1000,
+  "name": "build",
+  "desc": "edit the terrain",
+  "standard": [
+    "LEADER",
+    "OFFICER",
+    "MEMBER"
+  ],
+  "territory": true,
+  "editable": true,
+  "visible": true
+}

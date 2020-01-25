@@ -1,0 +1,34 @@
+geolocation: United States
+lastAccountName: BuddyPal3
+timestamps:
+  login: 1471139647810
+  lastteleport: 1471139555536
+  kits:
+    member: 1468353994417
+    scout: 1467687917372
+    titan: 1469111724846
+    heavy: 1469111729049
+  logout: 1471140036009
+  mute: 0
+  jail: 0
+ipAddress: 173.184.93.89
+lastlocation:
+  world: spawn
+  x: 143.1977193084067
+  y: 9.45002195483291
+  z: -122.96696061380682
+  yaw: 76.8607
+  pitch: 16.350039
+nickname: Buddy
+logoutlocation:
+  world: spawn
+  x: 140.98741756379798
+  y: 4.0
+  z: -152.58062997418807
+  yaw: 263.16058
+  pitch: 23.849983
+afk: false
+muted: false
+money: '-300.0'
+jailed: false
+socialspy: true

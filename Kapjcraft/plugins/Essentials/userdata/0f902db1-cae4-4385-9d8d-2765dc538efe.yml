@@ -1,0 +1,21 @@
+geolocation: United Kingdom
+lastAccountName: Unit_56
+timestamps:
+  login: 1459112290866
+  lastteleport: 1459116162053
+  logout: 1459116652517
+ipAddress: 90.214.160.37
+lastlocation:
+  world: world
+  x: -129.5613190419972
+  y: 102.0
+  z: -23.94421741946405
+  yaw: 12.8105545
+  pitch: 4.770894
+logoutlocation:
+  world: flatroom
+  x: 97.463546073781
+  y: 130.37335169963848
+  z: 67.32043284390465
+  yaw: -227.64178
+  pitch: 45.12495

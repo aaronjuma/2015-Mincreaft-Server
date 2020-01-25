@@ -1,0 +1,30 @@
+lastAccountName: oSonorous
+timestamps:
+  login: 1468632337937
+  kits:
+    member: 1468631317381
+  lastteleport: 1468631993619
+  logout: 1468635786614
+ipAddress: 50.27.104.234
+lastlocation:
+  world: factions
+  x: -1.233431914364363
+  y: 69.0
+  z: -18.332265412806567
+  yaw: 84.028465
+  pitch: 19.645208
+homes:
+  home:
+    world: factions
+    x: -343.6934584916773
+    y: 268.759447218685
+    z: -349.76156166966143
+    yaw: 63.276474
+    pitch: 50.986343
+logoutlocation:
+  world: factions
+  x: -78.94076904512899
+  y: 79.0
+  z: -102.69999998807907
+  yaw: -186.44362
+  pitch: 8.217416

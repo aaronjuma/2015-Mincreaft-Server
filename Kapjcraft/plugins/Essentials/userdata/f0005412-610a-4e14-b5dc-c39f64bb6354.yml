@@ -1,0 +1,23 @@
+geolocation: Canada
+lastAccountName: EpixSwagLolZ
+timestamps:
+  login: 1471472827649
+  logout: 1471472940434
+  lastteleport: 1459719627967
+  kits:
+    member: 1459719751351
+ipAddress: 72.137.99.25
+lastlocation:
+  world: world
+  x: -121.0
+  y: 72.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: plots
+  x: -24.506606135595167
+  y: 64.0
+  z: 19.717203578932278
+  yaw: 336.59982
+  pitch: -20.400053

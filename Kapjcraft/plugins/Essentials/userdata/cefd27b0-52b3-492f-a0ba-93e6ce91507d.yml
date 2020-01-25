@@ -1,0 +1,20 @@
+geolocation: Norway
+lastAccountName: trikop
+timestamps:
+  login: 1459111224146
+  logout: 1459111249647
+ipAddress: 2.150.54.238
+lastlocation:
+  world: world
+  x: -121.0
+  y: 70.0
+  z: -25.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -120.5
+  y: 70.0
+  z: -24.5
+  yaw: -177.90108
+  pitch: 8.700151

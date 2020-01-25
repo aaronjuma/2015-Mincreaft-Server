@@ -1,0 +1,11 @@
+{
+  "priority": 7000,
+  "name": "name",
+  "desc": "set name",
+  "standard": [
+    "LEADER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

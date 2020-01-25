@@ -1,0 +1,21 @@
+geolocation: Australia
+lastAccountName: ThatOneGurl
+timestamps:
+  login: 1467601382944
+  lastteleport: 1467602975450
+  logout: 1467605856452
+ipAddress: 58.111.81.189
+lastlocation:
+  world: world
+  x: -123.59830293873176
+  y: 41.0
+  z: -13.39186491075845
+  yaw: -98.999794
+  pitch: 59.400024
+logoutlocation:
+  world: world
+  x: -121.30000001192091
+  y: 101.875
+  z: -17.816823213190098
+  yaw: 102.30564
+  pitch: 24.149982

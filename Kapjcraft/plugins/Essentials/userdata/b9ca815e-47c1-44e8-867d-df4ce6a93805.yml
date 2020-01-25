@@ -1,0 +1,40 @@
+lastAccountName: LxGTwirll
+timestamps:
+  login: 1459112290865
+  lastteleport: 1459116479983
+  logout: 1459115202599
+  kits:
+    notch: 1459110438790
+ipAddress: 90.200.127.177
+geolocation: United Kingdom
+lastlocation:
+  world: world
+  x: -126.49869842459016
+  y: 101.0
+  z: -16.721144028604087
+  yaw: -184.34943
+  pitch: 23.338142
+logoutlocation:
+  world: world
+  x: -119.00828070354201
+  y: 174.03785391587274
+  z: -28.003050843324928
+  yaw: -104.77307
+  pitch: 18.902048
+homes:
+  apply:
+    world: world
+    x: -116.30000001192093
+    y: 40.0
+    z: -14.300000011920929
+    yaw: 104.37162
+    pitch: 2.2027974
+  spawnw:
+    world: world
+    x: -124.21573679927384
+    y: 171.5
+    z: -22.526446215656954
+    yaw: 253.00046
+    pitch: 7.949982
+socialspy: true
+nickname: §6§oTwirll

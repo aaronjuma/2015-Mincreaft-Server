@@ -1,0 +1,21 @@
+geolocation: Australia
+lastAccountName: UtrlmanGaming
+timestamps:
+  login: 1469789736847
+  lastteleport: 1469328136067
+  logout: 1469789766769
+ipAddress: 121.211.135.45
+lastlocation:
+  world: world
+  x: -129.59115536314386
+  y: 100.0
+  z: -35.64253690520032
+  yaw: 176.76117
+  pitch: 16.052227
+logoutlocation:
+  world: minigames
+  x: -131.54267270366572
+  y: 3.0
+  z: 51.42217134855436
+  yaw: 346.07263
+  pitch: 12.707394

@@ -1,0 +1,60 @@
+configuration:
+  MinPlayers: 2
+  MaxPlayers: 15
+  Countdown: 30
+  AutoRestart: true
+  AutoKick: false
+  OutBlock: 7
+  TimeToSearch: 8
+  TimeReductionPerLevel: 0.5
+  Level: 15
+  UseBoosts: true
+  BoostDuration: 10
+  FallingBlocks: true
+  AutoGenerateFloors: true
+  UseSchematicFloors: true
+  EnableActionbarInfo: true
+  EnabledFloors:
+  - example
+  RewardItems:
+  - 264
+  UseSongs: true
+  Songs:
+  - Hold The Line
+  EnableFireworksOnWon: true
+  TimerResetOnPlayerJoin: true
+  AllowJoinDuringGame: true
+  useSongs: true
+  floor:
+    length: 41
+    width: 41
+dontChange:
+  Game: true
+  Lobby: true
+floor:
+  floorPoints: true
+  min:
+    xPos: -203.0
+    yPos: 31.0
+    zPos: 6.0
+    World: blockparty
+  max:
+    xPos: -163.0
+    yPos: 31.0
+    zPos: 46.0
+    World: blockparty
+spawns:
+  Lobby:
+    xPos: -206.37059670591944
+    yPos: 32.0
+    zPos: 50.2574071872801
+    Yaw: -128.6659
+    Pitch: 6.8999934
+    World: blockparty
+  Game:
+    xPos: -182.48938209696266
+    yPos: 32.0
+    zPos: 26.890421062088762
+    Yaw: -358.76843
+    Pitch: 0.75000554
+    World: blockparty

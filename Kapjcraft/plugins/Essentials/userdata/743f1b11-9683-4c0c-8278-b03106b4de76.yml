@@ -1,0 +1,30 @@
+lastAccountName: WitherGadgets
+timestamps:
+  login: 1467691119364
+  lastteleport: 1467690006154
+  kits:
+    member: 1467687320808
+  logout: 1467691351693
+ipAddress: 71.246.202.243
+lastlocation:
+  world: factions
+  x: 193.13576196476697
+  y: 58.0
+  z: 77.30000001192093
+  yaw: -269.9946
+  pitch: 29.549892
+homes:
+  home:
+    world: factions
+    x: 96.9190670148277
+    y: 47.0
+    z: -350.2115182668346
+    yaw: -104.536804
+    pitch: -24.299925
+logoutlocation:
+  world: factions
+  x: 190.9741949303081
+  y: 58.0
+  z: 83.46146680086105
+  yaw: 115.05512
+  pitch: 5.1000323

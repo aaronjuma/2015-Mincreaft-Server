@@ -1,0 +1,12 @@
+{
+  "priority": 11000,
+  "name": "kick",
+  "desc": "kick members",
+  "standard": [
+    "LEADER",
+    "OFFICER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

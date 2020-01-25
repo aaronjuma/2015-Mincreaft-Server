@@ -1,0 +1,33 @@
+broadcaster:
+    #Should the plugin debug?
+    debugging: false
+
+    global:
+        #Who will be the announcer? Ex: [AutoBroadcaster]: Message
+        announcerName: '&6[&4&lKapj&1&lCraft&6]: '
+
+        #Interval, in seconds
+        interval: 600
+
+        #Should messages be sent to console as well?
+        broadcast-to-console: true
+
+        #Minimum number of players before any message is broadcasted (0 to broadcast even if no one is online)
+        min-players: 1
+        #What the messages file should be split by (Don't modify this unless you know what you're doing!)
+        delimeter: '\n'
+
+    # To customize settings for a world, say a world named Test, you can simply create a new section. Any settings you don't
+    # fill out are defaulted to the global settings. Example:
+    #Test:
+        #announcerName: '[&4AutoBroadcaster&f]: '
+
+        ## If you wanted the rest to be like global, you could just delete them or leave them commented :)
+
+        #interval: 60
+
+        #broadcast-to-console: false
+
+        #min-players: 1
+
+        #delimeter: '\n'

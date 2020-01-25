@@ -1,0 +1,23 @@
+geolocation: Norway
+lastAccountName: TNTsivert
+timestamps:
+  login: 1459705913504
+  logout: 1459705976172
+  lastteleport: 1459701718181
+ipAddress: 89.11.145.3
+lastlocation:
+  world: shop
+  x: 4.014632906054927
+  y: 20.328574209943646
+  z: 6.102885373044132
+  yaw: 266.01434
+  pitch: 25.600262
+logoutlocation:
+  world: world
+  x: -130.28993747724564
+  y: 105.000134140391
+  z: -7.441396930437836
+  yaw: 43.46515
+  pitch: 30.863352
+nickname: §l§4TNT§bSivert
+afk: false

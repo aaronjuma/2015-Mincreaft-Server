@@ -1,0 +1,21 @@
+lastAccountName: The_Resistance
+timestamps:
+  login: 1459109224438
+  lastteleport: 1459107970082
+  logout: 1459109565887
+ipAddress: 81.204.76.63
+geolocation: Netherlands
+lastlocation:
+  world: world
+  x: -120.39365750856759
+  y: 70.0
+  z: -24.092194170577258
+  yaw: -15.340742
+  pitch: -3.249335
+logoutlocation:
+  world: world
+  x: -125.93440238053309
+  y: 41.0
+  z: -15.514699200424394
+  yaw: -26.026184
+  pitch: 9.54798

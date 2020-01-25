@@ -1,0 +1,12 @@
+{
+  "priority": 9000,
+  "name": "motd",
+  "desc": "set motd",
+  "standard": [
+    "LEADER",
+    "OFFICER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

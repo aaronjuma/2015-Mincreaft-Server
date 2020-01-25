@@ -1,0 +1,12 @@
+{
+  "priority": 20000,
+  "name": "rel",
+  "desc": "change relations",
+  "standard": [
+    "LEADER",
+    "OFFICER"
+  ],
+  "territory": false,
+  "editable": true,
+  "visible": true
+}

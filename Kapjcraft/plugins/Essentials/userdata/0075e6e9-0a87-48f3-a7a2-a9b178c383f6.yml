@@ -1,0 +1,20 @@
+geolocation: Sweden
+lastAccountName: Diskaka
+timestamps:
+  login: 1459108574566
+  lastteleport: 1459108623650
+ipAddress: 85.226.93.246
+lastlocation:
+  world: world
+  x: -123.82047337021922
+  y: 70.0
+  z: -32.37568115355141
+  yaw: 242.69897
+  pitch: -6.4499803
+logoutlocation:
+  world: world
+  x: -125.87530904748134
+  y: 41.0
+  z: -16.984469384979654
+  yaw: 310.95074
+  pitch: 6.750033

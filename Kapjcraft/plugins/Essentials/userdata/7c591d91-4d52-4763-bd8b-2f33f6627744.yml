@@ -1,0 +1,23 @@
+lastAccountName: jackh48
+timestamps:
+  login: 1459110578681
+  lastteleport: 1459111801393
+  mute: 0
+  logout: 1459112085164
+ipAddress: 73.183.27.233
+geolocation: United States
+lastlocation:
+  world: world
+  x: -129.30000001192096
+  y: 70.0
+  z: -25.69999998807907
+  yaw: -95.10089
+  pitch: 1.9501601
+muted: true
+logoutlocation:
+  world: world
+  x: -129.38338148057827
+  y: 72.0
+  z: -18.96538503236216
+  yaw: -3.9011536
+  pitch: -0.44984594

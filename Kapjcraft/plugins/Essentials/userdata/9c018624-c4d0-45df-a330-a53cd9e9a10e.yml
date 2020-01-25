@@ -1,0 +1,33 @@
+lastAccountName: ASCM15
+timestamps:
+  login: 1471565406770
+  lastteleport: 1471565871664
+  logout: 1471566280755
+  kits:
+    titan: 1468634791002
+ipAddress: 24.126.249.160
+lastlocation:
+  world: skywars
+  x: 9.0
+  y: 6.0
+  z: -1.0
+  yaw: -89.0
+  pitch: 39.0
+logoutlocation:
+  world: skywars
+  x: 162.33640145922834
+  y: 11.023183140285024
+  z: 28.199383731282044
+  yaw: 142.06021
+  pitch: 26.100002
+afk: false
+homes:
+  home:
+    world: minigames
+    x: 4506.173103856762
+    y: 43.5
+    z: -3744.5132458128096
+    yaw: -4.5334473
+    pitch: 20.700018
+nickname: Mr_Panda
+socialspy: true

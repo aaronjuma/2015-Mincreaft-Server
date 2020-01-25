@@ -1,0 +1,31 @@
+lastAccountName: Nwaynet
+timestamps:
+  login: 1468778139070
+  kits:
+    member: 1468455572404
+  lastteleport: 1468632485468
+  logout: 1468778182223
+ipAddress: 68.103.218.138
+lastlocation:
+  world: world
+  x: -129.28252693826755
+  y: 72.0
+  z: -21.72109317846429
+  yaw: -184.94409
+  pitch: 9.349156
+money: '0.0'
+homes:
+  home:
+    world: factions
+    x: 364.4303923670824
+    y: 69.0
+    z: -2.65494456883104
+    yaw: 273.15045
+    pitch: 13.049998
+logoutlocation:
+  world: factions
+  x: -5.9451170964584525
+  y: 23.0
+  z: 14.041376625078328
+  yaw: -354.15164
+  pitch: 10.499977

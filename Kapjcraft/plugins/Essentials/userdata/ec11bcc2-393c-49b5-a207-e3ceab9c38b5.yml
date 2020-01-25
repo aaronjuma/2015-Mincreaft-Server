@@ -1,0 +1,39 @@
+lastAccountName: ironmatrix
+timestamps:
+  login: 1469584953987
+  lastteleport: 1469247322240
+  kits:
+    member: 1469247233109
+    archer: 1469247211858
+    scout: 1468355970782
+    sniper: 1468375094572
+    titan: 1469247205251
+    heavy: 1468375085320
+  logout: 1469586467448
+  jail: 0
+ipAddress: 68.200.231.49
+lastlocation:
+  world: minigames
+  x: 130.60538787335128
+  y: 76.0
+  z: 177.4668760565239
+  yaw: 223.25763
+  pitch: 17.233936
+logoutlocation:
+  world: plots
+  x: 35.300000011920936
+  y: 65.0
+  z: 107.96495374799635
+  yaw: -282.4154
+  pitch: 33.59805
+homes:
+  op:
+    world: factions
+    x: -32991.15131846206
+    y: 76.0
+    z: 33846.63412214783
+    yaw: 282.40753
+    pitch: 31.247965
+money: '42738.0'
+afk: false
+jailed: false

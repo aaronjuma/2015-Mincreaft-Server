@@ -1,0 +1,27 @@
+Data Version: 2
+Crate Locations:
+  vote:
+  - shop|2|8|41
+  - shop|2|8|41
+  - world|-122|101|-21
+  - world|-134|72|-55
+  - factions|34|46|-19
+  hi:
+  - shop|11|8|50
+  insane:
+  - shop|-7|8|50
+  - shop|-7|8|50
+  - world|-130|101|-29
+  - factions|34|48|-17
+  master:
+  - shop|2|8|59
+  - shop|2|8|59
+  - world|-138|101|-21
+  - factions|35|47|-18
+  normal:
+  - shop|10|7|48
+  - shop|11|8|50
+  - world|-130|101|-13
+  - factions|35|47|-20
+  legendary:
+  - factions|34|48|-21
